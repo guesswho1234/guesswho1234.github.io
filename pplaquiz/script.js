@@ -1,3 +1,25 @@
+document.onkeydown = function(evt) {
+	evt = evt || window.event;
+	
+	switch (evt.keyCode) {
+			case 37: // left arrow
+				previousQuestion();
+				break;
+			case 38: // up arrow
+				nextQuestion(true);
+				break;
+			case 39: // right arrow
+				nextQuestion();
+				break;
+			case 40: // down arrow
+				checkQuestion();
+				break;
+			case 13: // enter
+				submitCardset();
+				break;
+		}
+};
+
 // An object for a Quiz, which will contain Question objects.
 var Quiz = function(quiz_name) {
 	// Private fields for an instance of a Quiz object.
@@ -55,36 +77,49 @@ Quiz.prototype.render = function(container) {
 	change_question();
 	
 	// Add listener for the check question button
-	$('#check-question-button').click(function() {
+	checkQuestion = function() {
 		$('#' + self.questions[current_question_index].correct_choice_index).toggleClass('checkAnswer');
-	});
+	}
+	
+	$('#check-question-button').click(checkQuestion);
 
 	// Add listener for the previous question button
-	$('#prev-question-button').click(function() {
+	previousQuestion = function() {
 		if (current_question_index > 0) {
 			current_question_index--;
 			change_question();
 			$('#quiz-name').text(self.quiz_name + " (" + (current_question_index + 1) + "/" + self.questions.length + ")");
 		}
-	});
+	}
+	
+	$('#prev-question-button').click(previousQuestion);
 
 	// Add listener for the next question button
-	$('#next-question-button').click(function() {
+	nextQuestion = function($s = false) {
 		if (current_question_index < self.questions.length - 1) {		
 			$('#' + self.questions[current_question_index].correct_choice_index).addClass('checkAnswer');
-			$('#' + self.questions[current_question_index].correct_choice_index + '.checkAnswer').fadeOut();
-			$('#' + self.questions[current_question_index].correct_choice_index + '.checkAnswer').fadeIn();
 			
-			$('#' + self.questions[current_question_index].correct_choice_index + '.checkAnswer').fadeIn(function() {
+			if($s == true) {
+				$('#' + self.questions[current_question_index].correct_choice_index + '.checkAnswer').fadeOut();
+				$('#' + self.questions[current_question_index].correct_choice_index + '.checkAnswer').fadeIn();
+
+				$('#' + self.questions[current_question_index].correct_choice_index + '.checkAnswer').fadeIn(function() {
+					current_question_index++;
+					change_question();
+					$('#quiz-name').text(self.quiz_name + " (" + (current_question_index + 1) + "/" + self.questions.length + ")");
+				});
+			} else {
 				current_question_index++;
 				change_question();
 				$('#quiz-name').text(self.quiz_name + " (" + (current_question_index + 1) + "/" + self.questions.length + ")");
-			});
+			}
 		}
-	});
+	}
+	
+	$('#next-question-button').click(nextQuestion);
 
 	// Add listener for the submit answers button
-	$('#submit-button').click(function() {
+	submitCardset = function() {
 		// Determine how many questions the user got right
 		var score = 0;
 		for (var i = 0; i < self.questions.length; i++) {
@@ -113,7 +148,9 @@ Quiz.prototype.render = function(container) {
 		$('#quiz-results-message').text(message);
 		$('#quiz-results-score').html('<b>' + score + '/' + self.questions.length + '</b> Fragen wurden richtig beantwortet.');
 		$('#quiz-results').show();
-	});
+	}
+	
+	$('#submit-button').click(submitCardset);
 
 	// Add a listener on the questions container to listen for user select changes. This is for determining whether we can submit answers or not.
 	question_container.bind('user-select-change', function() {
