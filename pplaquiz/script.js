@@ -1,3 +1,10 @@
+//Anlagen hinzufügen
+//Zufällige Reihenfolge ja/nein
+//Springe zu Fragennummer
+//verschiedene Cardsets wählen
+//buttons nächste/vorherige frage rechts/links der fragen anordnen
+//maximale breite der fragen (responsive)
+
 document.onkeydown = function(evt) {
 	evt = evt || window.event;
 	
@@ -53,7 +60,7 @@ Quiz.prototype.render = function(container) {
 		$('#question').remove();
 	} 
 	
-	var question_container = $('<div>').attr('id', 'question').insertAfter('#quiz-name');
+	var question_container = $('<div>').attr('id', 'question').insertAfter('#prev-question-button');
 	
 	// Helper function for changing the question and updating the buttons
 	function change_question() {
