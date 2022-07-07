@@ -6,8 +6,9 @@
 <body>
 <div>
 <script>
-	const jsonData= require('test/test.json'); 
-	console.log(jsonData);
+	$.getJSON('test/test.json', function(data) {         
+		alert(data);
+	});
 </script>
 </div>
 </body>
