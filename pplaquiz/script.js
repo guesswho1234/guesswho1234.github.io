@@ -1,9 +1,6 @@
 //Anlagen hinzufügen
 //Zufällige Reihenfolge ja/nein
 //Springe zu Fragennummer
-//verschiedene Cardsets wählen
-//buttons nächste/vorherige frage rechts/links der fragen anordnen
-//maximale breite der fragen (responsive)
 
 document.onkeydown = function(evt) {
 	evt = evt || window.event;
