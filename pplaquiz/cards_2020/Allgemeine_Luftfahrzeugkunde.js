@@ -1,7 +1,8 @@
 var Allgemeine_Luftfahrzeugkunde_s = "Allgemeine_Luftfahrzeugkunde";
 var Allgemeine_Luftfahrzeugkunde_q = [
  {
-  "question_string":"1   Die \"Fl\u00fcgeldicke\" ist die Distanz zwischen Fl\u00fcgelunterseite und Fl\u00fcgeloberseite an\nder... (1,00 P.)",
+  "question_string":"1 Die \"Fl\u00fcgeldicke\" ist die Distanz zwischen Fl\u00fcgelunterseite und Fl\u00fcgeloberseite an\nder... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"dicksten Stelle der Tragfl\u00e4che.",
    "wrong":[
@@ -12,7 +13,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"2   Wie nennt man eine Stahlrohrkonstruktion mit einer nichttragenden Bespannung?\n(1,00 P.)",
+  "question_string":"2 Wie nennt man eine Stahlrohrkonstruktion mit einer nichttragenden Bespannung?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Gitter-Konstruktion oder Fachwerkbauweise",
    "wrong":[
@@ -23,7 +25,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"3   Woraus besteht grunds\u00e4tzlich die Rumpfbaugruppe bei Holz- und Metallflugzeugen?\n(1,00 P.)",
+  "question_string":"3 Woraus besteht grunds\u00e4tzlich die Rumpfbaugruppe bei Holz- und Metallflugzeugen?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Spanten und Gurten",
    "wrong":[
@@ -34,7 +37,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"4   Welche Tragfl\u00e4chenanordnung zeigt die Abbildung?\nSiehe Bild (AGK-002) (1,00 P.)\nSiehe Anlage 1",
+  "question_string":"4 Welche Tragfl\u00e4chenanordnung zeigt die Abbildung?\nSiehe Bild (AGK-002) (1,00 P.)\nSiehe Anlage 1",
+  "annex":"cards_2020/img/80/a1",
   "choices":{
    "correct":"Abgestrebter Schulterdecker",
    "wrong":[
@@ -45,7 +49,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"5   Wie wird eine Konstruktion aus Spanten und Gurten genannt, die eine mittragende\nBeplankung aufweist? (1,00 P.)",
+  "question_string":"5 Wie wird eine Konstruktion aus Spanten und Gurten genannt, die eine mittragende\nBeplankung aufweist? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Halbschalenbauweise",
    "wrong":[
@@ -56,7 +61,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"6   Welche Leitwerksform zeigt die Abbildung?\nSiehe Bild (AGK-003) (1,00 P.)\nSiehe Anlage 2",
+  "question_string":"6 Welche Leitwerksform zeigt die Abbildung?\nSiehe Bild (AGK-003) (1,00 P.)\nSiehe Anlage 2",
+  "annex":"cards_2020/img/80/a2",
   "choices":{
    "correct":"T-Leitwerk",
    "wrong":[
@@ -67,7 +73,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"7    Welche Bauteile geh\u00f6ren zum Leitwerk eines Luftfahrzeuges? (1,00 P.)",
+  "question_string":"7  Welche Bauteile geh\u00f6ren zum Leitwerk eines Luftfahrzeuges? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"H\u00f6henleitwerk und Seitenleitwerk",
    "wrong":[
@@ -78,7 +85,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"8    Die Sandwichbauweise besteht aus... (1,00 P.)",
+  "question_string":"8  Die Sandwichbauweise besteht aus... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"zwei d\u00fcnnen tragenden Oberschichten und einem leichten st\u00fctzenden Kernmaterial.",
    "wrong":[
@@ -89,7 +97,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"9    Welche Konstruktionselemente geben der Tragfl\u00e4che ihre Profilkontur (Profilform)?\n(1,00 P.)",
+  "question_string":"9  Welche Konstruktionselemente geben der Tragfl\u00e4che ihre Profilkontur (Profilform)?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Rippen",
    "wrong":[
@@ -100,7 +109,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"10   Das Lastvielfache \"n\" beschreibt das Verh\u00e4ltnis von... (1,00 P.)",
+  "question_string":"10 Das Lastvielfache \"n\" beschreibt das Verh\u00e4ltnis von... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Auftriebs- und Gewichtskraft.",
    "wrong":[
@@ -111,7 +121,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"11   Welche Vorteile hat die Sandwich-Bauweise? (1,00 P.)",
+  "question_string":"11 Welche Vorteile hat die Sandwich-Bauweise? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Geringe Masse, hohe Steifigkeit, hohe Stabilit\u00e4t und hohe Festigkeit",
    "wrong":[
@@ -122,7 +133,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"12   Welches der genannten Materialien weist die gr\u00f6\u00dfte Festigkeit auf? (1,00 P.)",
+  "question_string":"12 Welches der genannten Materialien weist die gr\u00f6\u00dfte Festigkeit auf? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Karbonfaserkunststoff (CFK)",
    "wrong":[
@@ -133,7 +145,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"13   Was ist zu beachten, wenn die strukturellen Grenzwerte eines Luftfahrzeuges\n\u00fcberschritten wurden? (1,00 P.)",
+  "question_string":"13 Was ist zu beachten, wenn die strukturellen Grenzwerte eines Luftfahrzeuges\n\u00fcberschritten wurden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Das Luftfahrzeug muss durch luftfahrttechnisches Personal \u00fcberpr\u00fcft werden",
    "wrong":[
@@ -144,7 +157,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"14   Dellen in der Luftfahrzeugstruktur geben Aufschluss \u00fcber... (1,00 P.)",
+  "question_string":"14 Dellen in der Luftfahrzeugstruktur geben Aufschluss \u00fcber... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"harte Landung oder \u00dcberbeanspruchung.",
    "wrong":[
@@ -155,7 +169,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"15   Welche Art von Hydraulik\u00f6l wird in der Luftfahrt in der Regel verwendet? (1,00 P.)",
+  "question_string":"15 Welche Art von Hydraulik\u00f6l wird in der Luftfahrt in der Regel verwendet? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Synthetisches \u00d6l",
    "wrong":[
@@ -166,7 +181,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"16   Welches Bauteil eines Bugfahrwerks bezeichnet Nummer 1 in der Abbildung?\nSiehe Bild (AGK-005) (1,00 P.)\nSiehe Anlage 3",
+  "question_string":"16 Welches Bauteil eines Bugfahrwerks bezeichnet Nummer 1 in der Abbildung?\nSiehe Bild (AGK-005) (1,00 P.)\nSiehe Anlage 3",
+  "annex":"cards_2020/img/80/a3",
   "choices":{
    "correct":"Federbeingabel",
    "wrong":[
@@ -177,7 +193,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"17   Wodurch wird die statische Festigkeit der Zelle beeintr\u00e4chtigt? (1,00 P.)",
+  "question_string":"17 Wodurch wird die statische Festigkeit der Zelle beeintr\u00e4chtigt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"\u00dcberschreitung der Man\u00f6vergeschwindigkeit bei heftigen B\u00f6en",
    "wrong":[
@@ -188,7 +205,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"18   Welches Bauteil eines Bugfahrwerks bezeichnet Nummer 2 in der Abbildung?\nSiehe Bild (AGK-005) (1,00 P.)\nSiehe Anlage 3",
+  "question_string":"18 Welches Bauteil eines Bugfahrwerks bezeichnet Nummer 2 in der Abbildung?\nSiehe Bild (AGK-005) (1,00 P.)\nSiehe Anlage 3",
+  "annex":"cards_2020/img/80/a3",
   "choices":{
    "correct":"Innerer Federbeinzylinder",
    "wrong":[
@@ -199,7 +217,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"19   Wie wird bei Kleinflugzeugen und Motorseglern in der Regel die Bug- oder\nSpornradlenkung angesteuert? (1,00 P.)",
+  "question_string":"19 Wie wird bei Kleinflugzeugen und Motorseglern in der Regel die Bug- oder\nSpornradlenkung angesteuert? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"\u00dcber die Pedale",
    "wrong":[
@@ -210,7 +229,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"20   Wo ist das Bremssystem zur Verz\u00f6gerung des Luftfahrzeuges am Boden angebracht?\n(1,00 P.)",
+  "question_string":"20 Wo ist das Bremssystem zur Verz\u00f6gerung des Luftfahrzeuges am Boden angebracht?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Nur am Hauptfahrwerk",
    "wrong":[
@@ -221,7 +241,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"21   Welches Ruder ist mit der Bug- oder Spornradsteuerung verbunden? (1,00 P.)",
+  "question_string":"21 Welches Ruder ist mit der Bug- oder Spornradsteuerung verbunden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Seitenruder",
    "wrong":[
@@ -232,7 +253,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"22   Was wird anhand der Markierung auf der Abbildung \u00fcberpr\u00fcft?\nSiehe Bild (AGK-006) (1,00 P.)\nSiehe Anlage 4",
+  "question_string":"22 Was wird anhand der Markierung auf der Abbildung \u00fcberpr\u00fcft?\nSiehe Bild (AGK-006) (1,00 P.)\nSiehe Anlage 4",
+  "annex":"cards_2020/img/80/a4",
   "choices":{
    "correct":"Die korrekte Position des Reifens relativ zur Felge",
    "wrong":[
@@ -243,7 +265,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"23   Um wie viele Achsen bewegt sich ein Luftfahrzeug? (1,00 P.)",
+  "question_string":"23 Um wie viele Achsen bewegt sich ein Luftfahrzeug? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"3",
    "wrong":[
@@ -254,7 +277,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"24   Durch welches Ruder wird eine Bewegung um die L\u00e4ngsachse prim\u00e4r eingeleitet?\n(1,00 P.)",
+  "question_string":"24 Durch welches Ruder wird eine Bewegung um die L\u00e4ngsachse prim\u00e4r eingeleitet?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Das Querruder",
    "wrong":[
@@ -265,7 +289,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"25   Wie werden die Ruder eines einmotorigen Kolbenflugzeuges unter zwei Tonnen, eines\nMotorseglers oder Segelflugzeugs \u00fcblicherweise kontrolliert und angesteuert? (1,00\nP.)",
+  "question_string":"25 Wie werden die Ruder eines einmotorigen Kolbenflugzeuges unter zwei Tonnen, eines\nMotorseglers oder Segelflugzeugs \u00fcblicherweise kontrolliert und angesteuert? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Durch Gest\u00e4nge und Steuerseile",
    "wrong":[
@@ -276,7 +301,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"26   Die Prim\u00e4r- und Sekund\u00e4rwirkung einer Seitenrudereingabe nach links sind: (1,00 P.)",
+  "question_string":"26 Die Prim\u00e4r- und Sekund\u00e4rwirkung einer Seitenrudereingabe nach links sind: (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Prim\u00e4rwirkung: Gieren nach links. Sekund\u00e4rwirkung: Rollen nach links.",
    "wrong":[
@@ -287,7 +313,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"27   Was bewirkt ein Ziehen an der Steuers\u00e4ule oder am Steuerkn\u00fcppel? (1,00 P.)",
+  "question_string":"27 Was bewirkt ein Ziehen an der Steuers\u00e4ule oder am Steuerkn\u00fcppel? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Das Leitwerk des Luftfahrzeuges erzeugt vermehrt Abtrieb, wodurch sich der Bug hebt",
    "wrong":[
@@ -298,7 +325,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"28   Welche Folgen ergeben sich, wenn im Reiseflug der Steuerkn\u00fcppel ohne sonstige\nKorrekturen nach vorn genommen wird? (1,00 P.)",
+  "question_string":"28 Welche Folgen ergeben sich, wenn im Reiseflug der Steuerkn\u00fcppel ohne sonstige\nKorrekturen nach vorn genommen wird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Geschwindigkeit und die Sinkrate nehmen zu",
    "wrong":[
@@ -309,7 +337,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"29   Zu den \"prim\u00e4ren Steuerungselementen\" (primary flight controls) eines\nLuftfahrzeuges geh\u00f6ren... (1,00 P.)",
+  "question_string":"29 Zu den \"prim\u00e4ren Steuerungselementen\" (primary flight controls) eines\nLuftfahrzeuges geh\u00f6ren... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"H\u00f6henruder, Seitenruder, Querruder.",
    "wrong":[
@@ -320,7 +349,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"30   Welche Aufgaben haben die \"sekund\u00e4ren Steuerungselemente\" (secondary flight\ncontrols)? (1,00 P.)",
+  "question_string":"30 Welche Aufgaben haben die \"sekund\u00e4ren Steuerungselemente\" (secondary flight\ncontrols)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Sie verbessern die Man\u00f6vereigenschaften (Flugeigenschaften) und verringern die zum Steuern notwendigen Handkr\u00e4fte",
    "wrong":[
@@ -331,7 +361,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"31   Ein Trimmblech (\"B\u00fcgelkante\") ist eine biegbare Metallkante an einem Ruder, die...\n(1,00 P.)",
+  "question_string":"31 Ein Trimmblech (\"B\u00fcgelkante\") ist eine biegbare Metallkante an einem Ruder, die...\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"am Boden eingestellt wird, um das Flugverhalten eines Luftfahrzeuges zu optimieren.",
    "wrong":[
@@ -342,7 +373,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"32   Der Pilot bewegt im Cockpit das Trimmrad bzw. den Trimmhebel f\u00fcr die\nH\u00f6henrudertrimmung nach hinten.\nWie wirkt sich dies auf das Trimmruder und H\u00f6henruder aus? (1,00 P.)",
+  "question_string":"32 Der Pilot bewegt im Cockpit das Trimmrad bzw. den Trimmhebel f\u00fcr die\nH\u00f6henrudertrimmung nach hinten.\nWie wirkt sich dies auf das Trimmruder und H\u00f6henruder aus? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Das Trimmruder schl\u00e4gt nach unten aus, wodurch sich das H\u00f6henruder nach oben bewegt",
    "wrong":[
@@ -353,7 +385,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"33   In welche Richtung muss das Trimmruder ausschlagen, um ein Luftfahrzeug\nhecklastig zu trimmen? (1,00 P.)",
+  "question_string":"33 In welche Richtung muss das Trimmruder ausschlagen, um ein Luftfahrzeug\nhecklastig zu trimmen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Es bewegt sich nach unten",
    "wrong":[
@@ -364,7 +397,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"34   Wie schl\u00e4gt eine Ausgleichsklappe (balance tab) im Verh\u00e4ltnis zum damit\nverbundenen Ruder aus? (1,00 P.)",
+  "question_string":"34 Wie schl\u00e4gt eine Ausgleichsklappe (balance tab) im Verh\u00e4ltnis zum damit\nverbundenen Ruder aus? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Entgegengesetzt",
    "wrong":[
@@ -375,7 +409,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"35   Welche Funktion hat die Trimmung? (1,00 P.)",
+  "question_string":"35 Welche Funktion hat die Trimmung? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Anpassung der Steuerdr\u00fccke an den Flugzustand",
    "wrong":[
@@ -386,7 +421,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"36   Zu den \"sekund\u00e4ren Steuerungselementen\" (secondary flight controls) eines\nLuftfahrzeuges geh\u00f6ren... (1,00 P.)",
+  "question_string":"36 Zu den \"sekund\u00e4ren Steuerungselementen\" (secondary flight controls) eines\nLuftfahrzeuges geh\u00f6ren... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Landeklappen, Vorfl\u00fcgel, Bremsklappen (Spoiler), Trimmsysteme.",
    "wrong":[
@@ -397,7 +433,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"37   Was ist beim Betanken eines Luftfahrzeuges zu beachten? (1,00 P.)",
+  "question_string":"37 Was ist beim Betanken eines Luftfahrzeuges zu beachten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Erdungskabel anbringen, kein offenes Feuer und Rauchverbot befolgen",
    "wrong":[
@@ -408,7 +445,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"38   Der Primer ist... (1,00 P.)",
+  "question_string":"38 Der Primer ist... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"eine Hilfspumpe im Kraftstoffsystem zur Erleichterung des Triebwerkstarts.",
    "wrong":[
@@ -419,7 +457,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"39   Welche Aufgabe hat die Tankbel\u00fcftung? (1,00 P.)",
+  "question_string":"39 Welche Aufgabe hat die Tankbel\u00fcftung? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Das Entstehen von Unterdruck bei Kraftstoffverbrauch im Tank zu verhindern",
    "wrong":[
@@ -430,7 +469,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"40   Die Stromerzeugung in einem Luftfahrzeug erfolgt \u00fcber:\n1. Die Batterie.\n2. Den Generator.\n3. Das Relais.\n4. Die Sicherung. (1,00 P.)",
+  "question_string":"40 Die Stromerzeugung in einem Luftfahrzeug erfolgt \u00fcber:\n1. Die Batterie.\n2. Den Generator.\n3. Das Relais.\n4. Die Sicherung. (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"1 und 2",
    "wrong":[
@@ -441,7 +481,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"41   In welcher Einheit wird die elektrische Spannung angegeben? (1,00 P.)",
+  "question_string":"41 In welcher Einheit wird die elektrische Spannung angegeben? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Volt",
    "wrong":[
@@ -452,7 +493,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"42   In welcher Einheit wird die elektrische Leistung angegeben? (1,00 P.)",
+  "question_string":"42 In welcher Einheit wird die elektrische Leistung angegeben? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Watt",
    "wrong":[
@@ -463,7 +505,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"43   Welche Aufgabe haben statische Entladungsdr\u00e4hte (static discharger) am\nLuftfahrzeug? (1,00 P.)",
+  "question_string":"43 Welche Aufgabe haben statische Entladungsdr\u00e4hte (static discharger) am\nLuftfahrzeug? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Statische Aufladung w\u00e4hrend des Fluges ableiten",
    "wrong":[
@@ -474,7 +517,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"44   Was ist zu erwarten, wenn der Alternator w\u00e4hrend des Fluges ausf\u00e4llt? (1,00 P.)",
+  "question_string":"44 Was ist zu erwarten, wenn der Alternator w\u00e4hrend des Fluges ausf\u00e4llt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Keine \u00c4nderung, so lange die Batterie ausreichend Strom liefert",
    "wrong":[
@@ -485,7 +529,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"45   Wie sind Instrumente gekennzeichnet, die elektrisch durch das Gleichspannungs-\nBordnetz versorgt werden? (1,00 P.)",
+  "question_string":"45 Wie sind Instrumente gekennzeichnet, die elektrisch durch das Gleichspannungs-\nBordnetz versorgt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"\"DC\"",
    "wrong":[
@@ -496,7 +541,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"46   Welche Ger\u00e4te k\u00f6nnen von einem Ausfall des elektrischen Bordnetzes betroffen sein?\n(1,00 P.)",
+  "question_string":"46 Welche Ger\u00e4te k\u00f6nnen von einem Ausfall des elektrischen Bordnetzes betroffen sein?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Funk-, Funknavigations- und Kreiselger\u00e4te",
    "wrong":[
@@ -507,7 +553,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"47   Welche Zylinderanordnung ist bei Kleinflugzeugen mit Kolbentriebwerken und\nMotorseglern am st\u00e4rksten verbreitet? (1,00 P.)",
+  "question_string":"47 Welche Zylinderanordnung ist bei Kleinflugzeugen mit Kolbentriebwerken und\nMotorseglern am st\u00e4rksten verbreitet? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Boxermotor",
    "wrong":[
@@ -518,7 +565,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"48   Welcher Arbeitstakt eines Viertakt-Ottomotors ist auf der Abbildung dargestellt?\nSiehe Bild (AGK-007) (1,00 P.)\nSiehe Anlage 5",
+  "question_string":"48 Welcher Arbeitstakt eines Viertakt-Ottomotors ist auf der Abbildung dargestellt?\nSiehe Bild (AGK-007) (1,00 P.)\nSiehe Anlage 5",
+  "annex":"cards_2020/img/80/a5",
   "choices":{
    "correct":"Erster Takt - Ansaugen",
    "wrong":[
@@ -529,7 +577,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"49   Welcher Arbeitstakt eines Viertakt-Ottomotors ist auf der Abbildung dargestellt?\nSiehe Bild (AGK-008) (1,00 P.)\nSiehe Anlage 6",
+  "question_string":"49 Welcher Arbeitstakt eines Viertakt-Ottomotors ist auf der Abbildung dargestellt?\nSiehe Bild (AGK-008) (1,00 P.)\nSiehe Anlage 6",
+  "annex":"cards_2020/img/80/a6",
   "choices":{
    "correct":"Zweiter Takt - Verdichten",
    "wrong":[
@@ -540,7 +589,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"50   Welcher Fehler besteht vermutlich, wenn das Triebwerk beim Magnet-Check einen\nungew\u00f6hnlich rauen Lauf aufweist? (1,00 P.)",
+  "question_string":"50 Welcher Fehler besteht vermutlich, wenn das Triebwerk beim Magnet-Check einen\nungew\u00f6hnlich rauen Lauf aufweist? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Eine Z\u00fcndkerze ist defekt",
    "wrong":[
@@ -551,7 +601,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"51   In welcher Situation ist die Aufnahme von Feuchtigkeit im Kraftstoff am gr\u00f6\u00dften? (1,00\nP.)",
+  "question_string":"51 In welcher Situation ist die Aufnahme von Feuchtigkeit im Kraftstoff am gr\u00f6\u00dften? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Bei fast leeren Tanks",
    "wrong":[
@@ -562,7 +613,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"52   Wo sammelt sich kondensiertes Wasser im Tank? (1,00 P.)",
+  "question_string":"52 Wo sammelt sich kondensiertes Wasser im Tank? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"An der untersten Stelle",
    "wrong":[
@@ -573,7 +625,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"53   Wof\u00fcr ist die Oktanzahl oder Leistungszahl von Kraftstoff ein Ma\u00df? (1,00 P.)",
+  "question_string":"53 Wof\u00fcr ist die Oktanzahl oder Leistungszahl von Kraftstoff ein Ma\u00df? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Klopffestigkeit",
    "wrong":[
@@ -584,7 +637,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"54   Welche Farbe hat Avgas 100LL? (1,00 P.)",
+  "question_string":"54 Welche Farbe hat Avgas 100LL? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Blau",
    "wrong":[
@@ -595,7 +649,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"55   Welche unmittelbare Auswirkung hat das Einschalten der Vergaservorw\u00e4rmung beim\nMagnet-Check (Run-Up) auf einen Motor mit starrem Propeller? (1,00 P.)",
+  "question_string":"55 Welche unmittelbare Auswirkung hat das Einschalten der Vergaservorw\u00e4rmung beim\nMagnet-Check (Run-Up) auf einen Motor mit starrem Propeller? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Drehzahl sinkt",
    "wrong":[
@@ -606,7 +661,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"56   Welche prim\u00e4re Aufgabe hat der Vergaser? (1,00 P.)",
+  "question_string":"56 Welche prim\u00e4re Aufgabe hat der Vergaser? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Ein z\u00fcndf\u00e4higes Luft- / Kraftstoff-Gemisch herzustellen",
    "wrong":[
@@ -617,7 +673,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"57   In welcher Flugphase muss die Vergaservorw\u00e4rmung ausgeschaltet sein, selbst wenn\nVergaservereisung zu erwarten ist? (1,00 P.)",
+  "question_string":"57 In welcher Flugphase muss die Vergaservorw\u00e4rmung ausgeschaltet sein, selbst wenn\nVergaservereisung zu erwarten ist? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"W\u00e4hrend des Starts",
    "wrong":[
@@ -628,7 +685,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"58   Bei welchen Au\u00dfentemperaturen besteht die gr\u00f6\u00dfte Gefahr von Vergaservereisung?\n(1,00 P.)",
+  "question_string":"58 Bei welchen Au\u00dfentemperaturen besteht die gr\u00f6\u00dfte Gefahr von Vergaservereisung?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Zwischen -5\u00b0 C und +20\u00b0 C",
    "wrong":[
@@ -639,7 +697,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"59   Welche Aufgabe haben K\u00fchlrippen am Zylinder eines luftgek\u00fchlten Motors? (1,00 P.)",
+  "question_string":"59 Welche Aufgabe haben K\u00fchlrippen am Zylinder eines luftgek\u00fchlten Motors? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Schnelle W\u00e4rmeabgabe an die umstr\u00f6mende Luft durch die vergr\u00f6\u00dferte Oberfl\u00e4che",
    "wrong":[
@@ -650,7 +709,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"60   Worauf bezieht sich die Zylinderkopftemperaturanzeige? (1,00 P.)",
+  "question_string":"60 Worauf bezieht sich die Zylinderkopftemperaturanzeige? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Auf den kritischen Zylinder",
    "wrong":[
@@ -661,7 +721,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"61   Was passiert, wenn der \u00d6lfilter verstopft ist? (1,00 P.)",
+  "question_string":"61 Was passiert, wenn der \u00d6lfilter verstopft ist? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Ein Umgehungsventil \u00f6ffnet sich, so dass der Kreislauf ungest\u00f6rt bleibt, R\u00fcckst\u00e4nde werden aber nicht mehr ausgefiltert",
    "wrong":[
@@ -672,7 +733,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"62   Wie sollte ein Otto-Kolbenmotor wenn m\u00f6glich abgestellt werden? (1,00 P.)",
+  "question_string":"62 Wie sollte ein Otto-Kolbenmotor wenn m\u00f6glich abgestellt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Durch das vollst\u00e4ndige Verarmen des Gemisches",
    "wrong":[
@@ -683,7 +745,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"63   Aus welchen Komponenten besteht das Z\u00fcndsystem eines Luftfahrzeuges mit zwei\nZ\u00fcndkerzen pro Zylinder? (1,00 P.)",
+  "question_string":"63 Aus welchen Komponenten besteht das Z\u00fcndsystem eines Luftfahrzeuges mit zwei\nZ\u00fcndkerzen pro Zylinder? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Zwei unabh\u00e4ngigen Z\u00fcndanlagen",
    "wrong":[
@@ -694,7 +757,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"64   Wie werden Gemische mit einem hohen Kraftstoffanteil bezeichnet? (1,00 P.)",
+  "question_string":"64 Wie werden Gemische mit einem hohen Kraftstoffanteil bezeichnet? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Reich",
    "wrong":[
@@ -705,7 +769,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"65   Ziffer Nummer 1 in der Zeichnung bezeichnet bei einem Propeller:\nSiehe Bild (AGK-011)\nD: Anstr\u00f6mrichtung.\nC: Profilsehne.\nR: Rotationsrichtung. (1,00 P.)\nSiehe Anlage 7",
+  "question_string":"65 Ziffer Nummer 1 in der Zeichnung bezeichnet bei einem Propeller:\nSiehe Bild (AGK-011)\nD: Anstr\u00f6mrichtung.\nC: Profilsehne.\nR: Rotationsrichtung. (1,00 P.)\nSiehe Anlage 7",
+  "annex":"cards_2020/img/80/a7",
   "choices":{
    "correct":"Den Einstellwinkel",
    "wrong":[
@@ -716,7 +781,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"66   Wie sollte eine Leistungserh\u00f6hung bei einem Verstellpropeller (constant speed\npropeller) durchgef\u00fchrt werden, sofern das Flughandbuch nichts anderes\nvorschreibt? (1,00 P.)",
+  "question_string":"66 Wie sollte eine Leistungserh\u00f6hung bei einem Verstellpropeller (constant speed\npropeller) durchgef\u00fchrt werden, sofern das Flughandbuch nichts anderes\nvorschreibt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"1) Drehzahl erh\u00f6hen. 2) Ladedruck erh\u00f6hen.",
    "wrong":[
@@ -727,7 +793,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"67   Wie sollte eine Leistungsverringerung bei einem Verstellpropeller (constant speed\npropeller) durchgef\u00fchrt werden, sofern das Flughandbuch nichts anderes\nvorschreibt? (1,00 P.)",
+  "question_string":"67 Wie sollte eine Leistungsverringerung bei einem Verstellpropeller (constant speed\npropeller) durchgef\u00fchrt werden, sofern das Flughandbuch nichts anderes\nvorschreibt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"1) Ladedruck verringern. 2) Drehzahl verringern.",
    "wrong":[
@@ -738,7 +805,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"68   Mit steigender H\u00f6he wird das Kraftstoff-Luftgemisch bei unver\u00e4nderter Gemischhebel-\nStellung ... (1,00 P.)",
+  "question_string":"68 Mit steigender H\u00f6he wird das Kraftstoff-Luftgemisch bei unver\u00e4nderter Gemischhebel-\nStellung ... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"reicher.",
    "wrong":[
@@ -749,7 +817,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"69   Mit zunehmender H\u00f6he wird die Leistung eines Vergasermotors ohne geregelten\nTurbolader... (1,00 P.)",
+  "question_string":"69 Mit zunehmender H\u00f6he wird die Leistung eines Vergasermotors ohne geregelten\nTurbolader... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"abnehmen.",
    "wrong":[
@@ -760,7 +829,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"70   Bei der Kurzschluss-\u00dcberpr\u00fcfung wird der Z\u00fcndschalter f\u00fcr einen kurzen Moment auf\nOFF und anschlie\u00dfend wieder auf BOTH gestellt.\nWas passiert mit der Drehzahl, wenn die Z\u00fcndanlage ordnungsgem\u00e4\u00df geerdet ist?\n(1,00 P.)",
+  "question_string":"70 Bei der Kurzschluss-\u00dcberpr\u00fcfung wird der Z\u00fcndschalter f\u00fcr einen kurzen Moment auf\nOFF und anschlie\u00dfend wieder auf BOTH gestellt.\nWas passiert mit der Drehzahl, wenn die Z\u00fcndanlage ordnungsgem\u00e4\u00df geerdet ist?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Drehzahl f\u00e4llt ab, sobald auf OFF geschaltet wird und erreicht den vorherigen Wert, sobald auf BOTH geschaltet wird",
    "wrong":[
@@ -771,7 +841,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"71   Eine Temperaturmessung und die Anzeige im Cockpit sind m\u00f6glich bei... (1,00 P.)",
+  "question_string":"71 Eine Temperaturmessung und die Anzeige im Cockpit sind m\u00f6glich bei... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Schmiermittel, K\u00fchlfl\u00fcssigkeit, Zylinderkopf, Abgas, Umgebungsluft, Kabinenluft.",
    "wrong":[
@@ -782,7 +853,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"72   Der Kraftstoffvorrat muss so angezeigt werden, dass... (1,00 P.)",
+  "question_string":"72 Der Kraftstoffvorrat muss so angezeigt werden, dass... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"jeder Tank \u00fcber eine eigene Vorratsanzeige verf\u00fcgt und diese \"Null\" anzeigt, wenn die Kraftstoffmenge im Horizontalflug die nicht ausfliegbare Kraftstoffmenge erreicht.",
    "wrong":[
@@ -793,7 +865,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"73   Welche der aufgef\u00fchrten Instrumente beziehen ihre Anzeige aus einer\nDruckmessung? (1,00 P.)",
+  "question_string":"73 Welche der aufgef\u00fchrten Instrumente beziehen ihre Anzeige aus einer\nDruckmessung? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"\u00d6ldruckmesser, Kraftstoffdruckmesser, Ladedruckmesser, H\u00f6henmesser, Variometer, Fahrtmesser, Unterdruckanzeige.",
    "wrong":[
@@ -804,7 +877,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"74   Welche Aufgabe hat das Pitot-statische System? (1,00 P.)",
+  "question_string":"74 Welche Aufgabe hat das Pitot-statische System? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Messung von Gesamtdruck und statischem Luftdruck",
    "wrong":[
@@ -815,7 +889,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"75   Welcher Druck wird durch das Pitotrohr aufgenommen? (1,00 P.)",
+  "question_string":"75 Welcher Druck wird durch das Pitotrohr aufgenommen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Gesamtdruck",
    "wrong":[
@@ -826,7 +901,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"76   Der Begriff \"QFE\" ist definiert als... (1,00 P.)",
+  "question_string":"76 Der Begriff \"QFE\" ist definiert als... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"der barometrische Druck an einer festgelegten Position, meist an der Landebahnschwelle.",
    "wrong":[
@@ -837,7 +913,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"77   Der Begriff \"QNE\" ist definiert als... (1,00 P.)",
+  "question_string":"77 Der Begriff \"QNE\" ist definiert als... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"die H\u00f6he \u00fcber der Druckfl\u00e4che 1013,25 hPa.",
    "wrong":[
@@ -848,7 +925,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"78   Welche Funktion hat die Druckskala im H\u00f6henmesser? (1,00 P.)",
+  "question_string":"78 Welche Funktion hat die Druckskala im H\u00f6henmesser? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Der Bezug der H\u00f6henmesseranzeige auf eine bestimmte Druckfl\u00e4che",
    "wrong":[
@@ -859,7 +937,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"79   Wie beeinflusst eine nicht korrekt eingestellte Druckskala im H\u00f6henmesser die\nH\u00f6henanzeige? (1,00 P.)",
+  "question_string":"79 Wie beeinflusst eine nicht korrekt eingestellte Druckskala im H\u00f6henmesser die\nH\u00f6henanzeige? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wenn der eingestellte Wert zu hoch ist, zeigt der H\u00f6henmesser zu viel an. Das Flugzeug befindet sich dann n\u00e4her am Boden als beabsichtigt ist.",
    "wrong":[
@@ -870,7 +949,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"80   Welche Auswirkungen hat eine Temperatur, die unterhalb der ISA-Standardtemperatur\nliegt, auf die H\u00f6henmesseranzeige? (1,00 P.)",
+  "question_string":"80 Welche Auswirkungen hat eine Temperatur, die unterhalb der ISA-Standardtemperatur\nliegt, auf die H\u00f6henmesseranzeige? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Eine zu gro\u00dfe H\u00f6henanzeige",
    "wrong":[
@@ -881,7 +961,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"81   Eine Flugfl\u00e4che ist... (1,00 P.)",
+  "question_string":"81 Eine Flugfl\u00e4che ist... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"eine Druckh\u00f6he.",
    "wrong":[
@@ -892,7 +973,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"82   Eine wahre H\u00f6he ist... (1,00 P.)",
+  "question_string":"82 Eine wahre H\u00f6he ist... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"eine auf das aktuelle QNH und die reale Lufttemperatur korrigierte Druckh\u00f6he.",
    "wrong":[
@@ -903,7 +985,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"83   W\u00e4hrend eines Fluges in k\u00e4lterer Luft als ISA ist die angezeigte H\u00f6he... (1,00 P.)",
+  "question_string":"83 W\u00e4hrend eines Fluges in k\u00e4lterer Luft als ISA ist die angezeigte H\u00f6he... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"h\u00f6her als die wahre H\u00f6he.",
    "wrong":[
@@ -914,7 +997,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"84   W\u00e4hrend eines Fluges in einer Luftmasse, deren Temperatur ISA entspricht, ist die\nangezeigte H\u00f6he bei korrekt eingestelltem QNH... (1,00 P.)",
+  "question_string":"84 W\u00e4hrend eines Fluges in einer Luftmasse, deren Temperatur ISA entspricht, ist die\nangezeigte H\u00f6he bei korrekt eingestelltem QNH... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"gleich der wahren H\u00f6he.",
    "wrong":[
@@ -925,7 +1009,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"85   Bei welchem Instrument tritt der Hystereseeffekt auf? (1,00 P.)",
+  "question_string":"85 Bei welchem Instrument tritt der Hystereseeffekt auf? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"H\u00f6henmesser",
    "wrong":[
@@ -936,7 +1021,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"86   Eine sich \u00e4ndernde H\u00f6henmesseranzeige beruht auf einer \u00c4nderung des... (1,00 P.)",
+  "question_string":"86 Eine sich \u00e4ndernde H\u00f6henmesseranzeige beruht auf einer \u00c4nderung des... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"statischen Drucks.",
    "wrong":[
@@ -947,7 +1033,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"87   Nach welchem Prinzip funktioniert ein Variometer? (1,00 P.)",
+  "question_string":"87 Nach welchem Prinzip funktioniert ein Variometer? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Anzeige der \u00c4nderungsrate des statischen Drucks mit Hilfe stark verengter Druckausgleichs\u00f6ffnungen (Kapillare)",
    "wrong":[
@@ -958,7 +1045,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"88   Ein Variometer misst die Druckdifferenz zwischen... (1,00 P.)",
+  "question_string":"88 Ein Variometer misst die Druckdifferenz zwischen... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"dem momentanen statischen Druck und dem statischen Druck eines vorherigen Moments.",
    "wrong":[
@@ -969,7 +1057,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"89   Die \"kalibrierte Eigengeschwindigkeit\" (CAS) ist festgelegt als... (1,00 P.)",
+  "question_string":"89 Die \"kalibrierte Eigengeschwindigkeit\" (CAS) ist festgelegt als... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"die um Einbau- und Instrumentenfehler berichtigte angezeigte Eigengeschwindigkeit (IAS).",
    "wrong":[
@@ -980,7 +1069,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"90   In gr\u00f6\u00dferer H\u00f6he wird die Wahre Eigengeschwindigkeit (TAS) gr\u00f6\u00dfer als die kalibrierte\n(angezeigte) Eigengeschwindigkeit.\nWie kann die TAS ungef\u00e4hr ermittelt werden?\n(1,00 P.)",
+  "question_string":"90 In gr\u00f6\u00dferer H\u00f6he wird die Wahre Eigengeschwindigkeit (TAS) gr\u00f6\u00dfer als die kalibrierte\n(angezeigte) Eigengeschwindigkeit.\nWie kann die TAS ungef\u00e4hr ermittelt werden?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"CAS + 2% der CAS pro 1.000 ft H\u00f6he",
    "wrong":[
@@ -991,7 +1081,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"91   Ein in 5.000 ft MSL fliegendes Luftfahrzeug befindet sich auf Steuerkurs 180\u00b0 und hat\neine Wahre Eigengeschwindigkeit (TAS) von 110 kt. Der Wind weht aus Richtung 180\u00b0\nmit 30 kt.\nWelcher Wert kann auf dem Fahrtmesser ungef\u00e4hr abgelesen werden?\n(Instrumenten- und Einbaufehler k\u00f6nnen vernachl\u00e4ssigt werden.) (1,00 P.)",
+  "question_string":"91 Ein in 5.000 ft MSL fliegendes Luftfahrzeug befindet sich auf Steuerkurs 180\u00b0 und hat\neine Wahre Eigengeschwindigkeit (TAS) von 110 kt. Der Wind weht aus Richtung 180\u00b0\nmit 30 kt.\nWelcher Wert kann auf dem Fahrtmesser ungef\u00e4hr abgelesen werden?\n(Instrumenten- und Einbaufehler k\u00f6nnen vernachl\u00e4ssigt werden.) (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"100 kt",
    "wrong":[
@@ -1002,7 +1093,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"92   Welcher der folgenden Faktoren kann eine fehlerhafte Fahrtmesseranzeige\nverursachen? (1,00 P.)",
+  "question_string":"92 Welcher der folgenden Faktoren kann eine fehlerhafte Fahrtmesseranzeige\nverursachen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Das Luftfahrzeug wurde mit Folien beklebt",
    "wrong":[
@@ -1013,7 +1105,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"93   Nach welchem Prinzip funktioniert ein Fahrtmesser? (1,00 P.)",
+  "question_string":"93 Nach welchem Prinzip funktioniert ein Fahrtmesser? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Vergleich des Gesamtdrucks mit dem statischen Luftdruck",
    "wrong":[
@@ -1024,7 +1117,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"94   Welche Werte werden durch rote Striche auf der Instrumentenskala gekennzeichnet?\n(1,00 P.)",
+  "question_string":"94 Welche Werte werden durch rote Striche auf der Instrumentenskala gekennzeichnet?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Betriebsgrenzen",
    "wrong":[
@@ -1035,7 +1129,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"95   Was wird zur Bestimmung der Geschwindigkeit am Fahrtmesser (IAS) ben\u00f6tigt? (1,00\nP.)",
+  "question_string":"95 Was wird zur Bestimmung der Geschwindigkeit am Fahrtmesser (IAS) ben\u00f6tigt? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Die Differenz aus Gesamtdruck und statischem Druck",
    "wrong":[
@@ -1046,7 +1141,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"96   Welche Bedeutung hat der wei\u00dfe Bogen am Fahrtmesser? (1,00 P.)",
+  "question_string":"96 Welche Bedeutung hat der wei\u00dfe Bogen am Fahrtmesser? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Geschwindigkeitsbereich f\u00fcr ausgefahrene Klappen",
    "wrong":[
@@ -1057,7 +1153,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"97   Welche Bedeutung hat der rote Strich am Fahrtmesser? (1,00 P.)",
+  "question_string":"97 Welche Bedeutung hat der rote Strich am Fahrtmesser? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Geschwindigkeitsgrenze, die unter keinen Bedingungen \u00fcberschritten werden darf",
    "wrong":[
@@ -1068,7 +1165,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"98   Der durch magnetische Ablenkung im Luftfahrzeug verursachte Kompassfehler\nhei\u00dft... (1,00 P.)",
+  "question_string":"98 Der durch magnetische Ablenkung im Luftfahrzeug verursachte Kompassfehler\nhei\u00dft... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Deviation.",
    "wrong":[
@@ -1079,7 +1177,8 @@ var Allgemeine_Luftfahrzeugkunde_q = [
   }
  },
  {
-  "question_string":"99   Die Anzeige des Magnetkompasses weicht durch welche Fehler von der magnetischen\nNordrichtung ab? (1,00 P.)",
+  "question_string":"99 Die Anzeige des Magnetkompasses weicht durch welche Fehler von der magnetischen\nNordrichtung ab? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Deviation, Dreh- und Beschleunigungsfehler.",
    "wrong":[
@@ -1091,6 +1190,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"100 Welches Bordinstrument ist an das Staurohr angeschlossen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Fahrtmesser",
    "wrong":[
@@ -1102,6 +1202,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"101 Welche Bordinstrumente sind an die statische Druckleitung angeschlossen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"H\u00f6henmesser, Variometer, Fahrtmesser",
    "wrong":[
@@ -1113,6 +1214,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"102 Ein Luftfahrzeug auf der Nordhalbkugel kurvt auf dem k\u00fcrzesten Weg von Steuerkurs\n270\u00b0 auf Steuerkurs 360\u00b0.\nBei welcher Anzeige am Magnetkompass sollte die Kurve beendet werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"330\u00b0",
    "wrong":[
@@ -1124,6 +1226,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"103 Ein Luftfahrzeug auf der Nordhalbkugel kurvt auf dem k\u00fcrzesten Weg von Steuerkurs\n360\u00b0 auf Steuerkurs 270\u00b0.\nBei welcher Anzeige am Magnetkompass sollte die Kurve beendet werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"270\u00b0",
    "wrong":[
@@ -1135,6 +1238,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"104 Was wird als \"statischer Druck\" bezeichnet? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Druck der ungest\u00f6rten Luftstr\u00f6mung",
    "wrong":[
@@ -1146,6 +1250,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"105 Ein Luftfahrzeug auf der Nordhalbkugel kurvt auf dem k\u00fcrzesten Weg von Steuerkurs\n030\u00b0 auf Steuerkurs 180\u00b0.\nBei welchem am Magnetkompass angezeigten Steuerkurs sollte die Kurve beendet\nwerden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"210\u00b0",
    "wrong":[
@@ -1157,6 +1262,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"106 Zur Messung der angezeigten Fluggeschwindigkeit (IAS) wird der Staudruck\nverwendet.\nWovon h\u00e4ngt der Staudruck direkt ab? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Luftdichte und Str\u00f6mungsgeschwindigkeit",
    "wrong":[
@@ -1168,6 +1274,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"107 Welche ist eine Ursache f\u00fcr Drehfehler am Magnetkompass? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Inklination der Erdmagnetfeldlinien",
    "wrong":[
@@ -1179,6 +1286,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"108 Wie verh\u00e4lt sich ein rotierender Kreisel im Raum? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Er strebt danach, seine Lage im Raum beizubehalten",
    "wrong":[
@@ -1190,6 +1298,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"109 Wie reagiert ein frei im Raum rotierender Kreisel auf eine einwirkende Kraft? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Mit einer um 90\u00b0 versetzten Ausweichbewegung",
    "wrong":[
@@ -1201,6 +1310,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"110 Die f\u00fcr einen Zwei-Minuten Kreisflug (Standardkurve) notwendige Querneigung des\nFlugzeuges ist abh\u00e4ngig von der... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wahren Geschwindigkeit (TAS).",
    "wrong":[
@@ -1212,6 +1322,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"111 Was kann auf einem Wendezeiger mit Libelle abgelesen werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Drehrate und Koordination der Kurve",
    "wrong":[
@@ -1223,6 +1334,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"112 Der Fahrtmesser an einem Luftfahrzeug ist defekt.\nDas Luftfahrzeug darf in Betrieb genommen werden, wenn... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"der Fahrtmesser wieder funktionsf\u00e4hig ist.",
    "wrong":[
@@ -1234,6 +1346,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"113 Welche Lampenfarbe im Cockpit soll den Piloten auf folgende Situation aufmerksam\nmachen:\n\"Korrigierendes Eingreifen kann in K\u00fcrze erforderlich werden / Achtung.\" (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bernstein (orange)",
    "wrong":[
@@ -1245,6 +1358,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"114 Welche farbige Kennzeichnung tr\u00e4gt der Vorsichtsbereich am Fahrtmesser? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Gelb",
    "wrong":[
@@ -1256,6 +1370,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"115 Ein Attitude Director Indicator (ADI) kombiniert die Anzeigen der folgenden\nInstrumente: (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"K\u00fcnstlicher Horizont und Flight Director",
    "wrong":[
@@ -1267,6 +1382,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"116 Die Abk\u00fcrzung \"HSI\" steht f\u00fcr... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Horizontal Situation Indicator.",
    "wrong":[
@@ -1278,6 +1394,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"117 Ein Horizontal Situation Indicator (HSI) kombiniert die Anzeigen der folgenden\nInstrumente: (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Kurskreisel und VOR-Anzeigeger\u00e4t",
    "wrong":[
@@ -1289,6 +1406,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"118 Welche Differenz zeigt der H\u00f6henmesser bei einer \u00c4nderung der Bezugseinstellung\nvon 1000 hPa auf 1010 hPa an? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Etwa 80 m mehr als vorher",
    "wrong":[
@@ -1300,6 +1418,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"119 Wann muss die Nebenskala des H\u00f6henmessers eingestellt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Vor dem Flug und w\u00e4hrend des \u00dcberlandfluges",
    "wrong":[
@@ -1311,6 +1430,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"120 In der Nebenskala eines H\u00f6henmessers wird der am Flugplatz herrschende Druck\neingestellt (QFE).\nWas zeigt der H\u00f6henmesser w\u00e4hrend des Fluges an? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"H\u00f6he \u00fcber dem Flugplatz",
    "wrong":[
@@ -1322,6 +1442,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"121 Ein zu gro\u00dfes Ausgleichsgef\u00e4\u00df hat zur Folge, dass das Variometer ... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"zu viel anzeigt.",
    "wrong":[
@@ -1333,6 +1454,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"122 Das Prinzip eines Variometers beruht auf Messung der Differenz von... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"momentanem statischem Druck und vorigem statischem Druck.",
    "wrong":[
@@ -1344,6 +1466,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"123 Was versteht man unter Inklination? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Winkel zwischen den Magnetfeldlinien der Erde und der Horizontalen",
    "wrong":[
@@ -1355,6 +1478,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"124 Was zeigt die Libelle an? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Richtung des Scheinlots",
    "wrong":[
@@ -1366,6 +1490,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"125 Die Kugel der Libelle (Scheinlot) ist im rechten Kurvenflug nach rechts ausgewandert.\nDurch welche Aktionen kann die Kugel in die Mitte gebracht werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Schr\u00e4glage verringern, Drehgeschwindigkeit vergr\u00f6\u00dfern",
    "wrong":[
@@ -1377,6 +1502,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"126 Wozu dienen Winglets? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Zur Reduktion des induzierten Widerstands.",
    "wrong":[
@@ -1388,6 +1514,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"127 Welche Motore werden haupts\u00e4chlich bei Motorseglern (TMG) verwendet? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"4 Zylinder; 4 Takter.",
    "wrong":[
@@ -1399,6 +1526,7 @@ var Allgemeine_Luftfahrzeugkunde_q = [
  },
  {
   "question_string":"128 Wozu dient das Motor\u00f6l in einem Kolbentriebtriebwerk? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Zur K\u00fchlung, Schmierung des Triebwerks und Abtransport von Feinabrieb.",
    "wrong":[

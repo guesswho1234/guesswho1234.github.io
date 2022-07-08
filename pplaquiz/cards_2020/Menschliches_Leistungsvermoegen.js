@@ -1,7 +1,8 @@
 var Menschliches_Leistungsvermoegen_s = "Menschliches_Leistungsvermoegen";
 var Menschliches_Leistungsvermoegen_q = [
  {
-  "question_string":"1   Welcher Faktor ist urs\u00e4chlich f\u00fcr die gr\u00f6\u00dfte Zahl der Luftfahrt-Unf\u00e4lle? (1,00 P.)",
+  "question_string":"1 Welcher Faktor ist urs\u00e4chlich f\u00fcr die gr\u00f6\u00dfte Zahl der Luftfahrt-Unf\u00e4lle? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Menschliches Versagen",
    "wrong":[
@@ -12,7 +13,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"2   Was erl\u00e4utert das \"Schweizer K\u00e4se Modell\"? (1,00 P.)",
+  "question_string":"2 Was erl\u00e4utert das \"Schweizer K\u00e4se Modell\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Das Prinzip der Fehlerkette",
    "wrong":[
@@ -23,7 +25,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"3   Welchen Sauerstoffanteil hat Luft in einer H\u00f6he von ungef\u00e4hr 6.000 ft? (1,00 P.)",
+  "question_string":"3 Welchen Sauerstoffanteil hat Luft in einer H\u00f6he von ungef\u00e4hr 6.000 ft? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"21%",
    "wrong":[
@@ -34,7 +37,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"4   Wie hoch ist der Gasanteil von Stickstoff in der Luft? (1,00 P.)",
+  "question_string":"4 Wie hoch ist der Gasanteil von Stickstoff in der Luft? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"78%",
    "wrong":[
@@ -45,7 +49,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"5   In welcher H\u00f6he hat sich der atmosph\u00e4rische Druck in Bezug auf den\nStandardluftdruck\nin MSL (1.013 hPa) etwa halbiert? (1,00 P.)",
+  "question_string":"5 In welcher H\u00f6he hat sich der atmosph\u00e4rische Druck in Bezug auf den\nStandardluftdruck\nin MSL (1.013 hPa) etwa halbiert? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"18.000 ft",
    "wrong":[
@@ -56,7 +61,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"6   Luft besteht aus Sauerstoff, Stickstoff und anderen Gasen.\nWelcher Anteil der Zusammensetzung entf\u00e4llt dabei auf andere Gase? (1,00 P.)",
+  "question_string":"6 Luft besteht aus Sauerstoff, Stickstoff und anderen Gasen.\nWelcher Anteil der Zusammensetzung entf\u00e4llt dabei auf andere Gase? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"1%",
    "wrong":[
@@ -67,7 +73,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"7    Durch welchen der aufgef\u00fchrten Faktoren kann eine Kohlenmonoxidvergiftung\nausgel\u00f6st werden? (1,00 P.)",
+  "question_string":"7  Durch welchen der aufgef\u00fchrten Faktoren kann eine Kohlenmonoxidvergiftung\nausgel\u00f6st werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Rauchen",
    "wrong":[
@@ -78,7 +85,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"8    Was ist ein \"redout\"? (1,00 P.)",
+  "question_string":"8  Was ist ein \"redout\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Das \"Rot-sehen\" bei negativen g-Belastungen",
    "wrong":[
@@ -89,7 +97,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"9    Wodurch kann eine Kohlenmonoxidvergiftung verursacht werden? (1,00 P.)",
+  "question_string":"9  Wodurch kann eine Kohlenmonoxidvergiftung verursacht werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Risse im W\u00e4rmetauscher",
    "wrong":[
@@ -100,7 +109,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"10   Welches ist KEIN Symptom von Hyperventilation (beschleunigte Atmung)? (1,00 P.)",
+  "question_string":"10 Welches ist KEIN Symptom von Hyperventilation (beschleunigte Atmung)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Zyanose",
    "wrong":[
@@ -111,7 +121,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"11   Welche der folgenden Symptome k\u00f6nnen auf Hypoxie (Mangelversorgung des\nK\u00f6rpers mit Sauerstoff) hinweisen? (1,00 P.)",
+  "question_string":"11 Welche der folgenden Symptome k\u00f6nnen auf Hypoxie (Mangelversorgung des\nK\u00f6rpers mit Sauerstoff) hinweisen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bl\u00e4uliche Verf\u00e4rbung von Lippen und Fingern\u00e4geln",
    "wrong":[
@@ -122,7 +133,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"12   Welcher der menschlichen Sinne wird am ehesten von Hypoxie (Mangelversorgung\ndes K\u00f6rpers mit Sauerstoff) beeinflusst? (1,00 P.)",
+  "question_string":"12 Welcher der menschlichen Sinne wird am ehesten von Hypoxie (Mangelversorgung\ndes K\u00f6rpers mit Sauerstoff) beeinflusst? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die visuelle Wahrnehmung (Sehen)",
    "wrong":[
@@ -133,7 +145,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"13   Ab welcher ungef\u00e4hren Flugh\u00f6he reagiert der K\u00f6rper im Normalfall auf den\nabnehmenden atmosph\u00e4rischen Luftdruck? (1,00 P.)",
+  "question_string":"13 Ab welcher ungef\u00e4hren Flugh\u00f6he reagiert der K\u00f6rper im Normalfall auf den\nabnehmenden atmosph\u00e4rischen Luftdruck? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"7.000 Fu\u00df",
    "wrong":[
@@ -144,7 +157,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"14   Ab welcher H\u00f6he ist der K\u00f6rper nicht mehr in der Lage, die Auswirkungen des\nniedrigen atmosph\u00e4rischen Luftdrucks vollst\u00e4ndig zu kompensieren (St\u00f6rschwelle)?\n(1,00 P.)",
+  "question_string":"14 Ab welcher H\u00f6he ist der K\u00f6rper nicht mehr in der Lage, die Auswirkungen des\nniedrigen atmosph\u00e4rischen Luftdrucks vollst\u00e4ndig zu kompensieren (St\u00f6rschwelle)?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"12.000 Fu\u00df",
    "wrong":[
@@ -155,7 +169,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"15   Welche Funktion haben die roten Blutk\u00f6rperchen (Erythrozyten)? (1,00 P.)",
+  "question_string":"15 Welche Funktion haben die roten Blutk\u00f6rperchen (Erythrozyten)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Sauerstofftransport",
    "wrong":[
@@ -166,7 +181,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"16   Wodurch ist die Blutgerinnung gew\u00e4hrleistet? (1,00 P.)",
+  "question_string":"16 Wodurch ist die Blutgerinnung gew\u00e4hrleistet? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Blutpl\u00e4ttchen (Thrombozyten)",
    "wrong":[
@@ -177,7 +193,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"17   Welche Funktion haben die wei\u00dfen Blutk\u00f6rperchen (Leukozyten)? (1,00 P.)",
+  "question_string":"17 Welche Funktion haben die wei\u00dfen Blutk\u00f6rperchen (Leukozyten)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Immunabwehr",
    "wrong":[
@@ -188,7 +205,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"18   Welche Aufgabe haben die Blutpl\u00e4ttchen (Thrombozyten)? (1,00 P.)",
+  "question_string":"18 Welche Aufgabe haben die Blutpl\u00e4ttchen (Thrombozyten)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Blutgerinnung",
    "wrong":[
@@ -199,7 +217,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"19   Welches ist KEIN Risikofaktor f\u00fcr Hypoxie? (1,00 P.)",
+  "question_string":"19 Welches ist KEIN Risikofaktor f\u00fcr Hypoxie? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Tauchen",
    "wrong":[
@@ -210,7 +229,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"20   An\u00e4mische Hypoxie kann ausgel\u00f6st werden durch... (1,00 P.)",
+  "question_string":"20 An\u00e4mische Hypoxie kann ausgel\u00f6st werden durch... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Kohlenmonoxidvergiftung.",
    "wrong":[
@@ -221,7 +241,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"21   Welches Verhalten ist angebracht, wenn sich ein Passagier im Reiseflug pl\u00f6tzlich\nunwohl f\u00fchlt? (1,00 P.)",
+  "question_string":"21 Welches Verhalten ist angebracht, wenn sich ein Passagier im Reiseflug pl\u00f6tzlich\nunwohl f\u00fchlt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Kabinentemperatur anpassen und erh\u00f6hte Querlagen vermeiden",
    "wrong":[
@@ -232,7 +253,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"22   Wie wird eine stereotype und unwillk\u00fcrliche Reaktion des Organismus auf die\nStimulation von Rezeptoren genannt? (1,00 P.)",
+  "question_string":"22 Wie wird eine stereotype und unwillk\u00fcrliche Reaktion des Organismus auf die\nStimulation von Rezeptoren genannt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Reflex",
    "wrong":[
@@ -243,7 +265,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"23   Wie wird das System bezeichnet, das u.a. die Atmung, die Verdauung und die\nHerzfrequenz kontrolliert? (1,00 P.)",
+  "question_string":"23 Wie wird das System bezeichnet, das u.a. die Atmung, die Verdauung und die\nHerzfrequenz kontrolliert? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Autonomes Nervensystem",
    "wrong":[
@@ -254,7 +277,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"24   Was ist der \"Parallaxe-Fehler\"? (1,00 P.)",
+  "question_string":"24 Was ist der \"Parallaxe-Fehler\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Ein fehlerhaftes Ablesen der Instrumente in Abh\u00e4ngigkeit vom Betrachtungswinkel",
    "wrong":[
@@ -265,7 +289,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"25   Welche Eigenschaft ist bei einer Sonnenbrille wichtig, sofern sie von Piloten\nverwendet wird? (1,00 P.)",
+  "question_string":"25 Welche Eigenschaft ist bei einer Sonnenbrille wichtig, sofern sie von Piloten\nverwendet wird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Nicht polarisiert",
    "wrong":[
@@ -276,7 +301,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"26   Welcher Teil des Sehapparates ist f\u00fcr das Farbsehen verantwortlich? (1,00 P.)",
+  "question_string":"26 Welcher Teil des Sehapparates ist f\u00fcr das Farbsehen verantwortlich? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Zapfen",
    "wrong":[
@@ -287,7 +313,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"27   Die Verbindung zwischen dem Mittelohr und dem Nasen-Rachenraum hei\u00dft... (1,00 P.)",
+  "question_string":"27 Die Verbindung zwischen dem Mittelohr und dem Nasen-Rachenraum hei\u00dft... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Eustachische R\u00f6hre.",
    "wrong":[
@@ -298,7 +325,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"28   In welcher Situation ist ein Druckausgleich zwischen dem Mittelohr und der\nUmgebung nicht m\u00f6glich? (1,00 P.)",
+  "question_string":"28 In welcher Situation ist ein Druckausgleich zwischen dem Mittelohr und der\nUmgebung nicht m\u00f6glich? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Eustachische R\u00f6hre ist blockiert",
    "wrong":[
@@ -309,7 +337,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"29   Das Ausleiten nach einem l\u00e4ngeren Kurvenflug kann dazu f\u00fchren, dass die Illusion\nentsteht... (1,00 P.)",
+  "question_string":"29 Das Ausleiten nach einem l\u00e4ngeren Kurvenflug kann dazu f\u00fchren, dass die Illusion\nentsteht... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"in die Gegenrichtung zu kurven.",
    "wrong":[
@@ -320,7 +349,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"30   Welche Situation unterst\u00fctzt NICHT das Auftreten der Bewegungskrankheit\n(Desorientierung)? (1,00 P.)",
+  "question_string":"30 Welche Situation unterst\u00fctzt NICHT das Auftreten der Bewegungskrankheit\n(Desorientierung)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Unbeschleunigter Geradeausflug",
    "wrong":[
@@ -331,7 +361,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"31   W\u00e4hrend der Beschleunigung im Geradeausflug besteht die Gefahr der Illusion... (1,00\nP.)",
+  "question_string":"31 W\u00e4hrend der Beschleunigung im Geradeausflug besteht die Gefahr der Illusion... (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"eines Steigfluges.",
    "wrong":[
@@ -342,7 +373,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"32   W\u00e4hrend einer starken Geschwindigkeitsabnahme im Geradeausflug besteht die\nGefahr\nder Illusion... (1,00 P.)",
+  "question_string":"32 W\u00e4hrend einer starken Geschwindigkeitsabnahme im Geradeausflug besteht die\nGefahr\nder Illusion... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"eines Sinkfluges.",
    "wrong":[
@@ -353,7 +385,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"33   Welche optische T\u00e4uschung kann im Anflug durch eine ansteigende Piste verursacht\nwerden? (1,00 P.)",
+  "question_string":"33 Welche optische T\u00e4uschung kann im Anflug durch eine ansteigende Piste verursacht\nwerden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Der Pilot hat das Gef\u00fchl eines zu hohen Anflugs und fliegt unterhalb des normalen Gleitpfades an",
    "wrong":[
@@ -364,7 +397,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"34   Welcher Eindruck kann bei einem Anflug auf eine ansteigende Piste entstehen? (1,00\nP.)",
+  "question_string":"34 Welcher Eindruck kann bei einem Anflug auf eine ansteigende Piste entstehen? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Eines Zuweitkommens",
    "wrong":[
@@ -375,7 +409,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"35   Wann ist die Gefahr des Auftretens eines Drehschwindels am gr\u00f6\u00dften? (1,00 P.)",
+  "question_string":"35 Wann ist die Gefahr des Auftretens eines Drehschwindels am gr\u00f6\u00dften? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bei einer Kopfdrehung im Kurvenflug",
    "wrong":[
@@ -386,7 +421,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"36   Was kann einen \"Grey-out\" verursachen? (1,00 P.)",
+  "question_string":"36 Was kann einen \"Grey-out\" verursachen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Positive g-Kr\u00e4fte",
    "wrong":[
@@ -397,7 +433,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"37   Optische T\u00e4uschungen werden meist ausgel\u00f6st durch... (1,00 P.)",
+  "question_string":"37 Optische T\u00e4uschungen werden meist ausgel\u00f6st durch... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Fehlinterpretationen im Gehirn.",
    "wrong":[
@@ -408,7 +445,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"38   Wie viel Alkohol baut sich bei einem Erwachsenen ungef\u00e4hr pro Stunde ab? (1,00 P.)",
+  "question_string":"38 Wie viel Alkohol baut sich bei einem Erwachsenen ungef\u00e4hr pro Stunde ab? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"0,1 Promille",
    "wrong":[
@@ -419,7 +457,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"39   Welches ist ein Risikofaktor an Diabetes zu erkranken? (1,00 P.)",
+  "question_string":"39 Welches ist ein Risikofaktor an Diabetes zu erkranken? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"\u00dcbergewicht",
    "wrong":[
@@ -430,7 +469,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"40   Welches ist ein Risikofaktor f\u00fcr die Dekompressionserkrankung? (1,00 P.)",
+  "question_string":"40 Welches ist ein Risikofaktor f\u00fcr die Dekompressionserkrankung? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Tauchen vor dem Flug",
    "wrong":[
@@ -441,7 +481,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"41   Was ist in Bezug auf das Kurzzeitged\u00e4chtnis richtig? (1,00 P.)",
+  "question_string":"41 Was ist in Bezug auf das Kurzzeitged\u00e4chtnis richtig? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Es kann 7 (\u00b12) Informationen f\u00fcr 10-20 Sekunden speichern",
    "wrong":[
@@ -452,7 +493,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"42   \u00dcber welchen Zeitraum kann das Kurzzeitged\u00e4chtnis ungef\u00e4hr Informationen\nspeichern? (1,00 P.)",
+  "question_string":"42 \u00dcber welchen Zeitraum kann das Kurzzeitged\u00e4chtnis ungef\u00e4hr Informationen\nspeichern? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"10-20 Sekunden",
    "wrong":[
@@ -463,7 +505,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"43   Was ist ein \"latenter Fehler\"? (1,00 P.)",
+  "question_string":"43 Was ist ein \"latenter Fehler\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Ein l\u00e4ngere Zeit unbemerkt im System vorhandener Fehler",
    "wrong":[
@@ -474,7 +517,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"44   Was bedeutet der Begriff \"confirmation bias\" (Best\u00e4tigungs-Tendenz)? (1,00 P.)",
+  "question_string":"44 Was bedeutet der Begriff \"confirmation bias\" (Best\u00e4tigungs-Tendenz)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Tendenz Argumente zu suchen, die das eigene mentale Modell unterst\u00fctzen",
    "wrong":[
@@ -485,7 +529,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"45   Wie nennt man den permanenten Prozess, die fortlaufende Flugsituation zu\n\u00fcberwachen? (1,00 P.)",
+  "question_string":"45 Wie nennt man den permanenten Prozess, die fortlaufende Flugsituation zu\n\u00fcberwachen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Situative Aufmerksamkeit (situational awareness)",
    "wrong":[
@@ -496,7 +541,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"46   Wie kann aus Sicht des Kommunikationsmodells sichergestellt werden, dass im\nSprechfunkverkehr der gleiche Code verwendet wird? (1,00 P.)",
+  "question_string":"46 Wie kann aus Sicht des Kommunikationsmodells sichergestellt werden, dass im\nSprechfunkverkehr der gleiche Code verwendet wird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Durch das Verwenden einer Funk-Phraseologie",
    "wrong":[
@@ -507,7 +553,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"47   Welche vier M\u00f6glichkeiten bestehen, um angemessen mit einem Risiko umzugehen?\n(1,00 P.)",
+  "question_string":"47 Welche vier M\u00f6glichkeiten bestehen, um angemessen mit einem Risiko umzugehen?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Vermeiden, Verringern, \u00dcbertragen, Akzeptieren.",
    "wrong":[
@@ -518,7 +565,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"48   In welcher der angegebenen Situationen ist die Neigung gr\u00f6\u00dfer, h\u00f6here Risiken zu\nakzeptieren? (1,00 P.)",
+  "question_string":"48 In welcher der angegebenen Situationen ist die Neigung gr\u00f6\u00dfer, h\u00f6here Risiken zu\nakzeptieren? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Im Rahmen von gruppendynamischen Prozessen",
    "wrong":[
@@ -529,7 +577,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"49   Welche Bedeutung hat der Begriff \"risky shift\"? (1,00 P.)",
+  "question_string":"49 Welche Bedeutung hat der Begriff \"risky shift\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Tendenz, in Gruppen ein h\u00f6heres Risiko zu akzeptieren",
    "wrong":[
@@ -540,7 +589,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"50   Welche gef\u00e4hrlichen Einstellungen treten h\u00e4ufig zusammen auf? (1,00 P.)",
+  "question_string":"50 Welche gef\u00e4hrlichen Einstellungen treten h\u00e4ufig zusammen auf? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Macho und Unverwundbarkeit",
    "wrong":[
@@ -551,7 +601,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"51   Welches ist ein Anzeichen f\u00fcr eine \"Macho\"-Einstellung? (1,00 P.)",
+  "question_string":"51 Welches ist ein Anzeichen f\u00fcr eine \"Macho\"-Einstellung? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Riskante Flugman\u00f6ver um Zuschauer am Boden zu beeindrucken",
    "wrong":[
@@ -562,7 +613,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"52   Welches Verhalten kann zu menschlichen Fehlern f\u00fchren? (1,00 P.)",
+  "question_string":"52 Welches Verhalten kann zu menschlichen Fehlern f\u00fchren? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Tendenz Dinge zu sehen, die auch erwartet werden",
    "wrong":[
@@ -573,7 +625,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"53   Welche ist die beste Kombination von Eigenschaften in Bezug auf die pers\u00f6nliche\nEinstellung bzw. das Verhalten eines Piloten? (1,00 P.)",
+  "question_string":"53 Welche ist die beste Kombination von Eigenschaften in Bezug auf die pers\u00f6nliche\nEinstellung bzw. das Verhalten eines Piloten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Extrovertiert - stabil",
    "wrong":[
@@ -584,7 +637,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"54   Selbstgef\u00e4lligkeit (complacency) ist ein Risiko und resultiert aus... (1,00 P.)",
+  "question_string":"54 Selbstgef\u00e4lligkeit (complacency) ist ein Risiko und resultiert aus... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"gesteigerter Cockpit-Automatisierung.",
    "wrong":[
@@ -595,7 +649,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"55   An welchem Punkt der Abbildung befindet sich der ideale Erregungsgrad?\nSiehe Bild (HPL-002)\nP: Leistung\nA: Erregung / Stress (1,00 P.)\nSiehe Anlage 1",
+  "question_string":"55 An welchem Punkt der Abbildung befindet sich der ideale Erregungsgrad?\nSiehe Bild (HPL-002)\nP: Leistung\nA: Erregung / Stress (1,00 P.)\nSiehe Anlage 1",
+  "annex":"cards_2020/img/10/a1",
   "choices":{
    "correct":"Punkt B",
    "wrong":[
@@ -606,7 +661,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"56   An welchem Punkt der Abbildung ist der Pilot \u00fcberfordert?\nSiehe Bild (HPL-002)\nP: Leistung\nA: Erregung / Stress (1,00 P.)\nSiehe Anlage 1",
+  "question_string":"56 An welchem Punkt der Abbildung ist der Pilot \u00fcberfordert?\nSiehe Bild (HPL-002)\nP: Leistung\nA: Erregung / Stress (1,00 P.)\nSiehe Anlage 1",
+  "annex":"cards_2020/img/10/a1",
   "choices":{
    "correct":"Punkt D",
    "wrong":[
@@ -617,7 +673,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"57   Welche der folgenden Eigenschaften werden durch Stress beeinflusst?\n1. Aufmerksamkeit.\n2. Konzentration.\n3. Reaktionsf\u00e4higkeit.\n4. Erinnerungsverm\u00f6gen. (1,00 P.)",
+  "question_string":"57 Welche der folgenden Eigenschaften werden durch Stress beeinflusst?\n1. Aufmerksamkeit.\n2. Konzentration.\n3. Reaktionsf\u00e4higkeit.\n4. Erinnerungsverm\u00f6gen. (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"1,2,3,4.",
    "wrong":[
@@ -628,7 +685,8 @@ var Menschliches_Leistungsvermoegen_q = [
   }
  },
  {
-  "question_string":"58   Welche Antwort ist in Bezug auf Stress richtig? (1,00 P.)",
+  "question_string":"58 Welche Antwort ist in Bezug auf Stress richtig? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Stress kann auftreten, wenn man glaubt, keine L\u00f6sung f\u00fcr ein Problem zu haben",
    "wrong":[

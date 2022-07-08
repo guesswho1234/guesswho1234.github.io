@@ -1,7 +1,8 @@
 var Kommunikation_s = "Kommunikation";
 var Kommunikation_q = [
  {
-  "question_string":"1   In welcher Situation sollte der Pilot eine \"Blindsendung\" \u00fcbermitteln? (1,00 P.)",
+  "question_string":"1 In welcher Situation sollte der Pilot eine \"Blindsendung\" \u00fcbermitteln? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wenn keine Funkverbindung mit der zust\u00e4ndigen Bodenstation aufgebaut werden kann, es aber Anzeichen daf\u00fcr gibt, dass die Funksendung empfangen wird",
    "wrong":[
@@ -12,7 +13,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"2   Das Verlassen einer Kontrollfrequenz, ausgenommen nach Erreichen der endg\u00fcltigen\nParkposition... (1,00 P.)",
+  "question_string":"2 Das Verlassen einer Kontrollfrequenz, ausgenommen nach Erreichen der endg\u00fcltigen\nParkposition... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"muss genehmigt werden.",
    "wrong":[
@@ -23,7 +25,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"3   Wie wird der Begriff \"querab\" (abeam) abgek\u00fcrzt? (1,00 P.)",
+  "question_string":"3 Wie wird der Begriff \"querab\" (abeam) abgek\u00fcrzt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"ABM",
    "wrong":[
@@ -34,7 +37,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"4   Wie wird der Begriff \"Sichtflugregeln\" (visual flight rules) abgek\u00fcrzt? (1,00 P.)",
+  "question_string":"4 Wie wird der Begriff \"Sichtflugregeln\" (visual flight rules) abgek\u00fcrzt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"VFR",
    "wrong":[
@@ -45,7 +49,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"5   Wie wird der Begriff \"Hindernis\" (obstacle) abgek\u00fcrzt? (1,00 P.)",
+  "question_string":"5 Wie wird der Begriff \"Hindernis\" (obstacle) abgek\u00fcrzt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"OBST",
    "wrong":[
@@ -56,7 +61,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"6   Wof\u00fcr steht die Abk\u00fcrzung \"FIS\"? (1,00 P.)",
+  "question_string":"6 Wof\u00fcr steht die Abk\u00fcrzung \"FIS\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Flight information service (Fluginformationsdienst)",
    "wrong":[
@@ -67,7 +73,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"7    Wof\u00fcr steht die Abk\u00fcrzung \"FIR\"? (1,00 P.)",
+  "question_string":"7  Wof\u00fcr steht die Abk\u00fcrzung \"FIR\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Flight information region (Fluginformationsgebiet)",
    "wrong":[
@@ -78,7 +85,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"8    Wof\u00fcr steht die Abk\u00fcrzung \"H24\"? (1,00 P.)",
+  "question_string":"8  Wof\u00fcr steht die Abk\u00fcrzung \"H24\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Durchg\u00e4ngiger Betrieb Tag und Nacht",
    "wrong":[
@@ -89,7 +97,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"9    Wof\u00fcr steht die Abk\u00fcrzung \"HX\"? (1,00 P.)",
+  "question_string":"9  Wof\u00fcr steht die Abk\u00fcrzung \"HX\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Keine bestimmten \u00d6ffnungszeiten",
    "wrong":[
@@ -100,7 +109,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"10   Welcher Wert muss eingestellt werden, wenn der H\u00f6henmesser am Boden \"Null\"\nanzeigen soll? (1,00 P.)",
+  "question_string":"10 Welcher Wert muss eingestellt werden, wenn der H\u00f6henmesser am Boden \"Null\"\nanzeigen soll? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"QFE",
    "wrong":[
@@ -111,7 +121,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"11   Welche H\u00f6he zeigt ein H\u00f6henmesser an, wenn das QNH eingestellt ist? (1,00 P.)",
+  "question_string":"11 Welche H\u00f6he zeigt ein H\u00f6henmesser an, wenn das QNH eingestellt ist? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die H\u00f6he bezogen auf den mittleren Meeresspiegel",
    "wrong":[
@@ -122,7 +133,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"12   Welche H\u00f6he zeigt ein H\u00f6henmesser an, wenn das QFE eingestellt ist? (1,00 P.)",
+  "question_string":"12 Welche H\u00f6he zeigt ein H\u00f6henmesser an, wenn das QFE eingestellt ist? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die H\u00f6he bezogen auf den Luftdruck am Referenzflugplatz",
    "wrong":[
@@ -133,7 +145,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"13   Wof\u00fcr steht die Abk\u00fcrzung \"QDR\"? (1,00 P.)",
+  "question_string":"13 Wof\u00fcr steht die Abk\u00fcrzung \"QDR\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Magnetische Peilung von der Station",
    "wrong":[
@@ -144,7 +157,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"14   Wof\u00fcr steht die Abk\u00fcrzung \"QUJ\"? (1,00 P.)",
+  "question_string":"14 Wof\u00fcr steht die Abk\u00fcrzung \"QUJ\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wahre Peilung zur Station",
    "wrong":[
@@ -155,7 +169,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"15   Wof\u00fcr steht die Abk\u00fcrzung \"QTE\"? (1,00 P.)",
+  "question_string":"15 Wof\u00fcr steht die Abk\u00fcrzung \"QTE\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Rechtweisende Peilung von der Station",
    "wrong":[
@@ -166,7 +181,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"16   Welcher Q-Code wird f\u00fcr die magnetische Peilung von der Station verwendet? (1,00\nP.)",
+  "question_string":"16 Welcher Q-Code wird f\u00fcr die magnetische Peilung von der Station verwendet? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"QDR",
    "wrong":[
@@ -177,7 +193,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"17   Welcher Q-Code wird f\u00fcr die rechtweisende Peilung von der Station verwendet? (1,00\nP.)",
+  "question_string":"17 Welcher Q-Code wird f\u00fcr die rechtweisende Peilung von der Station verwendet? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"QTE",
    "wrong":[
@@ -188,7 +205,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"18   Welcher Q-Code wird f\u00fcr die rechtweisende Peilung zur Station verwendet? (1,00 P.)",
+  "question_string":"18 Welcher Q-Code wird f\u00fcr die rechtweisende Peilung zur Station verwendet? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"QUJ",
    "wrong":[
@@ -199,7 +217,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"19   Welche der angegebenen Meldungen hat eine gr\u00f6\u00dfere Priorit\u00e4t als eine\nFlugsicherheitsmeldung? (1,00 P.)",
+  "question_string":"19 Welche der angegebenen Meldungen hat eine gr\u00f6\u00dfere Priorit\u00e4t als eine\nFlugsicherheitsmeldung? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Peilfunkmeldung",
    "wrong":[
@@ -210,7 +229,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"20   Wie wird eine Meldung bezeichnet, die der Flugverkehrskontrolle dient? (1,00 P.)",
+  "question_string":"20 Wie wird eine Meldung bezeichnet, die der Flugverkehrskontrolle dient? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Flugsicherheitsmeldung",
    "wrong":[
@@ -221,7 +241,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"21   Notmeldungen sind Meldungen... (1,00 P.)",
+  "question_string":"21 Notmeldungen sind Meldungen... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"\u00fcber Luftfahrzeuge und deren Insassen, die von schwerer und unmittelbarer Gefahr bedroht sind und sofortiger Hilfe bed\u00fcrfen.",
    "wrong":[
@@ -232,7 +253,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"22   Dringlichkeitsmeldungen sind Meldungen... (1,00 P.)",
+  "question_string":"22 Dringlichkeitsmeldungen sind Meldungen... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"die die Sicherheit eines Luftfahrzeugs, eines Wasserfahrzeugs, eines anderen Fahrzeugs oder einer Person betreffen.",
    "wrong":[
@@ -243,7 +265,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"23   Flugbetriebsmeldungen sind Meldungen... (1,00 P.)",
+  "question_string":"23 Flugbetriebsmeldungen sind Meldungen... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"\u00fcber den Betrieb oder die Wartung von Einrichtungen, die f\u00fcr die Sicherheit oder Regelm\u00e4\u00dfigkeit des Flugbetriebs wichtig sind.",
    "wrong":[
@@ -254,7 +277,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"24   Welche der angegebenen Meldungen hat die gr\u00f6\u00dfte Priorit\u00e4t? (1,00 P.)",
+  "question_string":"24 Welche der angegebenen Meldungen hat die gr\u00f6\u00dfte Priorit\u00e4t? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Erbitte QDM",
    "wrong":[
@@ -265,7 +289,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"25   Wie wird im Sprechfunkverkehr das Kennzeichen HB-YKM korrekt \u00fcbermittelt? (1,00\nP.)",
+  "question_string":"25 Wie wird im Sprechfunkverkehr das Kennzeichen HB-YKM korrekt \u00fcbermittelt? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Hotel Bravo Yankee Kilo Mike",
    "wrong":[
@@ -276,7 +301,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"26   Wie wird im Sprechfunkverkehr das Kennzeichen OE-JVK korrekt \u00fcbermittelt? (1,00\nP.)",
+  "question_string":"26 Wie wird im Sprechfunkverkehr das Kennzeichen OE-JVK korrekt \u00fcbermittelt? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Oscar Echo Juliett Victor Kilo",
    "wrong":[
@@ -287,7 +313,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"27   Wie wird die Flugh\u00f6he 4.500 ft im Sprechfunkverkehr korrekt \u00fcbermittelt? (1,00 P.)",
+  "question_string":"27 Wie wird die Flugh\u00f6he 4.500 ft im Sprechfunkverkehr korrekt \u00fcbermittelt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Vier Tausend F\u00fcnf Hundert",
    "wrong":[
@@ -298,7 +325,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"28   Wie wird der Steuerkurs 285 im Sprechfunkverkehr korrekt \u00fcbermittelt? (1,00 P.)",
+  "question_string":"28 Wie wird der Steuerkurs 285 im Sprechfunkverkehr korrekt \u00fcbermittelt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Zwo Acht F\u00fcnf",
    "wrong":[
@@ -309,7 +337,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"29   Wie wird die Frequenz 119,500 MHz im Sprechfunkverkehr korrekt \u00fcbermittelt? (1,00\nP.)",
+  "question_string":"29 Wie wird die Frequenz 119,500 MHz im Sprechfunkverkehr korrekt \u00fcbermittelt? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Eins Eins Neun Komma F\u00fcnf",
    "wrong":[
@@ -320,7 +349,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"30   Wie wird die Richtungsangabe \"12 Uhr\" im Sprechfunkverkehr korrekt \u00fcbermittelt?\n(1,00 P.)",
+  "question_string":"30 Wie wird die Richtungsangabe \"12 Uhr\" im Sprechfunkverkehr korrekt \u00fcbermittelt?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Zw\u00f6lf Uhr",
    "wrong":[
@@ -331,7 +361,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"31   In welchem Zeitsystem werden im Sprechfunkverkehr Uhrzeiten \u00fcbermittelt? (1,00 P.)",
+  "question_string":"31 In welchem Zeitsystem werden im Sprechfunkverkehr Uhrzeiten \u00fcbermittelt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"UTC",
    "wrong":[
@@ -342,7 +373,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"32   Wie ist die Uhrzeit 1620 Uhr im Sprechfunkverkehr zu \u00fcbermitteln, wenn eine\nVerwechslungsgefahr mit einer anderen Uhrzeit besteht? (1,00 P.)",
+  "question_string":"32 Wie ist die Uhrzeit 1620 Uhr im Sprechfunkverkehr zu \u00fcbermitteln, wenn eine\nVerwechslungsgefahr mit einer anderen Uhrzeit besteht? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Eins Sechs Zwo Null",
    "wrong":[
@@ -353,7 +385,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"33   Welche Bedeutung hat die Redewendung \"Verstanden\"? (1,00 P.)",
+  "question_string":"33 Welche Bedeutung hat die Redewendung \"Verstanden\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Ich habe Ihre letzte Meldung vollst\u00e4ndig erhalten",
    "wrong":[
@@ -364,7 +397,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"34   Welche Bedeutung hat die Redewendung \"Berichtigung\"? (1,00 P.)",
+  "question_string":"34 Welche Bedeutung hat die Redewendung \"Berichtigung\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bei der \u00dcbermittlung ist ein Fehler unterlaufen, es muss richtig hei\u00dfen...",
    "wrong":[
@@ -375,7 +409,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"35   Welche Bedeutung hat die Redewendung \"Genehmigt\"? (1,00 P.)",
+  "question_string":"35 Welche Bedeutung hat die Redewendung \"Genehmigt\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Erlaubnis f\u00fcr das vorgeschlagene Verfahren erteilt",
    "wrong":[
@@ -386,7 +421,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"36   Welche Redewendung verwendet der Pilot, wenn die Verst\u00e4ndlichkeit der Sendung\n\u00fcberpr\u00fcft werden soll? (1,00 P.)",
+  "question_string":"36 Welche Redewendung verwendet der Pilot, wenn die Verst\u00e4ndlichkeit der Sendung\n\u00fcberpr\u00fcft werden soll? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wie verstehen Sie mich",
    "wrong":[
@@ -397,7 +433,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"37   Welche Redewendung verwendet der Pilot, wenn eine Durchfluggenehmigung\neingeholt werden soll? (1,00 P.)",
+  "question_string":"37 Welche Redewendung verwendet der Pilot, wenn eine Durchfluggenehmigung\neingeholt werden soll? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Erbitte",
    "wrong":[
@@ -408,7 +445,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"38   Welche Redewendung verwendet der Pilot, wenn eine Meldung mit \"Ja\" beantwortet\nwerden soll? (1,00 P.)",
+  "question_string":"38 Welche Redewendung verwendet der Pilot, wenn eine Meldung mit \"Ja\" beantwortet\nwerden soll? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Positiv",
    "wrong":[
@@ -419,7 +457,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"39   Welche Redewendung verwendet der Pilot, wenn eine Meldung mit \"Nein\" beantwortet\nwerden soll? (1,00 P.)",
+  "question_string":"39 Welche Redewendung verwendet der Pilot, wenn eine Meldung mit \"Nein\" beantwortet\nwerden soll? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Negativ",
    "wrong":[
@@ -430,7 +469,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"40   Welche Redewendung verwendet der Pilot, um sich beim Turm \"startklar\" zu melden?\n(1,00 P.)",
+  "question_string":"40 Welche Redewendung verwendet der Pilot, um sich beim Turm \"startklar\" zu melden?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Abflugbereit",
    "wrong":[
@@ -441,7 +481,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"41   Welche Redewendung verwendet der Pilot, um dem Turm ein Durchstartman\u00f6ver\nmitzuteilen? (1,00 P.)",
+  "question_string":"41 Welche Redewendung verwendet der Pilot, um dem Turm ein Durchstartman\u00f6ver\nmitzuteilen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Starte durch",
    "wrong":[
@@ -452,7 +493,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"42   Welches Rufzeichen hat die Flugplatzkontrollstelle? (1,00 P.)",
+  "question_string":"42 Welches Rufzeichen hat die Flugplatzkontrollstelle? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Turm",
    "wrong":[
@@ -463,7 +505,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"43   Welches Rufzeichen hat die Flugverkehrskontrolle auf dem Rollfeld? (1,00 P.)",
+  "question_string":"43 Welches Rufzeichen hat die Flugverkehrskontrolle auf dem Rollfeld? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Rollkontrolle",
    "wrong":[
@@ -474,7 +517,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"44   Welches Rufzeichen hat der Fluginformationsdienst? (1,00 P.)",
+  "question_string":"44 Welches Rufzeichen hat der Fluginformationsdienst? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Information",
    "wrong":[
@@ -485,7 +529,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"45   Wie kann das Kennzeichen D-EAZF abgek\u00fcrzt werden? (1,00 P.)",
+  "question_string":"45 Wie kann das Kennzeichen D-EAZF abgek\u00fcrzt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"DZF",
    "wrong":[
@@ -496,7 +541,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"46   Wann darf der Pilot das Kennzeichen des eigenen Luftfahrzeuges abk\u00fcrzen? (1,00 P.)",
+  "question_string":"46 Wann darf der Pilot das Kennzeichen des eigenen Luftfahrzeuges abk\u00fcrzen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Nachdem die Bodenstation es abgek\u00fcrzt hat",
    "wrong":[
@@ -507,7 +553,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"47   Wie wird das Luftfahrzeug-Kennzeichen beim Einleitungsanruf \u00fcbermittelt? (1,00 P.)",
+  "question_string":"47 Wie wird das Luftfahrzeug-Kennzeichen beim Einleitungsanruf \u00fcbermittelt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Vollst\u00e4ndig mit allen Zeichen",
    "wrong":[
@@ -518,7 +565,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"48   Wie wird ein Einleitungsanruf im Sprechfunkverkehr zwischen D-EAZF und D\u00fcsseldorf\nTurm korrekt abgesetzt? (1,00 P.)",
+  "question_string":"48 Wie wird ein Einleitungsanruf im Sprechfunkverkehr zwischen D-EAZF und D\u00fcsseldorf\nTurm korrekt abgesetzt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"D\u00fcsseldorf Turm DEAZF",
    "wrong":[
@@ -529,7 +577,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"49   Wie best\u00e4tigt der Pilot die Anweisung \"Rufen Sie Hamburg Turm auf 121,275\"? (1,00\nP.)",
+  "question_string":"49 Wie best\u00e4tigt der Pilot die Anweisung \"Rufen Sie Hamburg Turm auf 121,275\"? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"121,275",
    "wrong":[
@@ -540,7 +589,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"50   Was bedeutet die Funktest-Verst\u00e4ndlichkeit 1? (1,00 P.)",
+  "question_string":"50 Was bedeutet die Funktest-Verst\u00e4ndlichkeit 1? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die \u00dcbermittlung ist unverst\u00e4ndlich",
    "wrong":[
@@ -551,7 +601,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"51   Was bedeutet die Funktest-Verst\u00e4ndlichkeit 2? (1,00 P.)",
+  "question_string":"51 Was bedeutet die Funktest-Verst\u00e4ndlichkeit 2? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die \u00dcbermittlung ist zeitweise verst\u00e4ndlich",
    "wrong":[
@@ -562,7 +613,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"52   Was bedeutet die Funktest-Verst\u00e4ndlichkeit 3? (1,00 P.)",
+  "question_string":"52 Was bedeutet die Funktest-Verst\u00e4ndlichkeit 3? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die \u00dcbermittlung ist schwer verst\u00e4ndlich",
    "wrong":[
@@ -573,7 +625,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"53   Was bedeutet die Funktest-Verst\u00e4ndlichkeit 5? (1,00 P.)",
+  "question_string":"53 Was bedeutet die Funktest-Verst\u00e4ndlichkeit 5? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die \u00dcbermittlung ist sehr gut verst\u00e4ndlich",
    "wrong":[
@@ -584,7 +637,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"54   Welche Meldung der Bodenfunkstelle ist NICHT w\u00f6rtlich zu wiederholen? (1,00 P.)",
+  "question_string":"54 Welche Meldung der Bodenfunkstelle ist NICHT w\u00f6rtlich zu wiederholen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wind",
    "wrong":[
@@ -595,7 +649,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"55   Welche Meldung der Bodenfunkstelle ist NICHT w\u00f6rtlich zu wiederholen? (1,00 P.)",
+  "question_string":"55 Welche Meldung der Bodenfunkstelle ist NICHT w\u00f6rtlich zu wiederholen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Verkehrsinformation",
    "wrong":[
@@ -606,7 +661,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"56   Wie muss die Anweisung\n\"DZF nach dem Abheben steigen Sie geradeaus auf 2.500 Fu\u00df, machen Sie dann eine\nRechtskurve Steuerkurs 220, Wind 090 Grad, 5 Knoten, Piste 12, Start frei\"\nbest\u00e4tigt werden? (1,00 P.)",
+  "question_string":"56 Wie muss die Anweisung\n\"DZF nach dem Abheben steigen Sie geradeaus auf 2.500 Fu\u00df, machen Sie dann eine\nRechtskurve Steuerkurs 220, Wind 090 Grad, 5 Knoten, Piste 12, Start frei\"\nbest\u00e4tigt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"DZF nach dem Abheben geradeaus auf 2.500 Fu\u00df, dann Rechtskurve, Steuerkurs 220, Piste 12, Start frei",
    "wrong":[
@@ -617,7 +673,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"57   Wie muss die Anweisung\n\"Melden Sie den \u00dcberflug von PAH\"\nbest\u00e4tigt werden? (1,00 P.)",
+  "question_string":"57 Wie muss die Anweisung\n\"Melden Sie den \u00dcberflug von PAH\"\nbest\u00e4tigt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wilco",
    "wrong":[
@@ -628,7 +685,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"58   Wie muss die Anweisung\n\"Squawk 4321, rufen Sie Bremen Radar auf 131.325\"\nbest\u00e4tigt werden? (1,00 P.)",
+  "question_string":"58 Wie muss die Anweisung\n\"Squawk 4321, rufen Sie Bremen Radar auf 131.325\"\nbest\u00e4tigt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Squawk 4321, 131.325",
    "wrong":[
@@ -639,7 +697,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"59   Wie muss die Information\n\"Sie fliegen in Luftraum Delta ein\"\nbest\u00e4tigt werden? (1,00 P.)",
+  "question_string":"59 Wie muss die Information\n\"Sie fliegen in Luftraum Delta ein\"\nbest\u00e4tigt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Verstanden",
    "wrong":[
@@ -650,7 +709,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"60   Welchen Wolkenbedeckungsgrad gibt die Abk\u00fcrzung \"FEW\"\nin einer METAR-Wettermeldung an? (1,00 P.)",
+  "question_string":"60 Welchen Wolkenbedeckungsgrad gibt die Abk\u00fcrzung \"FEW\"\nin einer METAR-Wettermeldung an? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"1 bis 2 Achtel",
    "wrong":[
@@ -661,7 +721,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"61   Welchen Wolkenbedeckungsgrad gibt die Abk\u00fcrzung \"SCT\"\nin einer METAR-Wettermeldung an? (1,00 P.)",
+  "question_string":"61 Welchen Wolkenbedeckungsgrad gibt die Abk\u00fcrzung \"SCT\"\nin einer METAR-Wettermeldung an? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"3 bis 4 Achtel",
    "wrong":[
@@ -672,7 +733,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"62   Welchen Wolkenbedeckungsgrad gibt die Abk\u00fcrzung \"BKN\"\nin einer METAR-Wettermeldung an? (1,00 P.)",
+  "question_string":"62 Welchen Wolkenbedeckungsgrad gibt die Abk\u00fcrzung \"BKN\"\nin einer METAR-Wettermeldung an? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"5 bis 7 Achtel",
    "wrong":[
@@ -683,7 +745,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"63   Wie wird die Sicht bei vorhandenen 12 Kilometern Sicht per Funk \u00fcbermittelt? (1,00 P.)",
+  "question_string":"63 Wie wird die Sicht bei vorhandenen 12 Kilometern Sicht per Funk \u00fcbermittelt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Eins-Null Kilometer oder mehr",
    "wrong":[
@@ -694,7 +757,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"64   Wann sind Sichtwerte in Metern zu \u00fcbermitteln? (1,00 P.)",
+  "question_string":"64 Wann sind Sichtwerte in Metern zu \u00fcbermitteln? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bis 5 Kilometer",
    "wrong":[
@@ -705,7 +769,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"65   Wann sind Sichtwerte in Kilometern zu \u00fcbermitteln? (1,00 P.)",
+  "question_string":"65 Wann sind Sichtwerte in Kilometern zu \u00fcbermitteln? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Ab 5 Kilometer",
    "wrong":[
@@ -716,7 +781,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"66   Was kann auf einer VOLMET-Frequenz abgeh\u00f6rt werden? (1,00 P.)",
+  "question_string":"66 Was kann auf einer VOLMET-Frequenz abgeh\u00f6rt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wettermeldungen",
    "wrong":[
@@ -727,7 +793,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"67   Welche Navigationseinrichtung kann zur Ausstrahlung der ATIS verwendet werden?\n(1,00 P.)",
+  "question_string":"67 Welche Navigationseinrichtung kann zur Ausstrahlung der ATIS verwendet werden?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"VOR",
    "wrong":[
@@ -738,7 +805,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"68   Wie k\u00f6nnen w\u00e4hrend eines \u00dcberlandfluges Wettermeldungen von Flugpl\u00e4tzen\nabgerufen werden? (1,00 P.)",
+  "question_string":"68 Wie k\u00f6nnen w\u00e4hrend eines \u00dcberlandfluges Wettermeldungen von Flugpl\u00e4tzen\nabgerufen werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"VOLMET",
    "wrong":[
@@ -749,7 +817,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"69   Welcher Transpondercode muss bei einem Funkausfall gesetzt werden? (1,00 P.)",
+  "question_string":"69 Welcher Transpondercode muss bei einem Funkausfall gesetzt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"7600",
    "wrong":[
@@ -760,7 +829,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"70   Mit welcher Redewendung beginnt eine Blindsendung? (1,00 P.)",
+  "question_string":"70 Mit welcher Redewendung beginnt eine Blindsendung? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Blindsendung",
    "wrong":[
@@ -771,7 +841,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"71   Auf welcher Frequenz soll eine Blindsendung \u00fcbermittelt werden? (1,00 P.)",
+  "question_string":"71 Auf welcher Frequenz soll eine Blindsendung \u00fcbermittelt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Auf der aktuellen Frequenz",
    "wrong":[
@@ -782,7 +853,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"72   Wie oft soll eine Blindsendung \u00fcbermittelt werden? (1,00 P.)",
+  "question_string":"72 Wie oft soll eine Blindsendung \u00fcbermittelt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Zwei Mal",
    "wrong":[
@@ -793,7 +865,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"73   In welcher Situation ist der Transpondercode 7600 zu setzen? (1,00 P.)",
+  "question_string":"73 In welcher Situation ist der Transpondercode 7600 zu setzen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Funkausfall",
    "wrong":[
@@ -804,7 +877,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"74   Wie ist bei einem Funkausfall in Luftraum D zu verfahren? (1,00 P.)",
+  "question_string":"74 Wie ist bei einem Funkausfall in Luftraum D zu verfahren? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Der Flug ist entsprechend der erhaltenen Freigabe unter Einhaltung der Sichtflugregeln fortzusetzen oder der Luftraum muss auf dem k\u00fcrzesten Weg verlassen werden",
    "wrong":[
@@ -815,7 +889,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"75   Unter welchen Bedingungen darf bei einem Funkausfall in eine Kontrollzone\neingeflogen werden? (1,00 P.)",
+  "question_string":"75 Unter welchen Bedingungen darf bei einem Funkausfall in eine Kontrollzone\neingeflogen werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wenn zuvor eine Freigabe eingeholt wurde",
    "wrong":[
@@ -826,7 +901,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"76   Welches Dringlichkeitssignal sollte zu Beginn einer Dringlichkeitssendung\nvorzugsweise dreimal \u00fcbermittelt werden? (1,00 P.)",
+  "question_string":"76 Welches Dringlichkeitssignal sollte zu Beginn einer Dringlichkeitssendung\nvorzugsweise dreimal \u00fcbermittelt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Pan Pan",
    "wrong":[
@@ -837,7 +913,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"77   Dringlichkeitsmeldungen sind Meldungen... (1,00 P.)",
+  "question_string":"77 Dringlichkeitsmeldungen sind Meldungen... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"welche die Sicherheit eines Luftfahrzeugs, eines Wasserfahrzeugs, eines anderen Fahrzeugs oder einer Person betreffen.",
    "wrong":[
@@ -848,7 +925,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"78   Notmeldungen sind Meldungen... (1,00 P.)",
+  "question_string":"78 Notmeldungen sind Meldungen... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"\u00fcber Luftfahrzeuge und deren Insassen, die von schwerer und unmittelbarer Gefahr bedroht sind und sofortiger Hilfe bed\u00fcrfen.",
    "wrong":[
@@ -859,7 +937,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"79   Auf welcher Frequenz sollte ein Notruf zun\u00e4chst abgesetzt werden? (1,00 P.)",
+  "question_string":"79 Auf welcher Frequenz sollte ein Notruf zun\u00e4chst abgesetzt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Auf der aktuellen Frequenz",
    "wrong":[
@@ -870,7 +949,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"80   Welche Angaben sollten in einer Dringlichkeitsmeldung \u00fcbermittelt werden? (1,00 P.)",
+  "question_string":"80 Welche Angaben sollten in einer Dringlichkeitsmeldung \u00fcbermittelt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Art der Schwierigkeit oder Beobachtung, wichtige Informationen f\u00fcr die Hilfestellung, Absichten des Piloten, Angaben \u00fcber Standort, Kurs und Flugh\u00f6he.",
    "wrong":[
@@ -881,7 +961,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"81   Die Transpondereinstellung f\u00fcr Notf\u00e4lle lautet... (1,00 P.)",
+  "question_string":"81 Die Transpondereinstellung f\u00fcr Notf\u00e4lle lautet... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"7700.",
    "wrong":[
@@ -892,7 +973,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"82   Welche der folgenden Frequenzen ist f\u00fcr den UKW-Sprechfunkverkehr reserviert?\n(1,00 P.)",
+  "question_string":"82 Welche der folgenden Frequenzen ist f\u00fcr den UKW-Sprechfunkverkehr reserviert?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"118,75 MHz",
    "wrong":[
@@ -903,7 +985,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"83   Welche der folgenden Frequenzen ist f\u00fcr den UKW-Sprechfunkverkehr reserviert?\n(1,00 P.)",
+  "question_string":"83 Welche der folgenden Frequenzen ist f\u00fcr den UKW-Sprechfunkverkehr reserviert?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"120,50 MHz",
    "wrong":[
@@ -914,7 +997,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"84   Zu welchem Frequenzband geh\u00f6ren die Sprechfunkfrequenzen 118.000 bis 136,975\nMHz? (1,00 P.)",
+  "question_string":"84 Zu welchem Frequenzband geh\u00f6ren die Sprechfunkfrequenzen 118.000 bis 136,975\nMHz? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"UKW / VHF",
    "wrong":[
@@ -925,7 +1009,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"85   Welcher der aufgef\u00fchrten St\u00f6rfaktoren wirkt sich auf den Empfang von UKW-\nFunkwellen aus? (1,00 P.)",
+  "question_string":"85 Welcher der aufgef\u00fchrten St\u00f6rfaktoren wirkt sich auf den Empfang von UKW-\nFunkwellen aus? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Luftfahrzeugh\u00f6he",
    "wrong":[
@@ -936,7 +1021,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"86   Mit welcher Geschwindigkeit breiten sich elektromagnetische Wellen ungef\u00e4hr aus?\n(1,00 P.)",
+  "question_string":"86 Mit welcher Geschwindigkeit breiten sich elektromagnetische Wellen ungef\u00e4hr aus?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"300.000 km/s",
    "wrong":[
@@ -947,7 +1033,8 @@ var Kommunikation_q = [
   }
  },
  {
-  "question_string":"87   Die G\u00fcltigkeit einer ATIS betr\u00e4gt... (1,00 P.)",
+  "question_string":"87 Die G\u00fcltigkeit einer ATIS betr\u00e4gt... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"30 Minuten.",
    "wrong":[

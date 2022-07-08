@@ -7,22 +7,50 @@ document.onkeydown = function(evt) {
 	
 	switch (evt.keyCode) {
 			case 37: // left arrow
+				closePopup();
 				previousQuestion();
 				break;
 			case 38: // up arrow
+				closePopup();
 				nextQuestion(true);
 				break;
 			case 39: // right arrow
+				closePopup();
 				nextQuestion();
 				break;
 			case 40: // down arrow
+				closePopup();
 				checkQuestion();
 				break;
 			case 13: // enter
+				closePopup();
 				submitCardset();
+				break;
+			case 27:
+				closePopup();
 				break;
 		}
 };
+
+closePopup = function() {
+	let divsToHide = document.getElementsByClassName("popupContainer");
+	
+	for(let i = 0; i < divsToHide.length; i++){
+		divsToHide[i].style.display = "none";
+		$('body').css('overflow', 'auto');
+	}
+}
+
+hideShow = function(id) {
+    let x = document.getElementById(id);
+    if (x.style.display === "none") {
+        x.style.display = "grid";
+        $('body').css('overflow', 'hidden');
+    } else {
+        x.style.display = "none";
+        $('body').css('overflow', 'auto');
+    }
+}
 
 // An object for a Quiz, which will contain Question objects.
 var Quiz = function(quiz_name) {
@@ -144,6 +172,7 @@ Quiz.prototype.render = function(container) {
 			message = 'NICHT BESTANDEN'
 		} 		
 		
+		$("#annex").hide();
 		$('#question').hide();
 		$('#submit-button').hide();
 		$('#check-question-button').hide();
@@ -170,9 +199,10 @@ Quiz.prototype.render = function(container) {
 }
 
 // An object for a Question, which contains the question, the correct choice, and wrong choices. This block is the constructor.
-var Question = function(question_string, correct_choice, wrong_choices) {
+var Question = function(question_string, annex, correct_choice, wrong_choices) {
 	// Private fields for an instance of a Question object.
 	this.question_string = question_string;
+	this.annex = annex;
 	this.choices = [];
 	this.user_choice_index = null; // Index of the user's choice selection
 
@@ -248,6 +278,17 @@ Question.prototype.render = function(container) {
 		// Trigger a user-select-change
 		container.trigger('user-select-change');
 	});
+	
+	// Show annex button if an annex is available for the current question
+	$("#annexFile").remove();
+	if (this.annex != "") {
+		$("#annex").show();
+		console.log('<img id="annexFile" src="' + this.annex + '.jpg" />');
+		var e = $('<img id="annexFile" src="' + this.annex + '.jpg" />');
+		$("#annexData").append(e);
+	} else {
+		$("#annex").hide();
+	}
 }
 
 var selectQuiz = function(cardSet_, all_questions_){
@@ -271,7 +312,7 @@ var selectQuiz = function(cardSet_, all_questions_){
 	// Create Question objects from all_questions and add them to the Quiz object
 	for (var i = 0; i < all_questions.length; i++) {
 		// Create a new Question object
-		var question = new Question(all_questions[i].question_string, all_questions[i].choices.correct, all_questions[i].choices.wrong);
+		var question = new Question(all_questions[i].question_string, all_questions[i].annex, all_questions[i].choices.correct, all_questions[i].choices.wrong);
 
 		// Add the question to the instance of the Quiz object that we created previously
 		quiz.add_question(question);

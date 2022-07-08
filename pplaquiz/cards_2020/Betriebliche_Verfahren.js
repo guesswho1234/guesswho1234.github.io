@@ -1,7 +1,8 @@
 var Betriebliche_Verfahren_s = "Betriebliche_Verfahren";
 var Betriebliche_Verfahren_q = [
  {
-  "question_string":"1   Der Begriff \"Flugzeit\" ist definiert als... (1,00 P.)",
+  "question_string":"1 Der Begriff \"Flugzeit\" ist definiert als... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"die Gesamtzeit zwischen der ersten Bewegung eines Luftfahrzeuges zum Zwecke des Starts bis zum endg\u00fcltigen Stillstand nach der Landung.",
    "wrong":[
@@ -12,7 +13,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"2   Bei einem geplanten Flug \u00fcber Wasser kann w\u00e4hrend einer gewissen Zeitspanne im\nFalle einer Notlandung kein Land erreicht werden.\nWorauf ist zu achten? (1,00 P.)",
+  "question_string":"2 Bei einem geplanten Flug \u00fcber Wasser kann w\u00e4hrend einer gewissen Zeitspanne im\nFalle einer Notlandung kein Land erreicht werden.\nWorauf ist zu achten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"F\u00fcr alle Insassen m\u00fcssen Rettungswesten oder Rettungsboote vorhanden sein",
    "wrong":[
@@ -23,7 +25,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"3   Welche der folgenden Faktoren k\u00f6nnen einen Einfluss auf die am Boden empfundene\nL\u00e4rmbel\u00e4stigung durch ein Luftfahrzeug haben?\n1) Triebwerksleistung\n2) Propellerdrehzahl\n3) Fahrwerksstellung\n4) Landeklappenstellung\n5) Wahl des Flugweges\n6) Flugh\u00f6he\n7) Flugregeln (1,00 P.)",
+  "question_string":"3 Welche der folgenden Faktoren k\u00f6nnen einen Einfluss auf die am Boden empfundene\nL\u00e4rmbel\u00e4stigung durch ein Luftfahrzeug haben?\n1) Triebwerksleistung\n2) Propellerdrehzahl\n3) Fahrwerksstellung\n4) Landeklappenstellung\n5) Wahl des Flugweges\n6) Flugh\u00f6he\n7) Flugregeln (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"1, 2, 3, 4, 5, 6.",
    "wrong":[
@@ -34,7 +37,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"4   Wie kann der Pilot eines motorgetriebenen Luftfahrzeuges die L\u00e4rmemission im Sink-\nund Anflug minimieren? (1,00 P.)",
+  "question_string":"4 Wie kann der Pilot eines motorgetriebenen Luftfahrzeuges die L\u00e4rmemission im Sink-\nund Anflug minimieren? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Hoher Anflug mit geringstm\u00f6glicher Triebwerksleistung, sp\u00e4t sinken und sp\u00e4t konfigurieren, vorgegebene Anflugstrecken einhalten",
    "wrong":[
@@ -45,7 +49,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"5    Wann sollten Kurven aus L\u00e4rmschutzgr\u00fcnden in niedrigen H\u00f6hen \u00fcber Ortschaften\nnicht geflogen werden? (1,00 P.)",
+  "question_string":"5  Wann sollten Kurven aus L\u00e4rmschutzgr\u00fcnden in niedrigen H\u00f6hen \u00fcber Ortschaften\nnicht geflogen werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Im Steigflug",
    "wrong":[
@@ -56,7 +61,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"6    Wie sollten Abfl\u00fcge in der N\u00e4he von Ortschaften erfolgen? (1,00 P.)",
+  "question_string":"6  Wie sollten Abfl\u00fcge in der N\u00e4he von Ortschaften erfolgen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Ortschaften m\u00f6glichst umfliegen oder in ausreichender H\u00f6he \u00fcberfliegen",
    "wrong":[
@@ -67,7 +73,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"7    Welche Triebwerke sind anf\u00e4llig f\u00fcr Vergaserbr\u00e4nde? (1,00 P.)",
+  "question_string":"7  Welche Triebwerke sind anf\u00e4llig f\u00fcr Vergaserbr\u00e4nde? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Kolbentriebwerke",
    "wrong":[
@@ -78,7 +85,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"8    Welche Gefahr kann beim Anlassen des Triebwerks kurz nach dem \u201ePumpen\" am\nGashebel entstehen? (1,00 P.)",
+  "question_string":"8  Welche Gefahr kann beim Anlassen des Triebwerks kurz nach dem \u201ePumpen\" am\nGashebel entstehen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Flammenr\u00fcckschlag und Vergaserbrand",
    "wrong":[
@@ -89,7 +97,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"9    Welche Gefahr kann beim Anlassen des Motors bestehen? (1,00 P.)",
+  "question_string":"9  Welche Gefahr kann beim Anlassen des Motors bestehen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Vergaserbrand",
    "wrong":[
@@ -100,7 +109,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"10   Warum darf ein Triebwerk, das gebrannt hat, nicht wieder angelassen werden? (1,00\nP.)",
+  "question_string":"10 Warum darf ein Triebwerk, das gebrannt hat, nicht wieder angelassen werden? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Die Gefahr eines erneuten Aufflammens des Feuers w\u00e4re zu gro\u00df",
    "wrong":[
@@ -111,7 +121,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"11   Welches bei einem Triebwerksbrand entstehende Gas ist besonders gef\u00e4hrlich? (1,00\nP.)",
+  "question_string":"11 Welches bei einem Triebwerksbrand entstehende Gas ist besonders gef\u00e4hrlich? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Kohlenmonoxid",
    "wrong":[
@@ -122,7 +133,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"12   W\u00e4hrend eines Triebwerksbrandes dringt Rauch in die Kabine ein.\nWelche Ma\u00dfnahmen sind umgehend zu ergreifen? (1,00 P.)",
+  "question_string":"12 W\u00e4hrend eines Triebwerksbrandes dringt Rauch in die Kabine ein.\nWelche Ma\u00dfnahmen sind umgehend zu ergreifen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Heizungsanlage und L\u00fcftungsanlage ausschalten",
    "wrong":[
@@ -133,7 +145,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"13   Welche erste Ma\u00dfnahme ist bei einem Kabelbrand w\u00e4hrend des Fluges angemessen?\n(1,00 P.)",
+  "question_string":"13 Welche erste Ma\u00dfnahme ist bei einem Kabelbrand w\u00e4hrend des Fluges angemessen?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Hauptschalter ausschalten",
    "wrong":[
@@ -144,7 +157,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"14   Welches L\u00f6schmittel ist bei Luftfahrzeugbr\u00e4nden am wenigsten geeignet? (1,00 P.)",
+  "question_string":"14 Welches L\u00f6schmittel ist bei Luftfahrzeugbr\u00e4nden am wenigsten geeignet? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wasser",
    "wrong":[
@@ -155,7 +169,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"15   Im Reiseflug dringt geringf\u00fcgig Rauch hinter dem Instrumentenbrett hervor.\nDer Pilot vermutet einen elektrischen Brand.\nWelche Ma\u00dfnahme sollte der Pilot unter Ber\u00fccksichtigung des Flughandbuchs als\nerstes ergreifen? (1,00 P.)",
+  "question_string":"15 Im Reiseflug dringt geringf\u00fcgig Rauch hinter dem Instrumentenbrett hervor.\nDer Pilot vermutet einen elektrischen Brand.\nWelche Ma\u00dfnahme sollte der Pilot unter Ber\u00fccksichtigung des Flughandbuchs als\nerstes ergreifen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Hauptschalter ausschalten",
    "wrong":[
@@ -166,7 +181,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"16   Im Reiseflug dringt geringf\u00fcgig Rauch hinter dem Instrumentenbrett hervor.\nDer Pilot vermutet eine Brandquelle im Motorraum.\nWelche Ma\u00dfnahme sollte der Pilot unter Ber\u00fccksichtigung des Flughandbuchs als\nerstes ergreifen? (1,00 P.)",
+  "question_string":"16 Im Reiseflug dringt geringf\u00fcgig Rauch hinter dem Instrumentenbrett hervor.\nDer Pilot vermutet eine Brandquelle im Motorraum.\nWelche Ma\u00dfnahme sollte der Pilot unter Ber\u00fccksichtigung des Flughandbuchs als\nerstes ergreifen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Heizung schlie\u00dfen.",
    "wrong":[
@@ -177,7 +193,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"17   Eine Windscherung ist... (1,00 P.)",
+  "question_string":"17 Eine Windscherung ist... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"eine vertikale oder horizontale \u00c4nderung von Windgeschwindigkeit und Windrichtung.",
    "wrong":[
@@ -188,7 +205,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"18   Welche Wettererscheinung beg\u00fcnstigt das Auftreten von horizontalen Scherwinden\n(windshear)? (1,00 P.)",
+  "question_string":"18 Welche Wettererscheinung beg\u00fcnstigt das Auftreten von horizontalen Scherwinden\n(windshear)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Gewitter",
    "wrong":[
@@ -199,7 +217,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"19   In welcher der folgenden Situationen kann mit Windscherung (windshear) gerechnet\nwerden? (1,00 P.)",
+  "question_string":"19 In welcher der folgenden Situationen kann mit Windscherung (windshear) gerechnet\nwerden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"W\u00e4hrend einer Inversionswetterlage",
    "wrong":[
@@ -210,7 +229,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"20   W\u00e4hrend des Anfluges ger\u00e4t das Luftfahrzeug in eine Windscherung (windshear)\nmit abnehmendem Gegenwind.\nWie \u00e4ndern sich der Anflugpfad und die angezeigte Geschwindigkeit (IAS),\nwenn der Pilot keine Korrekturen vornimmt? (1,00 P.)",
+  "question_string":"20 W\u00e4hrend des Anfluges ger\u00e4t das Luftfahrzeug in eine Windscherung (windshear)\nmit abnehmendem Gegenwind.\nWie \u00e4ndern sich der Anflugpfad und die angezeigte Geschwindigkeit (IAS),\nwenn der Pilot keine Korrekturen vornimmt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Anflugpfad wird tiefer. IAS wird abnehmen.",
    "wrong":[
@@ -221,7 +241,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"21   W\u00e4hrend des Anfluges ger\u00e4t das Luftfahrzeug in eine Windscherung (windshear)\nmit zunehmendem Gegenwind.\nWie \u00e4ndern sich der Anflugpfad und die angezeigte Geschwindigkeit (IAS),\nwenn der Pilot keine Korrekturen vornimmt? (1,00 P.)",
+  "question_string":"21 W\u00e4hrend des Anfluges ger\u00e4t das Luftfahrzeug in eine Windscherung (windshear)\nmit zunehmendem Gegenwind.\nWie \u00e4ndern sich der Anflugpfad und die angezeigte Geschwindigkeit (IAS),\nwenn der Pilot keine Korrekturen vornimmt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Anflugpfad wird h\u00f6her. IAS wird zunehmen.",
    "wrong":[
@@ -232,7 +253,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"22   W\u00e4hrend des Anfluges ger\u00e4t das Luftfahrzeug in eine Windscherung (windshear)\nmit abnehmendem R\u00fcckenwind.\nWie \u00e4ndern sich der Anflugpfad und die angezeigte Geschwindigkeit (IAS),\nwenn der Pilot keine Korrekturen vornimmt? (1,00 P.)",
+  "question_string":"22 W\u00e4hrend des Anfluges ger\u00e4t das Luftfahrzeug in eine Windscherung (windshear)\nmit abnehmendem R\u00fcckenwind.\nWie \u00e4ndern sich der Anflugpfad und die angezeigte Geschwindigkeit (IAS),\nwenn der Pilot keine Korrekturen vornimmt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Anflugpfad wird h\u00f6her. IAS wird zunehmen.",
    "wrong":[
@@ -243,7 +265,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"23   Nach dem Start ger\u00e4t ein Luftfahrzeug in eine Windscherung (windshear)\nmit abnehmendem Gegenwind.\nWelches sind die Auswirkungen auf das Luftfahrzeug? (1,00 P.)",
+  "question_string":"23 Nach dem Start ger\u00e4t ein Luftfahrzeug in eine Windscherung (windshear)\nmit abnehmendem Gegenwind.\nWelches sind die Auswirkungen auf das Luftfahrzeug? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Das Luftfahrzeug fliegt unterhalb des vorgesehenen Steigpfades",
    "wrong":[
@@ -254,7 +277,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"24   Wie k\u00f6nnen Scherwinde (windshear) w\u00e4hrend des Fluges erkannt werden? (1,00 P.)",
+  "question_string":"24 Wie k\u00f6nnen Scherwinde (windshear) w\u00e4hrend des Fluges erkannt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Pl\u00f6tzliche und scheinbar unbegr\u00fcndete \u00c4nderung von Flugh\u00f6he, Geschwindigkeit, Steig- oder Sinkrate",
    "wrong":[
@@ -265,7 +289,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"25   Womit ist an Punkt 2 der abgebildeten Fallb\u00f6e zu rechnen?\nSiehe Bild (OPR-001). (1,00 P.)\nSiehe Anlage 1",
+  "question_string":"25 Womit ist an Punkt 2 der abgebildeten Fallb\u00f6e zu rechnen?\nSiehe Bild (OPR-001). (1,00 P.)\nSiehe Anlage 1",
+  "annex":"cards_2020/img/60/a1",
   "choices":{
    "correct":"Abnahme der Steigrate",
    "wrong":[
@@ -276,7 +301,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"26   Womit ist an Punkt 3 der abgebildeten Fallb\u00f6e zu rechnen?\nSiehe Bild (OPR-001). (1,00 P.)\nSiehe Anlage 1",
+  "question_string":"26 Womit ist an Punkt 3 der abgebildeten Fallb\u00f6e zu rechnen?\nSiehe Bild (OPR-001). (1,00 P.)\nSiehe Anlage 1",
+  "annex":"cards_2020/img/60/a1",
   "choices":{
    "correct":"Geschwindigkeitsabnahme",
    "wrong":[
@@ -287,7 +313,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"27   Wie l\u00e4sst sich das Einfliegen in Scherwinde (windshear) vermeiden? (1,00 P.)",
+  "question_string":"27 Wie l\u00e4sst sich das Einfliegen in Scherwinde (windshear) vermeiden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"W\u00e4hrend des Durchzugs von starken Schauern oder Gewittern nicht starten oder landen",
    "wrong":[
@@ -298,7 +325,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"28   Wie sollte beim Einflug in eine Windscherung unter Ber\u00fccksichtigung des\nFlughandbuchs verfahren werden?\n1.   Reduzierung der Geschwindigkeit.\n2.   Fahrwerk und Klappen einfahren.\n3.   Gegenw\u00e4rtige Konfiguration beibehalten.\n4.   Schub anpassen. (1,00 P.)",
+  "question_string":"28 Wie sollte beim Einflug in eine Windscherung unter Ber\u00fccksichtigung des\nFlughandbuchs verfahren werden?\n1. Reduzierung der Geschwindigkeit.\n2. Fahrwerk und Klappen einfahren.\n3. Gegenw\u00e4rtige Konfiguration beibehalten.\n4. Schub anpassen. (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"3 und 4",
    "wrong":[
@@ -309,7 +337,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"29   Nach dem Abheben von einem Flugplatz steigt die Geschwindigkeit im\nAnfangssteigflug wesentlich st\u00e4rker an als erwartet.\nWelche Entwicklung ist zu erwarten, falls in eine Fallb\u00f6e (microburst) eingeflogen\nwurde? (1,00 P.)",
+  "question_string":"29 Nach dem Abheben von einem Flugplatz steigt die Geschwindigkeit im\nAnfangssteigflug wesentlich st\u00e4rker an als erwartet.\nWelche Entwicklung ist zu erwarten, falls in eine Fallb\u00f6e (microburst) eingeflogen\nwurde? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Abnahme der Steigrate und Abnahme der Fluggeschwindigkeit",
    "wrong":[
@@ -320,7 +349,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"30   Unmittelbar nach dem Start wird in eine starke Fallb\u00f6e (microburst) eingeflogen.\nDurch welche Reaktion l\u00e4sst sich ein unbeabsichtigtes Sinken vermeiden? (1,00 P.)",
+  "question_string":"30 Unmittelbar nach dem Start wird in eine starke Fallb\u00f6e (microburst) eingeflogen.\nDurch welche Reaktion l\u00e4sst sich ein unbeabsichtigtes Sinken vermeiden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Maximale Triebwerksleistung setzen, aktuelle Konfiguration beibehalten und mit der Geschwindigkeit der besten Steigrate weitersteigen",
    "wrong":[
@@ -331,7 +361,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"31   Wirbelschleppen entstehen beim Start, sobald das Luftfahrzeug... (1,00 P.)",
+  "question_string":"31 Wirbelschleppen entstehen beim Start, sobald das Luftfahrzeug... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"mit dem Bugrad abhebt.",
    "wrong":[
@@ -342,7 +373,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"32   Wodurch entstehen Wirbelschleppen? (1,00 P.)",
+  "question_string":"32 Wodurch entstehen Wirbelschleppen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Durch den Druckausgleich am Randbogen einer Tragfl\u00e4che",
    "wrong":[
@@ -353,7 +385,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"33   Wirbelschleppen sind besonders stark, wenn ein Flugzeug... (1,00 P.)",
+  "question_string":"33 Wirbelschleppen sind besonders stark, wenn ein Flugzeug... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"langsam fliegt.",
    "wrong":[
@@ -364,7 +397,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"34   Wirbelschleppen sind besonders stark, wenn ein Flugzeug... (1,00 P.)",
+  "question_string":"34 Wirbelschleppen sind besonders stark, wenn ein Flugzeug... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"eine gro\u00dfe Masse hat.",
    "wrong":[
@@ -375,7 +409,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"35   Die St\u00e4rke von Wirbelschleppen ist abh\u00e4ngig von... (1,00 P.)",
+  "question_string":"35 Die St\u00e4rke von Wirbelschleppen ist abh\u00e4ngig von... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"dem Gewicht.",
    "wrong":[
@@ -386,7 +421,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"36   Zwei Flugzeuge gleichen Musters fliegen bei gleicher Masse und in gleicher\nKonfiguration mit unterschiedlichen Geschwindigkeiten.\nWelches Flugzeug verursacht st\u00e4rkere Wirbelschleppen? (1,00 P.)",
+  "question_string":"36 Zwei Flugzeuge gleichen Musters fliegen bei gleicher Masse und in gleicher\nKonfiguration mit unterschiedlichen Geschwindigkeiten.\nWelches Flugzeug verursacht st\u00e4rkere Wirbelschleppen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Das langsamere Flugzeug",
    "wrong":[
@@ -397,7 +433,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"37   Zwei Flugzeuge gleichen Musters fliegen bei gleicher Masse und gleicher Klappen-\nKonfiguration mit verschiedenen Geschwindigkeiten in unterschiedlicher H\u00f6he.\nWelches Flugzeug verursacht st\u00e4rkere Wirbelschleppen? (1,00 P.)",
+  "question_string":"37 Zwei Flugzeuge gleichen Musters fliegen bei gleicher Masse und gleicher Klappen-\nKonfiguration mit verschiedenen Geschwindigkeiten in unterschiedlicher H\u00f6he.\nWelches Flugzeug verursacht st\u00e4rkere Wirbelschleppen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Das Flugzeug mit geringerer Geschwindigkeit",
    "wrong":[
@@ -408,7 +445,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"38   Welche Gefahr besteht bei leichtem Seitenwind, wenn zuvor ein schweres Flugzeug\ngestartet ist? (1,00 P.)",
+  "question_string":"38 Welche Gefahr besteht bei leichtem Seitenwind, wenn zuvor ein schweres Flugzeug\ngestartet ist? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Eine Wirbelschleppe verbleibt station\u00e4r in Pistenn\u00e4he",
    "wrong":[
@@ -419,7 +457,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"39   Auf einer langen Piste soll mit einem Luftfahrzeug unter zwei Tonnen Abflugmasse\nkurz hinter einem Verkehrsflugzeug der Wirbelschleppenkategorie \"Medium\" oder\n\"Heavy\" gelandet werden.\nWie kann der Wirbelschleppenbereich des Verkehrsflugzeuges gemieden werden?\n(1,00 P.)",
+  "question_string":"39 Auf einer langen Piste soll mit einem Luftfahrzeug unter zwei Tonnen Abflugmasse\nkurz hinter einem Verkehrsflugzeug der Wirbelschleppenkategorie \"Medium\" oder\n\"Heavy\" gelandet werden.\nWie kann der Wirbelschleppenbereich des Verkehrsflugzeuges gemieden werden?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Durch einen hohen Anflug und eine Landung hinter dem Punkt, an dem das Bugfahrwerk des Verkehrsflugzeuges aufgesetzt hat",
    "wrong":[
@@ -430,7 +469,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"40   Was ist beim Rollen / Man\u00f6vrieren hinter einem Verkehrsflugzeug zu beachten? (1,00\nP.)",
+  "question_string":"40 Was ist beim Rollen / Man\u00f6vrieren hinter einem Verkehrsflugzeug zu beachten? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Aufgrund des Abgasstrahls sollten mindestens 200 m Abstand gehalten werden",
    "wrong":[
@@ -441,7 +481,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"41   Ein technisches Versagen im Reiseflug erfordert eine Notlandung au\u00dferhalb eines\nFlugplatzes.\nWelche Schritte sind unter Ber\u00fccksichtigung des Flughandbuchs in der angegebenen\nReihenfolge notwendig? (1,00 P.)",
+  "question_string":"41 Ein technisches Versagen im Reiseflug erfordert eine Notlandung au\u00dferhalb eines\nFlugplatzes.\nWelche Schritte sind unter Ber\u00fccksichtigung des Flughandbuchs in der angegebenen\nReihenfolge notwendig? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Geeignetes Landefeld lokalisieren, Anflug planen, zutreffendes Notverfahren abarbeiten, Notruf absetzen, rechtzeitig voll konzentriert mit dem Anflug beginnen.",
    "wrong":[
@@ -452,7 +493,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"42   Welches Verfahren ist geeignet, um auf ein unvorbereitetes Au\u00dfenlandefeld\nanzufliegen? (1,00 P.)",
+  "question_string":"42 Welches Verfahren ist geeignet, um auf ein unvorbereitetes Au\u00dfenlandefeld\nanzufliegen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Geeignetes Landefeld lokalisieren, Anflug planen, zutreffendes Notverfahren abarbeiten, Notruf absetzen, rechtzeitig voll konzentriert mit dem Anflug beginnen.",
    "wrong":[
@@ -463,7 +505,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"43   Welches der angegebenen Gel\u00e4nde ist f\u00fcr eine Au\u00dfenlandung am besten geeignet?\n(1,00 P.)",
+  "question_string":"43 Welches der angegebenen Gel\u00e4nde ist f\u00fcr eine Au\u00dfenlandung am besten geeignet?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Abgeerntetes Getreidefeld",
    "wrong":[
@@ -474,7 +517,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"44   Bei einer Notlandung handelt es sich immer um eine... (1,00 P.)",
+  "question_string":"44 Bei einer Notlandung handelt es sich immer um eine... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"durch die Umst\u00e4nde erzwungene Landung.",
    "wrong":[
@@ -485,7 +529,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"45   Wie wird eine durch die Umst\u00e4nde erzwungene Landung bezeichnet? (1,00 P.)",
+  "question_string":"45 Wie wird eine durch die Umst\u00e4nde erzwungene Landung bezeichnet? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Notlandung",
    "wrong":[
@@ -496,7 +541,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"46   Bei einer Sicherheitslandung handelt es sich immer um eine... (1,00 P.)",
+  "question_string":"46 Bei einer Sicherheitslandung handelt es sich immer um eine... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"zur Aufrechterhaltung der Sicherheit durchgef\u00fchrte Landung.",
    "wrong":[
@@ -507,7 +553,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"47   Welches der genannten Gel\u00e4nde eignet sich am besten f\u00fcr eine Au\u00dfenlandung? (1,00\nP.)",
+  "question_string":"47 Welches der genannten Gel\u00e4nde eignet sich am besten f\u00fcr eine Au\u00dfenlandung? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Ein hellbrauner Acker mit kurzem Bewuchs",
    "wrong":[
@@ -518,7 +565,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"48   Was ist f\u00fcr VFR-Fl\u00fcge \u00fcber Wasser zu beachten, wenn nach einem Triebwerksausfall\ndie K\u00fcste nicht erreicht werden kann? (1,00 P.)",
+  "question_string":"48 Was ist f\u00fcr VFR-Fl\u00fcge \u00fcber Wasser zu beachten, wenn nach einem Triebwerksausfall\ndie K\u00fcste nicht erreicht werden kann? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Schwimmwesten oder Rettungsflo\u00df f\u00fcr alle Passagiere mitf\u00fchren",
    "wrong":[
@@ -529,7 +577,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"49   Wor\u00fcber sollten Mitflieger in einem Notfall mit bevorstehender Notlandung kurz\ninformiert werden? (1,00 P.)",
+  "question_string":"49 Wor\u00fcber sollten Mitflieger in einem Notfall mit bevorstehender Notlandung kurz\ninformiert werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Art des Notfalls, Intention, Schutzhaltung, Evakuierungswege, Verhalten nach der Landung",
    "wrong":[
@@ -540,7 +589,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"50   Nach einer Sicherheitslandung sind die Bremsen und Reifen stark erhitzt.\nWie sollte sich der Pilot den Reifen nur n\u00e4hern? (1,00 P.)",
+  "question_string":"50 Nach einer Sicherheitslandung sind die Bremsen und Reifen stark erhitzt.\nWie sollte sich der Pilot den Reifen nur n\u00e4hern? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Von der Vorder- oder R\u00fcckseite",
    "wrong":[
@@ -551,7 +601,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"51   Was muss bei \u00fcberhitzten Bremsen beachtet werden? (1,00 P.)",
+  "question_string":"51 Was muss bei \u00fcberhitzten Bremsen beachtet werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Es kann zum Bersten von Reifen in Axialrichtung kommen",
    "wrong":[
@@ -562,7 +613,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"52   Wann sollten die Schwimmwesten nach einer Notwasserung aufgeblasen werden?\n(1,00 P.)",
+  "question_string":"52 Wann sollten die Schwimmwesten nach einer Notwasserung aufgeblasen werden?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Nach Verlassen des Luftfahrzeuges",
    "wrong":[
@@ -573,7 +625,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"53   Wie wirkt sich feuchtes Gras auf die Start- und Landestrecke aus? (1,00 P.)",
+  "question_string":"53 Wie wirkt sich feuchtes Gras auf die Start- und Landestrecke aus? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Verl\u00e4ngerung der Startstrecke und Verl\u00e4ngerung der Landestrecke",
    "wrong":[
@@ -584,7 +637,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"54   Eine Piste gilt als kontaminiert, wenn... (1,00 P.)",
+  "question_string":"54 Eine Piste gilt als kontaminiert, wenn... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"mehr als 25% der Pistenoberfl\u00e4che innerhalb der ben\u00f6tigten L\u00e4nge und Breite durch mehr als 3 mm Wasser, Schneematsch, Schnee oder Eis bedeckt sind.",
    "wrong":[
@@ -595,7 +649,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"55   Welchen Bedeckungsgrad mit Eis oder kompaktem Schnee muss eine Piste\nmindestens aufweisen, wenn diese als \"kontaminiert\" bezeichnet wird? (1,00 P.)",
+  "question_string":"55 Welchen Bedeckungsgrad mit Eis oder kompaktem Schnee muss eine Piste\nmindestens aufweisen, wenn diese als \"kontaminiert\" bezeichnet wird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"25 %",
    "wrong":[
@@ -606,7 +661,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"56   Welche Gefahr geht von nassem Schnee auf der Piste aus? (1,00 P.)",
+  "question_string":"56 Welche Gefahr geht von nassem Schnee auf der Piste aus? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Erh\u00f6hung des Rollwiderstandes",
    "wrong":[
@@ -617,7 +673,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"57   Welche Gefahr geht von stehendem Wasser auf der Piste aus? (1,00 P.)",
+  "question_string":"57 Welche Gefahr geht von stehendem Wasser auf der Piste aus? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Erh\u00f6hung des Rollwiderstandes",
    "wrong":[
@@ -628,7 +685,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"58   Welche Gefahr besteht bei einer Landung nach einem starken Regenschauer? (1,00\nP.)",
+  "question_string":"58 Welche Gefahr besteht bei einer Landung nach einem starken Regenschauer? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"L\u00e4ngerer Bremsweg durch Aquaplaning",
    "wrong":[
@@ -639,7 +697,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"59   Welche Reaktion ist angemessen, wenn bei einer Landung Aquaplaning vermutet\nwird? (1,00 P.)",
+  "question_string":"59 Welche Reaktion ist angemessen, wenn bei einer Landung Aquaplaning vermutet\nwird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bei drehenden R\u00e4dern m\u00e4\u00dfig bremsen; die Richtung mit aerodynamischen Mitteln halten",
    "wrong":[
@@ -650,7 +709,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"60   Wie sollte die Landung auf einer kontaminierten Piste mit schlechten Bremswerten\ndurchgef\u00fchrt werden, wenn sich diese nicht vermeiden l\u00e4sst? (1,00 P.)",
+  "question_string":"60 Wie sollte die Landung auf einer kontaminierten Piste mit schlechten Bremswerten\ndurchgef\u00fchrt werden, wenn sich diese nicht vermeiden l\u00e4sst? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bei m\u00f6glichst geringer Seitenwindkomponente mit maximaler Landeklappenstellung, positiver L\u00e4ngsneigung und Mindestfahrt aufsetzen, vorsichtig bremsen.",
    "wrong":[
@@ -661,7 +721,8 @@ var Betriebliche_Verfahren_q = [
   }
  },
  {
-  "question_string":"61   Im Endanflug auf ein Au\u00dfenlandegel\u00e4nde stellt der Pilot fest, dass die Oberfl\u00e4che sehr\nuneben ist.\nWelche Landetechnik ist zu empfehlen? (1,00 P.)",
+  "question_string":"61 Im Endanflug auf ein Au\u00dfenlandegel\u00e4nde stellt der Pilot fest, dass die Oberfl\u00e4che sehr\nuneben ist.\nWelche Landetechnik ist zu empfehlen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Aufsetzen mit geringstm\u00f6glicher Geschwindigkeit und das H\u00f6henruder bis zum Stillstand gezogen halten",
    "wrong":[

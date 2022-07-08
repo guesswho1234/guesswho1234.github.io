@@ -1,7 +1,8 @@
 var Luftrecht_s = "Luftrecht";
 var Luftrecht_q = [
  {
-  "question_string":"1   Welche dieser Dokumente m\u00fcssen auf internationalen Fl\u00fcgen immer mitgef\u00fchrt\nwerden?\na) Eintragungsschein\nb) Luftt\u00fcchtigkeitszeugnis\nc) Bescheinigung \u00fcber die Nachpr\u00fcfung der Luftt\u00fcchtigkeit\nd) EASA Form-1\ne) Bordbuch\nf) Entsprechende Ausweise f\u00fcr jedes Besatzungsmitglied\ng) Technische Lebenslaufakte (1,00 P.)",
+  "question_string":"1 Welche dieser Dokumente m\u00fcssen auf internationalen Fl\u00fcgen immer mitgef\u00fchrt\nwerden?\na) Eintragungsschein\nb) Luftt\u00fcchtigkeitszeugnis\nc) Bescheinigung \u00fcber die Nachpr\u00fcfung der Luftt\u00fcchtigkeit\nd) EASA Form-1\ne) Bordbuch\nf) Entsprechende Ausweise f\u00fcr jedes Besatzungsmitglied\ng) Technische Lebenslaufakte (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"a, b, c, e, f.",
    "wrong":[
@@ -12,7 +13,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"2   Wie wird ein Gebiet bezeichnet, in welches der Einflug nur mit bestimmten Auflagen\nerlaubt ist? (1,00 P.)",
+  "question_string":"2 Wie wird ein Gebiet bezeichnet, in welches der Einflug nur mit bestimmten Auflagen\nerlaubt ist? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Flugbeschr\u00e4nkungsgebiet",
    "wrong":[
@@ -23,7 +25,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"3   Wo kann die Art der Luftraumbeschr\u00e4nkung innerhalb eines\nFlugbeschr\u00e4nkungsgebietes nachgelesen werden? (1,00 P.)",
+  "question_string":"3 Wo kann die Art der Luftraumbeschr\u00e4nkung innerhalb eines\nFlugbeschr\u00e4nkungsgebietes nachgelesen werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"In der AIP",
    "wrong":[
@@ -34,7 +37,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"4   Welchen Status haben die von der EASA entworfenen Regeln und Verfahren?\n(z.B. Teil-SFCL und Teil-MED) (1,00 P.)",
+  "question_string":"4 Welchen Status haben die von der EASA entworfenen Regeln und Verfahren?\n(z.B. Teil-SFCL und Teil-MED) (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Sie sind Teil einer EU-Verordnung und unmittelbar in allen EU-Mitgliedsstaaten bindend",
    "wrong":[
@@ -45,7 +49,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"5   Wie lange gilt ein \"Certificate of Airworthiness\" (Luftt\u00fcchtigkeitszeugnis)? (1,00 P.)",
+  "question_string":"5 Wie lange gilt ein \"Certificate of Airworthiness\" (Luftt\u00fcchtigkeitszeugnis)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Unbegrenzt",
    "wrong":[
@@ -56,7 +61,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"6    Was bedeutet die Abk\u00fcrzung \"ARC\"? (1,00 P.)",
+  "question_string":"6  Was bedeutet die Abk\u00fcrzung \"ARC\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Airworthiness Review Certificate",
    "wrong":[
@@ -67,7 +73,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"7    Welches Land stellt ein \"Certificate of Airworthiness\" (Luftt\u00fcchtigkeitszeugnis) aus?\n(1,00 P.)",
+  "question_string":"7  Welches Land stellt ein \"Certificate of Airworthiness\" (Luftt\u00fcchtigkeitszeugnis) aus?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Das Land, in dem das Luftfahrzeug eingetragen ist",
    "wrong":[
@@ -78,7 +85,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"8    In welchen L\u00e4ndern ist eine gem\u00e4\u00df ICAO Annex 1 ausgestellte Pilotenlizenz g\u00fcltig?\n(1,00 P.)",
+  "question_string":"8  In welchen L\u00e4ndern ist eine gem\u00e4\u00df ICAO Annex 1 ausgestellte Pilotenlizenz g\u00fcltig?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"In allen ICAO Vertragsstaaten",
    "wrong":[
@@ -89,7 +97,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"9    Mit welchem Thema befasst sich der ICAO Annex 1? (1,00 P.)",
+  "question_string":"9  Mit welchem Thema befasst sich der ICAO Annex 1? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Lizenzierung von Piloten",
    "wrong":[
@@ -100,7 +109,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"10   Welche G\u00fcltigkeitsdauer hat eine Privatpilotenlizenz (PPL)? (1,00 P.)",
+  "question_string":"10 Welche G\u00fcltigkeitsdauer hat eine Privatpilotenlizenz (PPL)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Unbegrenzt",
    "wrong":[
@@ -111,7 +121,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"11   Das Mindestalter zur Ausstellung einer Privatpilotenlizenz (PPL) betr\u00e4gt... (1,00 P.)",
+  "question_string":"11 Das Mindestalter zur Ausstellung einer Privatpilotenlizenz (PPL) betr\u00e4gt... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"17 Jahre",
    "wrong":[
@@ -122,7 +133,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"12   Welche Mindestanforderungen m\u00fcssen unter anderem erf\u00fcllt sein, um eine\nBerechtigung f\u00fcr VFR Fl\u00fcge bei Nacht zu erhalten? (1,00 P.)",
+  "question_string":"12 Welche Mindestanforderungen m\u00fcssen unter anderem erf\u00fcllt sein, um eine\nBerechtigung f\u00fcr VFR Fl\u00fcge bei Nacht zu erhalten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Mindestens 5 Flugstunden bei Nacht, davon 3 mit Fluglehrer mit mindestens einer Stunde \u00dcberlandflug plus 5 Solostarts und Landungen bis zum Stillstand",
    "wrong":[
@@ -133,7 +145,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"13   Welche G\u00fcltigkeit hat ein medizinisches Tauglichkeitszeugnis der Klasse 2,\nwenn der Pilot 62 Jahre alt ist? (1,00 P.)",
+  "question_string":"13 Welche G\u00fcltigkeit hat ein medizinisches Tauglichkeitszeugnis der Klasse 2,\nwenn der Pilot 62 Jahre alt ist? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"12 Monate",
    "wrong":[
@@ -144,7 +157,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"14   Wie kann die Klassenberechtigung verl\u00e4ngert werden, wenn die notwendige\nFlugerfahrung vor Ablauf der G\u00fcltigkeit einer Klassenberechtigung SEP(land) nicht\nerbracht werden konnte? (1,00 P.)",
+  "question_string":"14 Wie kann die Klassenberechtigung verl\u00e4ngert werden, wenn die notwendige\nFlugerfahrung vor Ablauf der G\u00fcltigkeit einer Klassenberechtigung SEP(land) nicht\nerbracht werden konnte? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Durch eine Bef\u00e4higungs\u00fcberpr\u00fcfung mit einem Pr\u00fcfer (Examiner)",
    "wrong":[
@@ -155,7 +169,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"15   Wozu berechtigt der Besitz einer europ\u00e4ischen Privatpilotenlizenz PPL(A)? (1,00 P.)",
+  "question_string":"15 Wozu berechtigt der Besitz einer europ\u00e4ischen Privatpilotenlizenz PPL(A)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Als PIC ohne Verg\u00fctung auf nichtgewerblichen Fl\u00fcgen zu agieren sowie eine Verg\u00fctung f\u00fcr Fl\u00fcge als Fluglehrer zu erhalten",
    "wrong":[
@@ -166,7 +181,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"16   Das Mindestalter f\u00fcr eine Ausbildung zum Privatpiloten (PPL) betr\u00e4gt... (1,00 P.)",
+  "question_string":"16 Das Mindestalter f\u00fcr eine Ausbildung zum Privatpiloten (PPL) betr\u00e4gt... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"16 Jahre vor dem ersten Alleinflug.",
    "wrong":[
@@ -177,7 +193,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"17   Was bedeutet die Abk\u00fcrzung \"SERA\"? (1,00 P.)",
+  "question_string":"17 Was bedeutet die Abk\u00fcrzung \"SERA\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Standardized European Rules of the Air",
    "wrong":[
@@ -188,7 +205,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"18   Was bedeutet die Abk\u00fcrzung \"TRA\"? (1,00 P.)",
+  "question_string":"18 Was bedeutet die Abk\u00fcrzung \"TRA\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Tempor\u00e4re Luftraumreservierung (Temporary Reserved Airspace)",
    "wrong":[
@@ -199,7 +217,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"19   Was ist beim Einflug in eine RMZ zu beachten? (1,00 P.)",
+  "question_string":"19 Was ist beim Einflug in eine RMZ zu beachten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Es ist dauerhafte H\u00f6rbereitschaft zu halten und ggf. eine Funkverbindung herzustellen",
    "wrong":[
@@ -210,7 +229,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"20   Welche der folgenden Bedingungen muss f\u00fcr einen Sonder-VFR erf\u00fcllt sein? (1,00 P.)",
+  "question_string":"20 Welche der folgenden Bedingungen muss f\u00fcr einen Sonder-VFR erf\u00fcllt sein? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Es muss Erdsicht gegeben sein",
    "wrong":[
@@ -221,7 +241,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"21   Welche Voraussetzung muss f\u00fcr den Einflug in eine TMZ erf\u00fcllt sein? (1,00 P.)",
+  "question_string":"21 Welche Voraussetzung muss f\u00fcr den Einflug in eine TMZ erf\u00fcllt sein? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Transponder einschalten, Modi A und C oder S",
    "wrong":[
@@ -232,7 +253,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"22   Was bedeutet die Kennzeichnung eines Bereiches mit \"TMZ\"? (1,00 P.)",
+  "question_string":"22 Was bedeutet die Kennzeichnung eines Bereiches mit \"TMZ\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Zone mit Transponderpflicht",
    "wrong":[
@@ -243,7 +265,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"23   Der Begriff \"Flugplatzverkehr\" ist gem\u00e4\u00df ICAO Anhang 2 definiert als... (1,00 P.)",
+  "question_string":"23 Der Begriff \"Flugplatzverkehr\" ist gem\u00e4\u00df ICAO Anhang 2 definiert als... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Der Verkehr von Luftfahrzeugen, die sich in der Platzrunde befinden, in diese einfliegen oder sie verlassen sowie der gesamte Verkehr auf dem Rollfeld.",
    "wrong":[
@@ -254,7 +277,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"24   Was bedeutet die Abk\u00fcrzung \"IFR\"? (1,00 P.)",
+  "question_string":"24 Was bedeutet die Abk\u00fcrzung \"IFR\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Instrumentenflugregeln",
    "wrong":[
@@ -265,7 +289,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"25   Unter welchen Bedingungen ist ein Flug ein \"Sichtflug\"? (1,00 P.)",
+  "question_string":"25 Unter welchen Bedingungen ist ein Flug ein \"Sichtflug\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wenn der Flug nach Sichtflugregeln durchgef\u00fchrt wird",
    "wrong":[
@@ -276,7 +301,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"26   Was bedeutet \"VMC\"? (1,00 P.)",
+  "question_string":"26 Was bedeutet \"VMC\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Sichtflugwetterbedingungen",
    "wrong":[
@@ -287,7 +313,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"27   Zwei motorisierte Luftfahrzeuge n\u00e4hern sich auf entgegengesetztem Kurs in\nann\u00e4hernd gleicher H\u00f6he.\nWer muss ausweichen? (1,00 P.)",
+  "question_string":"27 Zwei motorisierte Luftfahrzeuge n\u00e4hern sich auf entgegengesetztem Kurs in\nann\u00e4hernd gleicher H\u00f6he.\nWer muss ausweichen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Beide m\u00fcssen \u00edhren Kurs nach rechts \u00e4ndern",
    "wrong":[
@@ -298,7 +325,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"28   Zwei motorisierte Luftfahrzeuge n\u00e4hern sich mit kreuzenden Kursen.\nWie muss ausgewichen werden? (1,00 P.)",
+  "question_string":"28 Zwei motorisierte Luftfahrzeuge n\u00e4hern sich mit kreuzenden Kursen.\nWie muss ausgewichen werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Das von rechts kommende Luftfahrzeug hat Vorrang",
    "wrong":[
@@ -309,7 +337,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"29   Eine Boeing 737 und eine Cessna 152 n\u00e4hern sich auf kreuzenden Kursen im Luftraum\nder Klasse \"D\".\nWer muss ausweichen? (1,00 P.)",
+  "question_string":"29 Eine Boeing 737 und eine Cessna 152 n\u00e4hern sich auf kreuzenden Kursen im Luftraum\nder Klasse \"D\".\nWer muss ausweichen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Das von rechts kommende Luftfahrzeug hat Vorrang, das andere Luftfahrzeug muss ausweichen",
    "wrong":[
@@ -320,7 +349,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"30   Welches ist KEIN ausreichender Grund, um die Mindestflugh\u00f6he zu unterschreiten?\n(1,00 P.)",
+  "question_string":"30 Welches ist KEIN ausreichender Grund, um die Mindestflugh\u00f6he zu unterschreiten?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Schlechtwetter im Flugplatzbereich",
    "wrong":[
@@ -331,7 +361,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"31   Ein einmotoriges kolbengetriebenes Luftfahrzeug und ein zweimotoriges\nturbopropgetriebenes Luftfahrzeug n\u00e4hern sich von vorne in der gleichen Flugh\u00f6he.\nWelche Ausweichregel kommt zur Anwendung, um einen Zusammensto\u00df zu\nvermeiden? (1,00 P.)",
+  "question_string":"31 Ein einmotoriges kolbengetriebenes Luftfahrzeug und ein zweimotoriges\nturbopropgetriebenes Luftfahrzeug n\u00e4hern sich von vorne in der gleichen Flugh\u00f6he.\nWelche Ausweichregel kommt zur Anwendung, um einen Zusammensto\u00df zu\nvermeiden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Beide Luftfahrzeuge m\u00fcssen nach rechts ausweichen",
    "wrong":[
@@ -342,7 +373,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"32   Welche Distanz m\u00fcssen Fl\u00fcge nach Sichtflugregeln (VFR) in Luftr\u00e4umen der Klassen\nC, D oder E zu Wolken einhalten? (1,00 P.)",
+  "question_string":"32 Welche Distanz m\u00fcssen Fl\u00fcge nach Sichtflugregeln (VFR) in Luftr\u00e4umen der Klassen\nC, D oder E zu Wolken einhalten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"1.500 m horizontal, 1.000 ft vertikal",
    "wrong":[
@@ -353,7 +385,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"33   Die Mindestflugsicht f\u00fcr Fl\u00fcge nach Sichtflugregeln (VFR) in Luftr\u00e4umen der Klasse B\nin einer Flugh\u00f6he von 5.000 ft MSL betr\u00e4gt... (1,00 P.)",
+  "question_string":"33 Die Mindestflugsicht f\u00fcr Fl\u00fcge nach Sichtflugregeln (VFR) in Luftr\u00e4umen der Klasse B\nin einer Flugh\u00f6he von 5.000 ft MSL betr\u00e4gt... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"5.000 m.",
    "wrong":[
@@ -364,7 +397,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"34   Die Mindestflugsicht f\u00fcr Fl\u00fcge nach Sichtflugregeln (VFR) in Luftr\u00e4umen der Klasse C\nin einer Flugh\u00f6he von 5.000 ft MSL betr\u00e4gt... (1,00 P.)",
+  "question_string":"34 Die Mindestflugsicht f\u00fcr Fl\u00fcge nach Sichtflugregeln (VFR) in Luftr\u00e4umen der Klasse C\nin einer Flugh\u00f6he von 5.000 ft MSL betr\u00e4gt... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"5.000 m.",
    "wrong":[
@@ -375,7 +409,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"35   Die Mindestflugsicht f\u00fcr Fl\u00fcge nach Sichtflugregeln (VFR) in Luftr\u00e4umen der Klasse E\nin einer Flugh\u00f6he von FL75 betr\u00e4gt... (1,00 P.)",
+  "question_string":"35 Die Mindestflugsicht f\u00fcr Fl\u00fcge nach Sichtflugregeln (VFR) in Luftr\u00e4umen der Klasse E\nin einer Flugh\u00f6he von FL75 betr\u00e4gt... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"5.000 m.",
    "wrong":[
@@ -386,7 +421,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"36   Die Mindestflugsicht f\u00fcr Fl\u00fcge nach Sichtflugregeln (VFR) in Luftr\u00e4umen der Klasse D\nin FL110 betr\u00e4gt... (1,00 P.)",
+  "question_string":"36 Die Mindestflugsicht f\u00fcr Fl\u00fcge nach Sichtflugregeln (VFR) in Luftr\u00e4umen der Klasse D\nin FL110 betr\u00e4gt... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"8.000 m.",
    "wrong":[
@@ -397,7 +433,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"37   Die Mindestflugsicht f\u00fcr Fl\u00fcge nach Sichtflugregeln (VFR) in Luftr\u00e4umen der Klasse C\nin FL125 betr\u00e4gt... (1,00 P.)",
+  "question_string":"37 Die Mindestflugsicht f\u00fcr Fl\u00fcge nach Sichtflugregeln (VFR) in Luftr\u00e4umen der Klasse C\nin FL125 betr\u00e4gt... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"8.000 m.",
    "wrong":[
@@ -408,7 +445,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"38   Welche Distanz m\u00fcssen Fl\u00fcge nach Sichtflugregeln (VFR) in Luftr\u00e4umen der Klasse B\nzu Wolken einhalten? (1,00 P.)",
+  "question_string":"38 Welche Distanz m\u00fcssen Fl\u00fcge nach Sichtflugregeln (VFR) in Luftr\u00e4umen der Klasse B\nzu Wolken einhalten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"1.500 m horizontal, 300 m vertikal",
    "wrong":[
@@ -419,7 +457,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"39   Die Mindestflugsicht f\u00fcr Fl\u00fcge nach Sichtflugregeln (VFR) in Luftraum C\nunterhalb von Flugfl\u00e4che 100 betr\u00e4gt... (1,00 P.)",
+  "question_string":"39 Die Mindestflugsicht f\u00fcr Fl\u00fcge nach Sichtflugregeln (VFR) in Luftraum C\nunterhalb von Flugfl\u00e4che 100 betr\u00e4gt... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"5 km.",
    "wrong":[
@@ -430,7 +469,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"40   Die Mindestflugsicht f\u00fcr Fl\u00fcge nach Sichtflugregeln (VFR) in Luftraum C\nin und oberhalb von Flugfl\u00e4che 100 betr\u00e4gt... (1,00 P.)",
+  "question_string":"40 Die Mindestflugsicht f\u00fcr Fl\u00fcge nach Sichtflugregeln (VFR) in Luftraum C\nin und oberhalb von Flugfl\u00e4che 100 betr\u00e4gt... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"8 km.",
    "wrong":[
@@ -441,7 +481,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"41   Der Begriff \"Hauptwolkenuntergrenze\" ist definiert als... (1,00 P.)",
+  "question_string":"41 Der Begriff \"Hauptwolkenuntergrenze\" ist definiert als... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"die H\u00f6he der Untergrenze der niedrigsten Wolkenschicht \u00fcber Grund oder Wasser, die mehr als die H\u00e4lfte des Himmels bedeckt unterhalb 20.000 ft AGL.",
    "wrong":[
@@ -452,7 +493,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"42   Welche Mindestwetterbedingungen gelten f\u00fcr ein Luftfahrzeug mit festen Tragfl\u00e4chen,\num in eine Kontrollzone (Luftraum D) unter Sonder-VFR Bedingungen einfliegen zu\nd\u00fcrfen? (1,00 P.)",
+  "question_string":"42 Welche Mindestwetterbedingungen gelten f\u00fcr ein Luftfahrzeug mit festen Tragfl\u00e4chen,\num in eine Kontrollzone (Luftraum D) unter Sonder-VFR Bedingungen einfliegen zu\nd\u00fcrfen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bodensicht: mindestens 1,5 km. Flugsicht: mindestens 1,5 km. Hauptwolkenuntergrenze: nicht unter 600 ft. Erdsicht. Das Luftfahrzeug muss frei von Wolken bleiben.",
    "wrong":[
@@ -463,7 +505,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"43   Ein milit\u00e4risches Luftfahrzeug n\u00e4hert sich tags\u00fcber von der linken Seite, bet\u00e4tigt\nwechselweise die Querruder und dreht anschlie\u00dfend in einer sanften Linkskurve ab.\nWelche Bedeutung hat dieses Signal? (1,00 P.)",
+  "question_string":"43 Ein milit\u00e4risches Luftfahrzeug n\u00e4hert sich tags\u00fcber von der linken Seite, bet\u00e4tigt\nwechselweise die Querruder und dreht anschlie\u00dfend in einer sanften Linkskurve ab.\nWelche Bedeutung hat dieses Signal? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Folgen Sie mir",
    "wrong":[
@@ -474,7 +517,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"44   Ein milit\u00e4risches Luftfahrzeug vollzieht tags\u00fcber einen pl\u00f6tzlichen Richtungswechsel\nvon 90 Grad und zieht hoch, ohne den Flugweg des zivilen Luftfahrzeuges zu kreuzen.\nWelche Bedeutung hat dieses Signal? (1,00 P.)",
+  "question_string":"44 Ein milit\u00e4risches Luftfahrzeug vollzieht tags\u00fcber einen pl\u00f6tzlichen Richtungswechsel\nvon 90 Grad und zieht hoch, ohne den Flugweg des zivilen Luftfahrzeuges zu kreuzen.\nWelche Bedeutung hat dieses Signal? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Sie k\u00f6nnen Ihren Flug fortsetzen",
    "wrong":[
@@ -485,7 +529,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"45   In welcher Flugh\u00f6he wird die Subskala des H\u00f6henmessers von QNH auf 1.013 hPa\numgestellt? (1,00 P.)",
+  "question_string":"45 In welcher Flugh\u00f6he wird die Subskala des H\u00f6henmessers von QNH auf 1.013 hPa\numgestellt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bei \u00dcbersteigen der \"Transition Altitude\"",
    "wrong":[
@@ -496,7 +541,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"46   Auf welche Einstellung der Subskala des H\u00f6henmessers werden Flugfl\u00e4chen\nreferenziert? (1,00 P.)",
+  "question_string":"46 Auf welche Einstellung der Subskala des H\u00f6henmessers werden Flugfl\u00e4chen\nreferenziert? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"1013,25 hPa.",
    "wrong":[
@@ -507,7 +553,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"47   Welchen Zweck erf\u00fcllen die Halbkreisflugregeln? (1,00 P.)",
+  "question_string":"47 Welchen Zweck erf\u00fcllen die Halbkreisflugregeln? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Kollisionsvermeidung durch Verringerung der Wahrscheinlichkeit direkten Gegenverkehrs",
    "wrong":[
@@ -518,7 +565,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"48   Welche der folgenden SSR-Transponder Modi gibt es? (1,00 P.)",
+  "question_string":"48 Welche der folgenden SSR-Transponder Modi gibt es? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"A, C, S.",
    "wrong":[
@@ -529,7 +577,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"49   Ein Transponder mit der F\u00e4higkeit, die aktuelle Druckh\u00f6he zu senden ist ein... (1,00 P.)",
+  "question_string":"49 Ein Transponder mit der F\u00e4higkeit, die aktuelle Druckh\u00f6he zu senden ist ein... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Mode C oder S Transponder.",
    "wrong":[
@@ -540,7 +589,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"50   Welcher Transpondercode signalisiert einen Ausfall der Sprechfunkanlage(n)? (1,00\nP.)",
+  "question_string":"50 Welcher Transpondercode signalisiert einen Ausfall der Sprechfunkanlage(n)? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"7600",
    "wrong":[
@@ -551,7 +601,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"51   Welcher Transpondercode ist bei einem Funkausfall unaufgefordert zu schalten? (1,00\nP.)",
+  "question_string":"51 Welcher Transpondercode ist bei einem Funkausfall unaufgefordert zu schalten? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"7600",
    "wrong":[
@@ -562,7 +613,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"52   Welcher Transpondercode ist bei einem Notfall unaufgefordert zu schalten? (1,00 P.)",
+  "question_string":"52 Welcher Transpondercode ist bei einem Notfall unaufgefordert zu schalten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"7700",
    "wrong":[
@@ -573,7 +625,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"53   Welcher Flugsicherungsdienst ist f\u00fcr die sichere Durchf\u00fchrung von kontrollierten\nFl\u00fcgen verantwortlich? (1,00 P.)",
+  "question_string":"53 Welcher Flugsicherungsdienst ist f\u00fcr die sichere Durchf\u00fchrung von kontrollierten\nFl\u00fcgen verantwortlich? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Flugverkehrskontrolldienst (ATC)",
    "wrong":[
@@ -584,7 +637,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"54   Welche Dienste f\u00fchren Flugverkehrskontrolldienst durch? (1,00 P.)",
+  "question_string":"54 Welche Dienste f\u00fchren Flugverkehrskontrolldienst durch? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Flugplatzkontrolldienst (TWR). Anflugkontrolldienst (APP). Bezirkskontrolldienst (ACC).",
    "wrong":[
@@ -595,7 +649,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"55   Welche Antwort ist in Bezug auf die Staffelung in Luftraum E korrekt? (1,00 P.)",
+  "question_string":"55 Welche Antwort ist in Bezug auf die Staffelung in Luftraum E korrekt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"VFR-Verkehr wird nicht gegen\u00fcber VFR- und IFR-Verkehr gestaffelt",
    "wrong":[
@@ -606,7 +661,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"56   Welche Flugsicherungsdienste k\u00f6nnen in einem Fluginformationsgebiet (FIR) in\nAnspruch genommen werden? (1,00 P.)",
+  "question_string":"56 Welche Flugsicherungsdienste k\u00f6nnen in einem Fluginformationsgebiet (FIR) in\nAnspruch genommen werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Fluginformationsdienst (FIS). Flugalarmdienst (ALR).",
    "wrong":[
@@ -617,7 +673,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"57   Zum Fluginformationsdienst (FIS) kann nur Kontakt aufgenommen werden... (1,00 P.)",
+  "question_string":"57 Zum Fluginformationsdienst (FIS) kann nur Kontakt aufgenommen werden... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"via Sprechfunkverkehr.",
    "wrong":[
@@ -628,7 +685,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"58   Welche Sprechgruppe wird angewendet, um darauf hinzuweisen, dass ein\nLeichtflugzeug einem Flugzeug mit einer h\u00f6heren Wirbelschleppenkategorie folgt?\n(1,00 P.)",
+  "question_string":"58 Welche Sprechgruppe wird angewendet, um darauf hinzuweisen, dass ein\nLeichtflugzeug einem Flugzeug mit einer h\u00f6heren Wirbelschleppenkategorie folgt?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Vorsicht Wirbelschleppen",
    "wrong":[
@@ -639,7 +697,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"59   Welche Antwort beinhaltet eine korrekte Positionsmeldung? (1,00 P.)",
+  "question_string":"59 Welche Antwort beinhaltet eine korrekte Positionsmeldung? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"DEABC, \"N\", 2.500 ft",
    "wrong":[
@@ -650,7 +709,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"60   Was bedeutet die Abk\u00fcrzung \"AIREP\"? (1,00 P.)",
+  "question_string":"60 Was bedeutet die Abk\u00fcrzung \"AIREP\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Meldung eines Luftfahrzeugs",
    "wrong":[
@@ -661,7 +721,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"61   Welche Informationen enth\u00e4lt der Allgemeine Teil \"GEN\" der AIP? (1,00 P.)",
+  "question_string":"61 Welche Informationen enth\u00e4lt der Allgemeine Teil \"GEN\" der AIP? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Kartensymbole, Verzeichnis der Funknavigationshilfen, Sonnenauf- und Untergangszeiten, Flugplatzgeb\u00fchren, Flugsicherungsgeb\u00fchren.",
    "wrong":[
@@ -672,7 +733,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"62   Die einzelnen Teile des Luftfahrthandbuches (AIP) sind... (1,00 P.)",
+  "question_string":"62 Die einzelnen Teile des Luftfahrthandbuches (AIP) sind... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"GEN, ENR, AD.",
    "wrong":[
@@ -683,7 +745,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"63   Welche Informationen enth\u00e4lt der Teil \"AD\" der AIP? (1,00 P.)",
+  "question_string":"63 Welche Informationen enth\u00e4lt der Teil \"AD\" der AIP? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Verzeichnis, Klassifizierung und Karten von Flugpl\u00e4tzen, Anflugkarten, Bodenkarten.",
    "wrong":[
@@ -694,7 +757,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"64   Bis wann gilt das dargestellte NOTAM?\nA1024/13 A) LOWW B) 1305211200 C) 1305211400\nE) STOCKERAU VOR STO 113.00 UNSERVICEABLE. (1,00 P.)",
+  "question_string":"64 Bis wann gilt das dargestellte NOTAM?\nA1024/13 A) LOWW B) 1305211200 C) 1305211400\nE) STOCKERAU VOR STO 113.00 UNSERVICEABLE. (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"21.05.2013 14:00 Uhr",
    "wrong":[
@@ -705,7 +769,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"65   Was ist ein \"Pre-Flight Information Bulletin\" (PIB)? (1,00 P.)",
+  "question_string":"65 Was ist ein \"Pre-Flight Information Bulletin\" (PIB)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Eine Zusammenstellung g\u00fcltiger NOTAM Informationen, die vor dem Beginn eines Fluges von betrieblicher Bedeutung sind",
    "wrong":[
@@ -716,7 +781,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"66   Der Begriff \"Flugplatzh\u00f6he\" (aerodrome elevation)\nist gem\u00e4\u00df ICAO Annex 14 definiert als... (1,00 P.)",
+  "question_string":"66 Der Begriff \"Flugplatzh\u00f6he\" (aerodrome elevation)\nist gem\u00e4\u00df ICAO Annex 14 definiert als... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"der h\u00f6chste Punkt der Landefl\u00e4che.",
    "wrong":[
@@ -727,7 +793,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"67   Der Begriff \"Piste\" (runway) ist definiert als... (1,00 P.)",
+  "question_string":"67 Der Begriff \"Piste\" (runway) ist definiert als... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"eine festgelegte rechteckige Fl\u00e4che auf einem Landflugplatz, vorgesehen f\u00fcr Landungen und Starts von Luftfahrzeugen.",
    "wrong":[
@@ -738,7 +805,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"68   Welche Antwort ist korrekt in Bezug auf den Begriff \"Rollhalt\"? (1,00 P.)",
+  "question_string":"68 Welche Antwort ist korrekt in Bezug auf den Begriff \"Rollhalt\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Ein Rollhalt ist ein Punkt, an dem Luftfahrzeuge halten m\u00fcssen, wenn keine weitere Freigabe zum Rollen erteilt worden ist",
    "wrong":[
@@ -749,7 +817,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"69   Was bedeutet der gemeldete Pistenzustand \"WET\"? (1,00 P.)",
+  "question_string":"69 Was bedeutet der gemeldete Pistenzustand \"WET\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Oberfl\u00e4che der Piste ist feucht, aber keine signifikanten Wasserpf\u00fctzen sind sichtbar",
    "wrong":[
@@ -760,7 +829,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"70   Was bedeutet der gemeldete Pistenzustand \"DAMP\"? (1,00 P.)",
+  "question_string":"70 Was bedeutet der gemeldete Pistenzustand \"DAMP\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Aufgrund von Feuchtigkeit ist die Farbe der Oberfl\u00e4che ver\u00e4ndert",
    "wrong":[
@@ -771,7 +841,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"71   Was bedeutet der gemeldete Pistenzustand \"WATER PATCHES\"? (1,00 P.)",
+  "question_string":"71 Was bedeutet der gemeldete Pistenzustand \"WATER PATCHES\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Einzelne Wasserpf\u00fctzen sind sichtbar",
    "wrong":[
@@ -782,7 +853,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"72   Wie kann ein Windrichtungsanzeiger zur besseren Sichtbarkeit gekennzeichnet\nwerden? (1,00 P.)",
+  "question_string":"72 Wie kann ein Windrichtungsanzeiger zur besseren Sichtbarkeit gekennzeichnet\nwerden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Ein wei\u00dfer Kreis kann um den Windrichtungsanzeiger herum angebracht werden",
    "wrong":[
@@ -793,7 +865,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"73   Welche Bedeutung hat ein rotes blinkendes Lichtsignal, das an einem kontrollierten\nFlugplatz auf ein Luftfahrzeug im Flug gerichtet wird? (1,00 P.)",
+  "question_string":"73 Welche Bedeutung hat ein rotes blinkendes Lichtsignal, das an einem kontrollierten\nFlugplatz auf ein Luftfahrzeug im Flug gerichtet wird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Flugplatz unbenutzbar, zurzeit nicht landen",
    "wrong":[
@@ -804,7 +877,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"74   Welche Bedeutung hat ein gr\u00fcnes blinkendes Lichtsignal, das an einem kontrollierten\nFlugplatz auf ein Luftfahrzeug im Flug gerichtet wird? (1,00 P.)",
+  "question_string":"74 Welche Bedeutung hat ein gr\u00fcnes blinkendes Lichtsignal, das an einem kontrollierten\nFlugplatz auf ein Luftfahrzeug im Flug gerichtet wird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Zwecks Landung zur\u00fcckkehren, Landefreigabe abwarten",
    "wrong":[
@@ -815,7 +889,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"75   Welche Bedeutung hat ein gr\u00fcnes Dauerlichtsignal, das an einem kontrollierten\nFlugplatz auf ein Luftfahrzeug im Flug gerichtet wird? (1,00 P.)",
+  "question_string":"75 Welche Bedeutung hat ein gr\u00fcnes Dauerlichtsignal, das an einem kontrollierten\nFlugplatz auf ein Luftfahrzeug im Flug gerichtet wird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Landung frei",
    "wrong":[
@@ -826,7 +901,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"76   Welche Bedeutung hat ein wei\u00df blinkendes Lichtsignal, das an einem kontrollierten\nFlugplatz auf ein Luftfahrzeug am Boden gerichtet wird? (1,00 P.)",
+  "question_string":"76 Welche Bedeutung hat ein wei\u00df blinkendes Lichtsignal, das an einem kontrollierten\nFlugplatz auf ein Luftfahrzeug am Boden gerichtet wird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Zum Ausgangspunkt auf dem Flugplatz zur\u00fcckkehren",
    "wrong":[
@@ -837,7 +913,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"77   Welche Bedeutung hat ein rot blinkendes Lichtsignal, das an einem kontrollierten\nFlugplatz auf ein Luftfahrzeug am Boden gerichtet wird? (1,00 P.)",
+  "question_string":"77 Welche Bedeutung hat ein rot blinkendes Lichtsignal, das an einem kontrollierten\nFlugplatz auf ein Luftfahrzeug am Boden gerichtet wird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Von der Landefl\u00e4che wegrollen.",
    "wrong":[
@@ -848,7 +925,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"78   Welche Bedeutung hat ein gr\u00fcn blinkendes Lichtsignal, das an einem kontrollierten\nFlugplatz auf ein Luftfahrzeug am Boden gerichtet wird? (1,00 P.)",
+  "question_string":"78 Welche Bedeutung hat ein gr\u00fcn blinkendes Lichtsignal, das an einem kontrollierten\nFlugplatz auf ein Luftfahrzeug am Boden gerichtet wird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Rollen frei",
    "wrong":[
@@ -859,7 +937,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"79   Welche Form hat ein Landerichtungsanzeiger? (1,00 P.)",
+  "question_string":"79 Welche Form hat ein Landerichtungsanzeiger? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"T",
    "wrong":[
@@ -870,7 +949,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"80   Welchen Zweck erf\u00fcllt die Signalfl\u00e4che? (1,00 P.)",
+  "question_string":"80 Welchen Zweck erf\u00fcllt die Signalfl\u00e4che? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Signalfl\u00e4che ist jene Fl\u00e4che, auf welcher vorrangig Bodenzeichen zur Information f\u00fcr Luftfahrzeuge in der Luft ausgelegt werden",
    "wrong":[
@@ -881,7 +961,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"81   Wie muss ein Pilot in der Luft erhaltene Lichtsignale best\u00e4tigen? (1,00 P.)",
+  "question_string":"81 Wie muss ein Pilot in der Luft erhaltene Lichtsignale best\u00e4tigen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bei Tag durch mehrmaliges wechselseitiges Bet\u00e4tigen der Querruder",
    "wrong":[
@@ -892,7 +973,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"82   Welche Bedeutung hat ein rotes Dauerlichtsignal, das an einem kontrollierten\nFlugplatz\nauf ein Luftfahrzeug am Boden gerichtet wird? (1,00 P.)",
+  "question_string":"82 Welche Bedeutung hat ein rotes Dauerlichtsignal, das an einem kontrollierten\nFlugplatz\nauf ein Luftfahrzeug am Boden gerichtet wird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Halt",
    "wrong":[
@@ -903,7 +985,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"83   Wie werden zwei parallele Pisten bezeichnet? (1,00 P.)",
+  "question_string":"83 Wie werden zwei parallele Pisten bezeichnet? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die linke Piste bekommt als Anhang zur Bezeichnung ein \"L\", die rechte Piste bekommt als Anhang zur Bezeichnung ein \"R\"",
    "wrong":[
@@ -914,7 +997,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"84   Welche Farbe haben Pistenmarkierungen gem\u00e4\u00df ICAO Annex 14? (1,00 P.)",
+  "question_string":"84 Welche Farbe haben Pistenmarkierungen gem\u00e4\u00df ICAO Annex 14? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wei\u00df",
    "wrong":[
@@ -925,7 +1009,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"85   Welche Bedeutung hat ein quer zur Piste angebrachter Zebrastreifen? (1,00 P.)",
+  "question_string":"85 Welche Bedeutung hat ein quer zur Piste angebrachter Zebrastreifen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Vorher darf nicht aufgesetzt werden",
    "wrong":[
@@ -936,7 +1021,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"86   Welche Bezeichnungen f\u00fcr zwei parallele Pisten sind korrekt? (1,00 P.)",
+  "question_string":"86 Welche Bezeichnungen f\u00fcr zwei parallele Pisten sind korrekt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"\"06L\" und \"06R\"",
    "wrong":[
@@ -947,7 +1033,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"87   Was ist eine \"PAPI\" (precision approach path indicator)? (1,00 P.)",
+  "question_string":"87 Was ist eine \"PAPI\" (precision approach path indicator)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Eine Sichtanflughilfe, die dem Piloten eine Orientierung f\u00fcr die Einhaltung des korrekten Gleitwinkels beim Anflug auf einen Flughafen gibt",
    "wrong":[
@@ -958,7 +1045,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"88   Welchen Zweck erf\u00fcllt ein Flugplatzblinklicht (aerodrome beacon)? (1,00 P.)",
+  "question_string":"88 Welchen Zweck erf\u00fcllt ein Flugplatzblinklicht (aerodrome beacon)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Ein Flugplatzblinklicht ist ein rotierender Scheinwerfer oder ein Blitzlicht, das auf einem Flughafen aufgestellt ist, um Piloten aus der Luft die Position des Flughafens anzuzeigen",
    "wrong":[
@@ -969,7 +1057,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"89   Welche Farbe hat die Pistenseitenbefeuerung? (1,00 P.)",
+  "question_string":"89 Welche Farbe hat die Pistenseitenbefeuerung? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wei\u00df",
    "wrong":[
@@ -980,7 +1069,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"90   Welche Farbe hat die Pistenendbefeuerung? (1,00 P.)",
+  "question_string":"90 Welche Farbe hat die Pistenendbefeuerung? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Rot",
    "wrong":[
@@ -991,7 +1081,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"91   Welche Bedeutung hat das abgebildete Schild?\nSiehe Bild (ALW-019) (1,00 P.)\nSiehe Anlage 1",
+  "question_string":"91 Welche Bedeutung hat das abgebildete Schild?\nSiehe Bild (ALW-019) (1,00 P.)\nSiehe Anlage 1",
+  "annex":"cards_2020/img/10/a1",
   "choices":{
    "correct":"Rollweg (taxiway) Alpha",
    "wrong":[
@@ -1002,7 +1093,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"92   Welche Bedeutung hat das abgebildete Schild?\nSiehe Bild (ALW-020) (1,00 P.)\nSiehe Anlage 2",
+  "question_string":"92 Welche Bedeutung hat das abgebildete Schild?\nSiehe Bild (ALW-020) (1,00 P.)\nSiehe Anlage 2",
+  "annex":"cards_2020/img/10/a2",
   "choices":{
    "correct":"Ab dieser Einm\u00fcndung auf die Piste betr\u00e4gt die verf\u00fcgbare L\u00e4nge der Piste in Pfeilrichtung 2.500 m",
    "wrong":[
@@ -1013,7 +1105,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"93   Welche Bedeutung hat dieses Zeichen an einem Flugplatz?\nSiehe Bild (ALW-010) (1,00 P.)\nSiehe Anlage 3",
+  "question_string":"93 Welche Bedeutung hat dieses Zeichen an einem Flugplatz?\nSiehe Bild (ALW-010) (1,00 P.)\nSiehe Anlage 3",
+  "annex":"cards_2020/img/10/a3",
   "choices":{
    "correct":"Landeverbot f\u00fcr l\u00e4ngere Zeit",
    "wrong":[
@@ -1024,7 +1117,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"94   Welche Bedeutung hat dieses Zeichen an einem Flugplatz?\nSiehe Bild (ALW-011) (1,00 P.)\nSiehe Anlage 4",
+  "question_string":"94 Welche Bedeutung hat dieses Zeichen an einem Flugplatz?\nSiehe Bild (ALW-011) (1,00 P.)\nSiehe Anlage 4",
+  "annex":"cards_2020/img/10/a4",
   "choices":{
    "correct":"Auf dem Flugplatz wird Segelflugbetrieb durchgef\u00fchrt",
    "wrong":[
@@ -1035,7 +1129,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"95   Welche Bedeutung hat das abgebildete Zeichen an einem Flugplatz?\nSiehe Bild (ALW-012) (1,00 P.)\nSiehe Anlage 5",
+  "question_string":"95 Welche Bedeutung hat das abgebildete Zeichen an einem Flugplatz?\nSiehe Bild (ALW-012) (1,00 P.)\nSiehe Anlage 5",
+  "annex":"cards_2020/img/10/a5",
   "choices":{
    "correct":"Nach dem Start und vor der Landung sind alle Richtungs\u00e4nderungen nur nach rechts durchzuf\u00fchren",
    "wrong":[
@@ -1046,7 +1141,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"96   Was bedeutet \"DETRESFA\"? (1,00 P.)",
+  "question_string":"96 Was bedeutet \"DETRESFA\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Notstufe",
    "wrong":[
@@ -1057,7 +1153,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"97   Am Such- und Rettungsdienst sind beteiligt: (1,00 P.)",
+  "question_string":"97 Am Such- und Rettungsdienst sind beteiligt: (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"milit\u00e4rische und zivile Organisationen.",
    "wrong":[
@@ -1068,7 +1165,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"98   Wie kann der Pilot eines Luftfahrzeuges Hilfsbed\u00fcrftigen am Boden am Tag\nbest\u00e4tigen, Rettungszeichen verstanden zu haben? (1,00 P.)",
+  "question_string":"98 Wie kann der Pilot eines Luftfahrzeuges Hilfsbed\u00fcrftigen am Boden am Tag\nbest\u00e4tigen, Rettungszeichen verstanden zu haben? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Durch wechselseitiges Bet\u00e4tigen der Querruder",
    "wrong":[
@@ -1079,7 +1177,8 @@ var Luftrecht_q = [
   }
  },
  {
-  "question_string":"99   Ungew\u00f6hnliche Vorf\u00e4lle in der Luftfahrt werden der Reihe nach wie folgt eingestuft:\n(1,00 P.)",
+  "question_string":"99  Ungew\u00f6hnliche Vorf\u00e4lle in der Luftfahrt werden der Reihe nach wie folgt eingestuft:\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"St\u00f6rung. Schwere St\u00f6rung. Unfall.",
    "wrong":[
@@ -1091,6 +1190,7 @@ var Luftrecht_q = [
  },
  {
   "question_string":"100 Was ist der vorrangige Zweck einer Flugunfalluntersuchung? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Ursachen festzustellen, um Sicherheitsempfehlungen ausarbeiten zu k\u00f6nnen",
    "wrong":[

@@ -1,7 +1,8 @@
 var Grundlagen_des_Fluges_s = "Grundlagen_des_Fluges";
 var Grundlagen_des_Fluges_q = [
  {
-  "question_string":"1   Welchen Vorteil besitzen Auftriebshilfen wie z.B. Vorfl\u00fcgel im vorderen\nTragfl\u00e4chenbereich im Vergleich zu Landeklappen im hinteren Tragfl\u00fcgelbereich?\n(1,00 P.)",
+  "question_string":"1 Welchen Vorteil besitzen Auftriebshilfen wie z.B. Vorfl\u00fcgel im vorderen\nTragfl\u00e4chenbereich im Vergleich zu Landeklappen im hinteren Tragfl\u00fcgelbereich?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Sie erlauben bei geringerem Widerstand h\u00f6here Anstellwinkel",
    "wrong":[
@@ -12,7 +13,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"2   Durch welche Baugruppe wird die Stabilisierung um die Querachse w\u00e4hrend des\nReisefluges erreicht? (1,00 P.)",
+  "question_string":"2 Durch welche Baugruppe wird die Stabilisierung um die Querachse w\u00e4hrend des\nReisefluges erreicht? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"H\u00f6henleitwerk.",
    "wrong":[
@@ -23,7 +25,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"3   Was kann die Folge sein, wenn mit Geschwindigkeiten jenseits der h\u00f6chstzul\u00e4ssigen\nGeschwindigkeit (vNE) geflogen wird? (1,00 P.)",
+  "question_string":"3 Was kann die Folge sein, wenn mit Geschwindigkeiten jenseits der h\u00f6chstzul\u00e4ssigen\nGeschwindigkeit (vNE) geflogen wird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Flattern und mechanische Sch\u00e4den an den Tragfl\u00e4chen",
    "wrong":[
@@ -34,7 +37,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"4   Welche Effekte sind typischerweise Folgen von Propeller-Vereisung? (1,00 P.)",
+  "question_string":"4 Welche Effekte sind typischerweise Folgen von Propeller-Vereisung? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Reduzierte Leistungsabgabe, sinkende Drehzahl",
    "wrong":[
@@ -45,7 +49,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"5   Welche Kraftkomponente wirkt im station\u00e4ren Steigflug in dieselbe Richtung wie die\nWiderstandskraft und f\u00fchrt im Steigflug zu einem h\u00f6heren Leistungsbedarf als im\nHorizontalflug? (1,00 P.)",
+  "question_string":"5 Welche Kraftkomponente wirkt im station\u00e4ren Steigflug in dieselbe Richtung wie die\nWiderstandskraft und f\u00fchrt im Steigflug zu einem h\u00f6heren Leistungsbedarf als im\nHorizontalflug? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Eine Komponente der Gewichtskraft in Richtung des r\u00fcckw\u00e4rtigen Flugwegs",
    "wrong":[
@@ -56,7 +61,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"6   In welche Richtung wirkt der statische Druck in Gasen? (1,00 P.)",
+  "question_string":"6 In welche Richtung wirkt der statische Druck in Gasen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"In alle Richtungen",
    "wrong":[
@@ -67,7 +73,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"7    Die Gleichung von Bernoulli besagt f\u00fcr reibungsfreie, inkompressible Gase: (1,00 P.)",
+  "question_string":"7  Die Gleichung von Bernoulli besagt f\u00fcr reibungsfreie, inkompressible Gase: (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Gesamtdruck = dynamischer Druck + statischer Druck",
    "wrong":[
@@ -78,7 +85,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"8    Umgeben von einer Luftstr\u00f6mung (v > 0) erzeugt ein beliebig geformte K\u00f6rper\nin jedem Fall: (1,00 P.)",
+  "question_string":"8  Umgeben von einer Luftstr\u00f6mung (v > 0) erzeugt ein beliebig geformte K\u00f6rper\nin jedem Fall: (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Einen formabh\u00e4ngigen Widerstand",
    "wrong":[
@@ -89,7 +97,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"9    Alle am Profil wirksamen Luftkr\u00e4fte lassen sich als in einem einzigen Punkt angreifend\nbetrachten.\nDieser Punkt hei\u00dft... (1,00 P.)",
+  "question_string":"9  Alle am Profil wirksamen Luftkr\u00e4fte lassen sich als in einem einzigen Punkt angreifend\nbetrachten.\nDieser Punkt hei\u00dft... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Druckpunkt.",
    "wrong":[
@@ -100,7 +109,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"10   Der \"Druckpunkt\" ist der theoretische Angriffspunkt... (1,00 P.)",
+  "question_string":"10 Der \"Druckpunkt\" ist der theoretische Angriffspunkt... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"aller am Profil angreifenden Luftkr\u00e4fte.",
    "wrong":[
@@ -111,7 +121,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"11   Nummer 2 in der Zeichnung entspricht...\nSiehe Bild (PFA-010) (1,00 P.)\nSiehe Anlage 1",
+  "question_string":"11 Nummer 2 in der Zeichnung entspricht...\nSiehe Bild (PFA-010) (1,00 P.)\nSiehe Anlage 1",
+  "annex":"cards_2020/img/51/a1",
   "choices":{
    "correct":"der Profiltiefe.",
    "wrong":[
@@ -122,7 +133,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"12   Nummer 3 in der Zeichnung entspricht...\nSiehe Bild (PFA-010) (1,00 P.)\nSiehe Anlage 1",
+  "question_string":"12 Nummer 3 in der Zeichnung entspricht...\nSiehe Bild (PFA-010) (1,00 P.)\nSiehe Anlage 1",
+  "annex":"cards_2020/img/51/a1",
   "choices":{
    "correct":"der Skelettlinie.",
    "wrong":[
@@ -133,7 +145,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"13   Der Anstellwinkel ist der Winkel zwischen... (1,00 P.)",
+  "question_string":"13 Der Anstellwinkel ist der Winkel zwischen... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"der Profilsehne und dem ungest\u00f6rten Luftstrom.",
    "wrong":[
@@ -144,7 +157,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"14   Wie wird das Verh\u00e4ltnis aus Spannweite und mittlerer Profiltiefe bezeichnet? (1,00 P.)",
+  "question_string":"14 Wie wird das Verh\u00e4ltnis aus Spannweite und mittlerer Profiltiefe bezeichnet? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Fl\u00fcgelstreckung",
    "wrong":[
@@ -155,7 +169,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"15   Welcher Punkt am Fl\u00fcgelprofil wird durch Nummer 3 dargestellt?\nSiehe Bild (PFA-009) (1,00 P.)\nSiehe Anlage 2",
+  "question_string":"15 Welcher Punkt am Fl\u00fcgelprofil wird durch Nummer 3 dargestellt?\nSiehe Bild (PFA-009) (1,00 P.)\nSiehe Anlage 2",
+  "annex":"cards_2020/img/51/a2",
   "choices":{
    "correct":"Umschlagpunkt",
    "wrong":[
@@ -166,7 +181,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"16   Welcher Punkt am Fl\u00fcgelprofil wird durch Nummer 4 dargestellt?\nSiehe Bild (PFA-009) (1,00 P.)\nSiehe Anlage 2",
+  "question_string":"16 Welcher Punkt am Fl\u00fcgelprofil wird durch Nummer 4 dargestellt?\nSiehe Bild (PFA-009) (1,00 P.)\nSiehe Anlage 2",
+  "annex":"cards_2020/img/51/a2",
   "choices":{
    "correct":"Abl\u00f6sepunkt",
    "wrong":[
@@ -177,7 +193,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"17   In welcher Flugphase beginnt die Entstehung von Wirbelschleppen? (1,00 P.)",
+  "question_string":"17 In welcher Flugphase beginnt die Entstehung von Wirbelschleppen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Beim Rotieren mit beginnender Auftriebserzeugung",
    "wrong":[
@@ -188,7 +205,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"18   Welcher Punkt am Fl\u00fcgelprofil wird von Nummer 1 dargestellt?\nSiehe Bild (PFA-009) (1,00 P.)\nSiehe Anlage 2",
+  "question_string":"18 Welcher Punkt am Fl\u00fcgelprofil wird von Nummer 1 dargestellt?\nSiehe Bild (PFA-009) (1,00 P.)\nSiehe Anlage 2",
+  "annex":"cards_2020/img/51/a2",
   "choices":{
    "correct":"Staupunkt",
    "wrong":[
@@ -199,7 +217,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"19   Welcher Vorgang findet am Staupunkt statt? (1,00 P.)",
+  "question_string":"19 Welcher Vorgang findet am Staupunkt statt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die anstr\u00f6mende Luft wird in einen Teilstrom oberhalb und unterhalb der Profilform geteilt",
    "wrong":[
@@ -210,7 +229,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"20   Welche Druckverh\u00e4ltnisse bestehen bei positiven Anstellwinkeln an einem\nTragfl\u00fcgelprofil, das Auftrieb erzeugt? (1,00 P.)",
+  "question_string":"20 Welche Druckverh\u00e4ltnisse bestehen bei positiven Anstellwinkeln an einem\nTragfl\u00fcgelprofil, das Auftrieb erzeugt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Auf der Oberseite wird Unterdruck, auf der Unterseite \u00dcberdruck erzeugt",
    "wrong":[
@@ -221,7 +241,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"21   Die Lage des Druckpunktes eines positiv gew\u00f6lbten Profils... (1,00 P.)",
+  "question_string":"21 Die Lage des Druckpunktes eines positiv gew\u00f6lbten Profils... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"verlagert sich in Richtung der Hinterkante mit kleiner werdendem Anstellwinkel.",
    "wrong":[
@@ -232,7 +253,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"22   Wie verh\u00e4lt sich die Lage des Druckpunktes eines positiv gew\u00f6lbten Profils mit gr\u00f6\u00dfer\nwerdendem Anstellwinkel? (1,00 P.)",
+  "question_string":"22 Wie verh\u00e4lt sich die Lage des Druckpunktes eines positiv gew\u00f6lbten Profils mit gr\u00f6\u00dfer\nwerdendem Anstellwinkel? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Er wandert nach vorne bis zum kritischen Anstellwinkel",
    "wrong":[
@@ -243,7 +265,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"23   Welcher Zusammenhang besteht zwischen Anstellwinkel und Auftrieb? (1,00 P.)",
+  "question_string":"23 Welcher Zusammenhang besteht zwischen Anstellwinkel und Auftrieb? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Ein zu gro\u00dfer Anstellwinkel kann zum \u00fcberzogenen Flugzustand und damit zum Auftriebsverlust f\u00fchren",
    "wrong":[
@@ -254,7 +277,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"24   Welche Aussage \u00fcber die Umstr\u00f6mung einer Tragfl\u00e4che ist korrekt, wenn der\nAnstellwinkel zunimmt? (1,00 P.)",
+  "question_string":"24 Welche Aussage \u00fcber die Umstr\u00f6mung einer Tragfl\u00e4che ist korrekt, wenn der\nAnstellwinkel zunimmt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Der Staupunkt bewegt sich nach unten",
    "wrong":[
@@ -265,7 +289,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"25   Welche Aussage zur Umstr\u00f6mung einer Tragfl\u00e4che ist korrekt, wenn der Anstellwinkel\nabnimmt? (1,00 P.)",
+  "question_string":"25 Welche Aussage zur Umstr\u00f6mung einer Tragfl\u00e4che ist korrekt, wenn der Anstellwinkel\nabnimmt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Der Druckpunkt bewegt sich nach hinten",
    "wrong":[
@@ -276,7 +301,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"26   Der in der Grafik dargestellte Winkel (alpha) entspricht dem...\nSiehe Bild (PFA-003)\nDoF: Anstr\u00f6mrichtung (direction of airflow). (1,00 P.)\nSiehe Anlage 3",
+  "question_string":"26 Der in der Grafik dargestellte Winkel (alpha) entspricht dem...\nSiehe Bild (PFA-003)\nDoF: Anstr\u00f6mrichtung (direction of airflow). (1,00 P.)\nSiehe Anlage 3",
+  "annex":"cards_2020/img/51/a3",
   "choices":{
    "correct":"Anstellwinkel.",
    "wrong":[
@@ -287,7 +313,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"27   Um das \u00dcberziehverhalten eines Luftfahrzeuges zu verbessern, wird der Fl\u00fcgel nach\nau\u00dfen hin verwunden (der Einstellwinkel ver\u00e4ndert sich in Spannweitenrichtung).\nDies bezeichnet man als... (1,00 P.)",
+  "question_string":"27 Um das \u00dcberziehverhalten eines Luftfahrzeuges zu verbessern, wird der Fl\u00fcgel nach\nau\u00dfen hin verwunden (der Einstellwinkel ver\u00e4ndert sich in Spannweitenrichtung).\nDies bezeichnet man als... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"geometrische Schr\u00e4nkung.",
    "wrong":[
@@ -298,7 +325,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"28   Welchen Vorteil bietet die Fl\u00fcgelschr\u00e4nkung? (1,00 P.)",
+  "question_string":"28 Welchen Vorteil bietet die Fl\u00fcgelschr\u00e4nkung? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Wirksamkeit des Querruders bleibt bei hohen Anstellwinkeln noch m\u00f6glichst lange erhalten",
    "wrong":[
@@ -309,7 +337,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"29   Welche Aussage \u00fcber den Anstellwinkel ist zutreffend? (1,00 P.)",
+  "question_string":"29 Welche Aussage \u00fcber den Anstellwinkel ist zutreffend? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Ein zu gro\u00dfer Anstellwinkel l\u00e4sst den Auftrieb zusammenbrechen",
    "wrong":[
@@ -320,7 +349,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"30   Wie \u00e4ndert sich der parasit\u00e4re Widerstand bei Verdopplung der\nStr\u00f6mungsgeschwindigkeit, wenn alle anderen Parameter unver\u00e4ndert bleiben? (1,00\nP.)",
+  "question_string":"30 Wie \u00e4ndert sich der parasit\u00e4re Widerstand bei Verdopplung der\nStr\u00f6mungsgeschwindigkeit, wenn alle anderen Parameter unver\u00e4ndert bleiben? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Er vervierfacht sich",
    "wrong":[
@@ -331,7 +361,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"31   Welche Aussage \u00fcber den Widerstandsbeiwert ist zutreffend? (1,00 P.)",
+  "question_string":"31 Welche Aussage \u00fcber den Widerstandsbeiwert ist zutreffend? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Der Widerstandsbeiwert kann einen minimalen positiven Wert nicht unterschreiten",
    "wrong":[
@@ -342,7 +373,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"32   Wo am Tragfl\u00fcgel kann ein Druckausgleich zwischen Unter- und Oberseite\nstattfinden? (1,00 P.)",
+  "question_string":"32 Wo am Tragfl\u00fcgel kann ein Druckausgleich zwischen Unter- und Oberseite\nstattfinden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"An den Tragfl\u00e4chen-Spitzen",
    "wrong":[
@@ -353,7 +385,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"33   Unter welchen Bedingungen ist der induzierte Widerstand besonders gro\u00df? (1,00 P.)",
+  "question_string":"33 Unter welchen Bedingungen ist der induzierte Widerstand besonders gro\u00df? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bei geringer Fl\u00fcgelstreckung",
    "wrong":[
@@ -364,7 +397,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"34   Welche Bauteile am Flugzeug haben besonders Einfluss auf den induzierten\nWiderstand? (1,00 P.)",
+  "question_string":"34 Welche Bauteile am Flugzeug haben besonders Einfluss auf den induzierten\nWiderstand? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Tragfl\u00e4chenspitzen",
    "wrong":[
@@ -375,7 +409,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"35   Wo entsteht der Interferenzwiderstand an einem Luftfahrzeug? (1,00 P.)",
+  "question_string":"35 Wo entsteht der Interferenzwiderstand an einem Luftfahrzeug? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"An den Tragfl\u00fcgelwurzeln",
    "wrong":[
@@ -386,7 +421,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"36   Welche Kurve stellt den induzierten Widerstand dar?\nSiehe Bild (PFA-011). (1,00 P.)",
+  "question_string":"36 Welche Kurve stellt den induzierten Widerstand dar?\nSiehe Bild (PFA-011). (1,00 P.)",
+  "annex":"cards_2020/img/51/i_1",
   "choices":{
    "correct":"1",
    "wrong":[
@@ -397,7 +433,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"37   Druckwiderstand, Interferenzwiderstand und Reibungswiderstand geh\u00f6ren zur Gruppe\ndes ... (1,00 P.)",
+  "question_string":"37 Druckwiderstand, Interferenzwiderstand und Reibungswiderstand geh\u00f6ren zur Gruppe\ndes ... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"parasit\u00e4ren Widerstands.",
    "wrong":[
@@ -408,7 +445,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"38   Welche Widerstandsart z\u00e4hlt NICHT zu den parasit\u00e4ren (sch\u00e4dlichen)\nWiderstandsarten? (1,00 P.)",
+  "question_string":"38 Welche Widerstandsart z\u00e4hlt NICHT zu den parasit\u00e4ren (sch\u00e4dlichen)\nWiderstandsarten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Induzierter Widerstand",
    "wrong":[
@@ -419,7 +457,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"39   Wie \u00e4ndern sich sch\u00e4dlicher und induzierter Widerstand mit zunehmender\nFluggeschwindigkeit im ungest\u00f6rten Reiseflug (Horizontalflug)? (1,00 P.)",
+  "question_string":"39 Wie \u00e4ndern sich sch\u00e4dlicher und induzierter Widerstand mit zunehmender\nFluggeschwindigkeit im ungest\u00f6rten Reiseflug (Horizontalflug)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Der induzierte Widerstand sinkt und der sch\u00e4dliche Widerstand steigt",
    "wrong":[
@@ -430,7 +469,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"40   Welche der genannten Fl\u00fcgelformen hat den geringsten induzierten Widerstand? (1,00\nP.)",
+  "question_string":"40 Welche der genannten Fl\u00fcgelformen hat den geringsten induzierten Widerstand? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Ellipsenform",
    "wrong":[
@@ -441,7 +481,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"41   Welche Auswirkungen hat eine abnehmende Fluggeschwindigkeit auf den induzierten\nWiderstand im ungest\u00f6rten Reiseflug (Horizontalflug)? (1,00 P.)",
+  "question_string":"41 Welche Auswirkungen hat eine abnehmende Fluggeschwindigkeit auf den induzierten\nWiderstand im ungest\u00f6rten Reiseflug (Horizontalflug)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Er nimmt zu",
    "wrong":[
@@ -452,7 +493,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"42   Welche Aussage \u00fcber den induzierten Widerstand im ungest\u00f6rten Reiseflug\n(Horizontalflug) ist zutreffend? (1,00 P.)",
+  "question_string":"42 Welche Aussage \u00fcber den induzierten Widerstand im ungest\u00f6rten Reiseflug\n(Horizontalflug) ist zutreffend? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Er sinkt mit zunehmender Fluggeschwindigkeit",
    "wrong":[
@@ -463,7 +505,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"43   In welcher der genannten Situationen ist der Widerstand eines Luftfahrzeuges\nam geringsten? (1,00 P.)",
+  "question_string":"43 In welcher der genannten Situationen ist der Widerstand eines Luftfahrzeuges\nam geringsten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Der sch\u00e4dliche Widerstand ist gleich dem induzierten Widerstand",
    "wrong":[
@@ -474,7 +517,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"44   Der Gesamtwiderstand besteht vollst\u00e4ndig aus welchen Widerstandsarten? (1,00 P.)",
+  "question_string":"44 Der Gesamtwiderstand besteht vollst\u00e4ndig aus welchen Widerstandsarten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Induzierter Widerstand und parasit\u00e4rer Widerstand",
    "wrong":[
@@ -485,7 +529,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"45   Wie \u00e4ndern sich Auftrieb und Widerstand bei Ann\u00e4herung an den \u00fcberzogenen\nFlugzustand? (1,00 P.)",
+  "question_string":"45 Wie \u00e4ndern sich Auftrieb und Widerstand bei Ann\u00e4herung an den \u00fcberzogenen\nFlugzustand? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Abnahme von Auftrieb und Zunahme von Widerstand",
    "wrong":[
@@ -496,7 +541,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"46   Im Falle eines \u00fcberzogenen Flugzustandes ist es wichtig... (1,00 P.)",
+  "question_string":"46 Im Falle eines \u00fcberzogenen Flugzustandes ist es wichtig... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"den Anstellwinkel zu verkleinern und die Geschwindigkeit zu erh\u00f6hen.",
    "wrong":[
@@ -507,7 +553,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"47   Wie verhalten sich Auftrieb und Widerstand w\u00e4hrend des Str\u00f6mungsabrisses (stall)?\n(1,00 P.)",
+  "question_string":"47 Wie verhalten sich Auftrieb und Widerstand w\u00e4hrend des Str\u00f6mungsabrisses (stall)?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Der Auftrieb sinkt und der Widerstand steigt",
    "wrong":[
@@ -518,7 +565,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"48   Der kritische Anstellwinkel... (1,00 P.)",
+  "question_string":"48 Der kritische Anstellwinkel... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"h\u00e4ngt nicht von der Masse des Flugzeuges ab.",
    "wrong":[
@@ -529,7 +577,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"49   Welche Umst\u00e4nde f\u00fchren zu einer verringerten Str\u00f6mungsabrissgeschwindigkeit Vs\n(IAS)? (1,00 P.)",
+  "question_string":"49 Welche Umst\u00e4nde f\u00fchren zu einer verringerten Str\u00f6mungsabrissgeschwindigkeit Vs\n(IAS)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Abnehmende Flugzeugmasse",
    "wrong":[
@@ -540,7 +589,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"50   Kurz vor Erreichen welcher Geschwindigkeit wird die \u00dcberziehwarnanlage aktiviert?\n(1,00 P.)",
+  "question_string":"50 Kurz vor Erreichen welcher Geschwindigkeit wird die \u00dcberziehwarnanlage aktiviert?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"VS",
    "wrong":[
@@ -551,7 +601,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"51   Die \u00dcberziehwarnung (stall warning) wird bei Motorflugzeugen h\u00e4ufig aktiviert\ndurch die \u00c4nderung... (1,00 P.)",
+  "question_string":"51 Die \u00dcberziehwarnung (stall warning) wird bei Motorflugzeugen h\u00e4ufig aktiviert\ndurch die \u00c4nderung... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"des Staupunktes.",
    "wrong":[
@@ -562,7 +613,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"52   Wie ist vom Piloten auf das Ausl\u00f6sen der \u00dcberziehwarnung zum Beenden des\n\u00fcberzogenen Flugzustandes zu reagieren? (1,00 P.)",
+  "question_string":"52 Wie ist vom Piloten auf das Ausl\u00f6sen der \u00dcberziehwarnung zum Beenden des\n\u00fcberzogenen Flugzustandes zu reagieren? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"H\u00f6henruder nachdr\u00fccken, Motorleistung erh\u00f6hen",
    "wrong":[
@@ -573,7 +625,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"53   Welche Aussage in Bezug auf das Trudeln ist korrekt? (1,00 P.)",
+  "question_string":"53 Welche Aussage in Bezug auf das Trudeln ist korrekt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"W\u00e4hrend des Ausleitens werden die Querruder neutral gehalten",
    "wrong":[
@@ -584,7 +637,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"54   Wie verh\u00e4lt sich der Auftriebsbeiwert, wenn die Landeklappen bei konstantem\nAnstellwinkel weit vor Erreichen des maximalen Auftriebsbeiwertes ausgefahren\nwerden? (1,00 P.)",
+  "question_string":"54 Wie verh\u00e4lt sich der Auftriebsbeiwert, wenn die Landeklappen bei konstantem\nAnstellwinkel weit vor Erreichen des maximalen Auftriebsbeiwertes ausgefahren\nwerden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Er vergr\u00f6\u00dfert sich",
    "wrong":[
@@ -595,7 +649,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"55   Welche Eigenschaft sorgt f\u00fcr die auftriebserh\u00f6hende Wirkung einer Landeklappe?\n(1,00 P.)",
+  "question_string":"55 Welche Eigenschaft sorgt f\u00fcr die auftriebserh\u00f6hende Wirkung einer Landeklappe?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Vergr\u00f6\u00dferung der Profilw\u00f6lbung",
    "wrong":[
@@ -606,7 +661,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"56   Welcher Faktor kann sich durch die Bet\u00e4tigung der Landeklappen ver\u00e4ndern? (1,00 P.)",
+  "question_string":"56 Welcher Faktor kann sich durch die Bet\u00e4tigung der Landeklappen ver\u00e4ndern? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Lastigkeit (Trimmzustand)",
    "wrong":[
@@ -617,7 +673,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"57   Welche Konstruktionsmerkmale weist die \"Fowler-Klappe\" auf? (1,00 P.)",
+  "question_string":"57 Welche Konstruktionsmerkmale weist die \"Fowler-Klappe\" auf? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Aus dem hinteren Ende des Fl\u00fcgels wird eine profilartige Klappe ausgefahren",
    "wrong":[
@@ -628,7 +685,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"58   Ein Start mit ausgefahrenen Klappen in Startstellung bewirkt... (1,00 P.)",
+  "question_string":"58 Ein Start mit ausgefahrenen Klappen in Startstellung bewirkt... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"die Verk\u00fcrzung der Startrollstrecke.",
    "wrong":[
@@ -639,7 +697,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"59   Sofern laut Flughandbuch keine anderen Verfahren zu befolgen sind, d\u00fcrfen die\nKlappen beim Durchstarten nach Erh\u00f6hen der Motorleistung in der Regel... (1,00 P.)",
+  "question_string":"59 Sofern laut Flughandbuch keine anderen Verfahren zu befolgen sind, d\u00fcrfen die\nKlappen beim Durchstarten nach Erh\u00f6hen der Motorleistung in der Regel... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"nur auf eine mittlere Stellung eingefahren werden.",
    "wrong":[
@@ -650,7 +709,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"60   Wie ver\u00e4ndern sich Auftrieb und Widerstand beim Ausfahren von Landeklappen? (1,00\nP.)",
+  "question_string":"60 Wie ver\u00e4ndern sich Auftrieb und Widerstand beim Ausfahren von Landeklappen? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Auftrieb steigt, Widerstand steigt",
    "wrong":[
@@ -661,7 +721,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"61   Die laminare Grenzschicht am Tragfl\u00fcgel befindet sich zwischen... (1,00 P.)",
+  "question_string":"61 Die laminare Grenzschicht am Tragfl\u00fcgel befindet sich zwischen... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Staupunkt und Umschlagpunkt.",
    "wrong":[
@@ -672,7 +733,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"62   Welche Arten von Grenzschichten sind an einem Tragfl\u00e4chenprofil zu beobachten?\n(1,00 P.)",
+  "question_string":"62 Welche Arten von Grenzschichten sind an einem Tragfl\u00e4chenprofil zu beobachten?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"An der vorderen Tragfl\u00fcgeloberseite laminare Str\u00f6mung, weiter hinten turbulente Str\u00f6mung",
    "wrong":[
@@ -683,7 +745,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"63   Wie unterscheiden sich laminare und turbulente Grenzschicht am Tragfl\u00fcgelprofil?\n(1,00 P.)",
+  "question_string":"63 Wie unterscheiden sich laminare und turbulente Grenzschicht am Tragfl\u00fcgelprofil?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die turbulente Grenzschicht ist auch bei h\u00f6heren Anstellwinkeln in der Lage, der Profilw\u00f6lbung zu folgen",
    "wrong":[
@@ -694,7 +757,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"64   Welches konstruktive Merkmal sorgt f\u00fcr die Erh\u00f6hung der Querstabilit\u00e4t eines\nFl\u00e4chenflugzeuges? (1,00 P.)",
+  "question_string":"64 Welches konstruktive Merkmal sorgt f\u00fcr die Erh\u00f6hung der Querstabilit\u00e4t eines\nFl\u00e4chenflugzeuges? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Positive V-Form der Tragfl\u00e4chen",
    "wrong":[
@@ -705,7 +769,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"65   Welche Aussage beschreibt eine Situation statischer Stabilit\u00e4t? (1,00 P.)",
+  "question_string":"65 Welche Aussage beschreibt eine Situation statischer Stabilit\u00e4t? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wird ein Flugzustand durch \u00e4u\u00dfere Einfl\u00fcsse gest\u00f6rt, neigt das Luftfahrzeug dazu, sich in Richtung des urspr\u00fcnglichen Zustands zur\u00fcckzubewegen",
    "wrong":[
@@ -716,7 +781,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"66   Welches konstruktive Merkmal ist in der Abbildung dargestellt?\nSiehe Bild (PFA-006)\nL: Auftrieb (1,00 P.)\nSiehe Anlage 4",
+  "question_string":"66 Welches konstruktive Merkmal ist in der Abbildung dargestellt?\nSiehe Bild (PFA-006)\nL: Auftrieb (1,00 P.)\nSiehe Anlage 4",
+  "annex":"cards_2020/img/51/a4",
   "choices":{
    "correct":"Querstabilit\u00e4t durch positive V-Form",
    "wrong":[
@@ -727,7 +793,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"67   Als \"L\u00e4ngsstabilit\u00e4t\" wird die Stabilit\u00e4t um welche Achse bezeichnet? (1,00 P.)",
+  "question_string":"67 Als \"L\u00e4ngsstabilit\u00e4t\" wird die Stabilit\u00e4t um welche Achse bezeichnet? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Querachse",
    "wrong":[
@@ -738,7 +805,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"68   Die Stabilit\u00e4t um welche Achse wird ma\u00dfgeblich durch die horizontale\nSchwerpunktlage mitbestimmt? (1,00 P.)",
+  "question_string":"68 Die Stabilit\u00e4t um welche Achse wird ma\u00dfgeblich durch die horizontale\nSchwerpunktlage mitbestimmt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Querachse",
    "wrong":[
@@ -749,7 +817,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"69   Welches konstruktive Merkmal sorgt f\u00fcr eine Erh\u00f6hung der Richtungsstabilit\u00e4t eines\nFl\u00e4chenflugzeuges? (1,00 P.)",
+  "question_string":"69 Welches konstruktive Merkmal sorgt f\u00fcr eine Erh\u00f6hung der Richtungsstabilit\u00e4t eines\nFl\u00e4chenflugzeuges? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Gro\u00dfes Seitenleitwerk",
    "wrong":[
@@ -760,7 +829,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"70   Wie wird eine Drehung um die Hochachse genannt? (1,00 P.)",
+  "question_string":"70 Wie wird eine Drehung um die Hochachse genannt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Gieren",
    "wrong":[
@@ -771,7 +841,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"71   Wie wird eine Drehung um die Querachse genannt? (1,00 P.)",
+  "question_string":"71 Wie wird eine Drehung um die Querachse genannt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Nicken",
    "wrong":[
@@ -782,7 +853,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"72   Der kritische Anstellwinkel... (1,00 P.)",
+  "question_string":"72 Der kritische Anstellwinkel... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"ver\u00e4ndert sich durch verschiedene Flugzeugmassen nicht.",
    "wrong":[
@@ -793,7 +865,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"73   Bei gleichbleibender Leistung des Motors im Reiseflug ist der Anstellwinkel am\nFl\u00fcgel... (1,00 P.)",
+  "question_string":"73 Bei gleichbleibender Leistung des Motors im Reiseflug ist der Anstellwinkel am\nFl\u00fcgel... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"kleiner als im Steigflug.",
    "wrong":[
@@ -804,7 +877,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"74   Welches ist eine Funktion des H\u00f6henleitwerks? (1,00 P.)",
+  "question_string":"74 Welches ist eine Funktion des H\u00f6henleitwerks? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Stabilisierung des Flugzeugs um die Querachse",
    "wrong":[
@@ -815,7 +889,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"75   Der H\u00f6henruderausschlag beim Rotieren zum Start wird... (1,00 P.)",
+  "question_string":"75 Der H\u00f6henruderausschlag beim Rotieren zum Start wird... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"gr\u00f6\u00dfer sein mit einer vorderen Schwerpunktlage.",
    "wrong":[
@@ -826,7 +901,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"76   Das H\u00f6henruder bewegt ein Luftfahrzeug um die... (1,00 P.)",
+  "question_string":"76 Das H\u00f6henruder bewegt ein Luftfahrzeug um die... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Querachse.",
    "wrong":[
@@ -837,7 +913,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"77   Was ist hinsichtlich der Lage des Schwerpunktes zu beachten? (1,00 P.)",
+  "question_string":"77 Was ist hinsichtlich der Lage des Schwerpunktes zu beachten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bei der Beladung ist unbedingt auf eine zul\u00e4ssige Schwerpunktlage zu achten",
    "wrong":[
@@ -848,7 +925,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"78   Das Seitenruder bewegt ein Luftfahrzeug um die... (1,00 P.)",
+  "question_string":"78 Das Seitenruder bewegt ein Luftfahrzeug um die... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Hochachse.",
    "wrong":[
@@ -859,7 +937,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"79   Ein Seitenruderausschlag nach links bewirkt... (1,00 P.)",
+  "question_string":"79 Ein Seitenruderausschlag nach links bewirkt... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"ein Gieren des Luftfahrzeugs nach links.",
    "wrong":[
@@ -870,7 +949,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"80   Welches ist ein Vorteil des differenzierten Querruderausschlages? (1,00 P.)",
+  "question_string":"80 Welches ist ein Vorteil des differenzierten Querruderausschlages? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Der Widerstand des nach unten ausgeschlagenen Querruders wird verringert und damit ist das negative Wendemoment kleiner",
    "wrong":[
@@ -881,7 +961,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"81   Wie wird das negative Wendemoment kompensiert? (1,00 P.)",
+  "question_string":"81 Wie wird das negative Wendemoment kompensiert? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Durch differenzierten Querruderausschlag",
    "wrong":[
@@ -892,7 +973,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"82   Welchen Vorteil hat die Verwendung von differenzierten Querrudern? (1,00 P.)",
+  "question_string":"82 Welchen Vorteil hat die Verwendung von differenzierten Querrudern? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Sie halten das negative Wendemoment gering",
    "wrong":[
@@ -903,7 +985,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"83   Das rechte Querruder schl\u00e4gt nach oben aus, das linke nach unten.\nWie reagiert das Luftfahrzeug? (1,00 P.)",
+  "question_string":"83 Das rechte Querruder schl\u00e4gt nach oben aus, das linke nach unten.\nWie reagiert das Luftfahrzeug? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Rollen nach rechts, Gieren nach links",
    "wrong":[
@@ -914,7 +997,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"84   Welche Funktion hat der aerodynamische Ruderausgleich? (1,00 P.)",
+  "question_string":"84 Welche Funktion hat der aerodynamische Ruderausgleich? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Er verringert die Steuerkr\u00e4fte",
    "wrong":[
@@ -925,7 +1009,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"85   Welche konstruktive Ma\u00dfnahme tr\u00e4gt zur Verringerung von Ruderkr\u00e4ften bei? (1,00 P.)",
+  "question_string":"85 Welche konstruktive Ma\u00dfnahme tr\u00e4gt zur Verringerung von Ruderkr\u00e4ften bei? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Aerodynamischer Ruderausgleich",
    "wrong":[
@@ -936,7 +1021,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"86   Welche Funktion hat der statische Ruderausgleich? (1,00 P.)",
+  "question_string":"86 Welche Funktion hat der statische Ruderausgleich? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Er verhindert das \"Flattern\" der Ruder",
    "wrong":[
@@ -947,7 +1033,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"87   Ein Flugzeug besitzt im Reiseflug bei konstanter Leistungseinstellung die Tendenz,\ndie Nase zu heben.\nWie kann diese Tendenz unterdr\u00fcckt werden? (1,00 P.)",
+  "question_string":"87 Ein Flugzeug besitzt im Reiseflug bei konstanter Leistungseinstellung die Tendenz,\ndie Nase zu heben.\nWie kann diese Tendenz unterdr\u00fcckt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Durch das Auslenken der H\u00f6henruder-Trimmfl\u00e4che nach oben",
    "wrong":[
@@ -958,7 +1045,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"88   Das Trimmruder am H\u00f6henruder ist nach oben ausgeschlagen.\nIn welcher Stellung befindet sich die zugeh\u00f6rige Anzeige? (1,00 P.)",
+  "question_string":"88 Das Trimmruder am H\u00f6henruder ist nach oben ausgeschlagen.\nIn welcher Stellung befindet sich die zugeh\u00f6rige Anzeige? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Kopflastig getrimmt",
    "wrong":[
@@ -969,7 +1057,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"89   Welches Verh\u00e4ltnis bezeichnet der Begriff \"Fl\u00e4chenbelastung\"? (1,00 P.)",
+  "question_string":"89 Welches Verh\u00e4ltnis bezeichnet der Begriff \"Fl\u00e4chenbelastung\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Luftfahrzeugmasse pro Fl\u00fcgelfl\u00e4che",
    "wrong":[
@@ -980,7 +1069,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"90   Durch welchen der aufgef\u00fchrten Faktoren erh\u00f6ht sich das wirkende Lastvielfache im\nReiseflug? (1,00 P.)",
+  "question_string":"90 Durch welchen der aufgef\u00fchrten Faktoren erh\u00f6ht sich das wirkende Lastvielfache im\nReiseflug? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Eine aufw\u00e4rtsgerichtete B\u00f6e",
    "wrong":[
@@ -991,7 +1081,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"91   Welche Aussage bez\u00fcglich des Verstellpropellers (\"Constant-Speed Propeller\")\nist korrekt? (1,00 P.)",
+  "question_string":"91 Welche Aussage bez\u00fcglich des Verstellpropellers (\"Constant-Speed Propeller\")\nist korrekt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Der Einstellwinkel des Propellers wird mit zunehmender Fluggeschwindigkeit gr\u00f6\u00dfer",
    "wrong":[
@@ -1002,7 +1093,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"92   Warum \u00e4ndert sich bei einem Propellerblatt der Einstellwinkel von der Nabe bis zur\nSpitze? (1,00 P.)",
+  "question_string":"92 Warum \u00e4ndert sich bei einem Propellerblatt der Einstellwinkel von der Nabe bis zur\nSpitze? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Um eine m\u00f6glichst konstante Belastung durch einen gleichbleibenden effektiven Anstellwinkel \u00fcber die gesamte L\u00e4nge des Blattes zu gew\u00e4hrleisten",
    "wrong":[
@@ -1013,7 +1105,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"93   Wie verh\u00e4lt sich nach einem Motorausfall ein im Wind drehender Propeller? (1,00 P.)",
+  "question_string":"93 Wie verh\u00e4lt sich nach einem Motorausfall ein im Wind drehender Propeller? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Er produziert Widerstand anstatt Schub",
    "wrong":[
@@ -1024,7 +1117,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"94   Wie verhalten sich Propellersteigung und Sinkrate, wenn w\u00e4hrend eines Sinkfluges im\nLeerlauf bei konstanter Geschwindigkeit der Propellerverstellhebel nach hinten\ngezogen wird? (1,00 P.)",
+  "question_string":"94 Wie verhalten sich Propellersteigung und Sinkrate, wenn w\u00e4hrend eines Sinkfluges im\nLeerlauf bei konstanter Geschwindigkeit der Propellerverstellhebel nach hinten\ngezogen wird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Propellersteigung wird gr\u00f6\u00dfer. Sinkrate wird kleiner.",
    "wrong":[
@@ -1035,7 +1129,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"95   Der in der Polare bezeichnete Punkt 1 kennzeichnet welchen Flugzustand?\nSiehe Bild (PFA-008) (1,00 P.)\nSiehe Anlage 5",
+  "question_string":"95 Der in der Polare bezeichnete Punkt 1 kennzeichnet welchen Flugzustand?\nSiehe Bild (PFA-008) (1,00 P.)\nSiehe Anlage 5",
+  "annex":"cards_2020/img/51/a5",
   "choices":{
    "correct":"R\u00fcckenflug",
    "wrong":[
@@ -1046,7 +1141,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"96   Der in der Polare bezeichnete Punkt 5 kennzeichnet welchen Flugzustand?\nSiehe Bild (PFA-008) (1,00 P.)\nSiehe Anlage 5",
+  "question_string":"96 Der in der Polare bezeichnete Punkt 5 kennzeichnet welchen Flugzustand?\nSiehe Bild (PFA-008) (1,00 P.)\nSiehe Anlage 5",
+  "annex":"cards_2020/img/51/a5",
   "choices":{
    "correct":"Langsamflug",
    "wrong":[
@@ -1057,7 +1153,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"97   Die Schr\u00e4glage (bank) in einer 2-Minuten Kurve (rate one turn)\nh\u00e4ngt von welchem der aufgef\u00fchrten Faktoren ab? (1,00 P.)",
+  "question_string":"97 Die Schr\u00e4glage (bank) in einer 2-Minuten Kurve (rate one turn)\nh\u00e4ngt von welchem der aufgef\u00fchrten Faktoren ab? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Der TAS",
    "wrong":[
@@ -1068,7 +1165,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"98   Wie verhalten sich das Lastvielfache (n) und die Str\u00f6mungsabrissgeschwindigkeit\n(VS)\nim koordinierten Kurvenflug? (1,00 P.)",
+  "question_string":"98 Wie verhalten sich das Lastvielfache (n) und die Str\u00f6mungsabrissgeschwindigkeit\n(VS)\nim koordinierten Kurvenflug? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"n ist gr\u00f6\u00dfer als 1 und VS ist gr\u00f6\u00dfer als im Horizontalflug",
    "wrong":[
@@ -1079,7 +1177,8 @@ var Grundlagen_des_Fluges_q = [
   }
  },
  {
-  "question_string":"99   Wie wird das Kr\u00e4ftegleichgewicht aus Auftriebskraft und Schwerkraft im Kurvenflug\nbeeinflusst? (1,00 P.)",
+  "question_string":"99  Wie wird das Kr\u00e4ftegleichgewicht aus Auftriebskraft und Schwerkraft im Kurvenflug\nbeeinflusst? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Auftriebskraft muss erh\u00f6ht werden, um die gr\u00f6\u00dfere Scheingewichtskraft auszugleichen",
    "wrong":[
@@ -1091,6 +1190,7 @@ var Grundlagen_des_Fluges_q = [
  },
  {
   "question_string":"100 Was wird durch den Druckausgleich zwischen Tragfl\u00e4chenober- und unterseite\nverursacht? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Induzierter Widerstand durch Randwirbel",
    "wrong":[
@@ -1102,6 +1202,7 @@ var Grundlagen_des_Fluges_q = [
  },
  {
   "question_string":"101 Was ist der Bodeneffekt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Erh\u00f6hung des Auftriebes und Abnahme des induzierten Widerstandes in unmittelbarer Bodenn\u00e4he",
    "wrong":[
@@ -1113,6 +1214,7 @@ var Grundlagen_des_Fluges_q = [
  },
  {
   "question_string":"102 Was unterscheidet Trudeln vom Spiralsturz? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Trudeln: an innerer Tragfl\u00e4che Str\u00f6mung abgerissen, Geschwindigkeit konstant; Spiralsturz: Str\u00f6mung an beiden Fl\u00e4chen an, Sturzgeschwindigkeit nimmt rapide zu",
    "wrong":[

@@ -1,7 +1,8 @@
 var Meteorologie_s = "Meteorologie";
 var Meteorologie_q = [
  {
-  "question_string":"1   Welche Wolken und Wettererscheinungen k\u00f6nnen die Folge sein, wenn eine feuchte\nund instabile Luftmasse vom vorherrschenden Wind gegen eine Gebirgskette\ngedr\u00fcckt und zum Aufstieg gebracht wird? (1,00 P.)",
+  "question_string":"1 Welche Wolken und Wettererscheinungen k\u00f6nnen die Folge sein, wenn eine feuchte\nund instabile Luftmasse vom vorherrschenden Wind gegen eine Gebirgskette\ngedr\u00fcckt und zum Aufstieg gebracht wird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Eingelagerte CBs mit Gewittern und Regen- und/oder Hagelschauern",
    "wrong":[
@@ -12,7 +13,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"2   Welche Art von Nebel entsteht, wenn feuchte, fast ges\u00e4ttigte Luft durch den\nvorherrschenden Wind gegen eine H\u00fcgelkette gedr\u00fcckt und dabei zum Aufstieg\ngezwungen wird? (1,00 P.)",
+  "question_string":"2 Welche Art von Nebel entsteht, wenn feuchte, fast ges\u00e4ttigte Luft durch den\nvorherrschenden Wind gegen eine H\u00fcgelkette gedr\u00fcckt und dabei zum Aufstieg\ngezwungen wird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Orographischer Nebel",
    "wrong":[
@@ -23,7 +25,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"3   Was ist im Wetterbericht unter dem Begriff \"\u00dcberentwicklung\" zu verstehen? (1,00 P.)",
+  "question_string":"3 Was ist im Wetterbericht unter dem Begriff \"\u00dcberentwicklung\" zu verstehen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Vertikalentwicklung von Cumulus-Wolken zu Regenschauern",
    "wrong":[
@@ -34,7 +37,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"4   Aus welchen Gasanteilen setzt sich trockene Luft zusammen? (1,00 P.)",
+  "question_string":"4 Aus welchen Gasanteilen setzt sich trockene Luft zusammen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"21% Sauerstoff. 78% Stickstoff. 1% Edelgase / Kohlendioxid.",
    "wrong":[
@@ -45,7 +49,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"5   In welcher Schicht der Atmosph\u00e4re findet der \u00fcberwiegende Teil des\nWettergeschehens statt? (1,00 P.)",
+  "question_string":"5 In welcher Schicht der Atmosph\u00e4re findet der \u00fcberwiegende Teil des\nWettergeschehens statt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Troposph\u00e4re",
    "wrong":[
@@ -56,7 +61,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"6    Welche Masse besitzt ein \"W\u00fcrfel Luft\" mit der Kantenl\u00e4nge 1 Meter unter ISA-\nBedingungen in MSL? (1,00 P.)",
+  "question_string":"6  Welche Masse besitzt ein \"W\u00fcrfel Luft\" mit der Kantenl\u00e4nge 1 Meter unter ISA-\nBedingungen in MSL? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"1,225 kg",
    "wrong":[
@@ -67,7 +73,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"7    Wie verh\u00e4lt sich die Temperatur nach ISA (ICAO Standard Atmosph\u00e4re) mit\nzunehmender H\u00f6he in der Troposph\u00e4re? (1,00 P.)",
+  "question_string":"7  Wie verh\u00e4lt sich die Temperatur nach ISA (ICAO Standard Atmosph\u00e4re) mit\nzunehmender H\u00f6he in der Troposph\u00e4re? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Sie nimmt mit 2 \u00b0C / 1.000 ft ab",
    "wrong":[
@@ -78,7 +85,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"8    Die mittlere H\u00f6he der Tropopause nach ISA (ICAO Standard Atmosph\u00e4re) betr\u00e4gt...\n(1,00 P.)",
+  "question_string":"8  Die mittlere H\u00f6he der Tropopause nach ISA (ICAO Standard Atmosph\u00e4re) betr\u00e4gt...\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"11.000 m",
    "wrong":[
@@ -89,7 +97,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"9    Was ist die \"Tropopause\"? (1,00 P.)",
+  "question_string":"9  Was ist die \"Tropopause\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die Grenzfl\u00e4che zwischen Troposph\u00e4re und Stratosph\u00e4re",
    "wrong":[
@@ -100,7 +109,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"10   In welcher Einheit werden Temperaturen in der Flugmeteorologie in Europa\nangegeben? (1,00 P.)",
+  "question_string":"10 In welcher Einheit werden Temperaturen in der Flugmeteorologie in Europa\nangegeben? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Grad Celsius",
    "wrong":[
@@ -111,7 +121,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"11   Was ist eine \"Inversion\"? (1,00 P.)",
+  "question_string":"11 Was ist eine \"Inversion\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Eine Schicht in der Atmosph\u00e4re, in der die Temperatur mit zunehmender H\u00f6he steigt",
    "wrong":[
@@ -122,7 +133,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"12   Was ist eine \"Isothermie\"? (1,00 P.)",
+  "question_string":"12 Was ist eine \"Isothermie\"? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Eine Atmosph\u00e4renschicht, in der die Temperatur mit zunehmender H\u00f6he konstant bleibt",
    "wrong":[
@@ -133,7 +145,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"13   Als Temperaturabnahme mit zunehmender H\u00f6he wird f\u00fcr die Troposph\u00e4re in ISA\nangenommen: (1,00 P.)",
+  "question_string":"13 Als Temperaturabnahme mit zunehmender H\u00f6he wird f\u00fcr die Troposph\u00e4re in ISA\nangenommen: (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"0,65 \u00b0C / 100 m",
    "wrong":[
@@ -144,7 +157,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"14   Welcher der genannten Prozesse kann zu einer Inversion in etwa 5.000 ft (1.500 m)\nH\u00f6he f\u00fchren? (1,00 P.)",
+  "question_string":"14 Welcher der genannten Prozesse kann zu einer Inversion in etwa 5.000 ft (1.500 m)\nH\u00f6he f\u00fchren? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Gro\u00dfr\u00e4umig absinkende Luft im Bereich eines Hochdruckgebiets",
    "wrong":[
@@ -155,7 +169,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"15   Wodurch kann eine bodennahe Inversion entstehen? (1,00 P.)",
+  "question_string":"15 Wodurch kann eine bodennahe Inversion entstehen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Durch n\u00e4chtliche Abk\u00fchlung der Erdoberfl\u00e4che",
    "wrong":[
@@ -166,7 +181,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"16   Der Luftdruck gem\u00e4\u00df ISA-Bedingungen betr\u00e4gt in FL 180 (ca. 5.500 m) ... (1,00 P.)",
+  "question_string":"16 Der Luftdruck gem\u00e4\u00df ISA-Bedingungen betr\u00e4gt in FL 180 (ca. 5.500 m) ... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"500 hPa.",
    "wrong":[
@@ -177,7 +193,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"17   Welcher Druckwert wird aus dem an einer Station gemessenen Luftdruck durch\nReduktion auf Meeresniveau unter Ber\u00fccksichtigung der tats\u00e4chlichen\natmosph\u00e4rischen Verh\u00e4ltnisse ermittelt? (1,00 P.)",
+  "question_string":"17 Welcher Druckwert wird aus dem an einer Station gemessenen Luftdruck durch\nReduktion auf Meeresniveau unter Ber\u00fccksichtigung der tats\u00e4chlichen\natmosph\u00e4rischen Verh\u00e4ltnisse ermittelt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"QFF",
    "wrong":[
@@ -188,7 +205,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"18   Welche Prozesse f\u00fchren zu abnehmender Luftdichte? (1,00 P.)",
+  "question_string":"18 Welche Prozesse f\u00fchren zu abnehmender Luftdichte? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Temperatur steigt, Druck f\u00e4llt",
    "wrong":[
@@ -199,7 +217,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"19   Der Luftdruck in MSL betr\u00e4gt gem\u00e4\u00df ISA... (1,00 P.)",
+  "question_string":"19 Der Luftdruck in MSL betr\u00e4gt gem\u00e4\u00df ISA... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"1.013,25 hPa.",
    "wrong":[
@@ -210,7 +229,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"20   Die Tropopausenh\u00f6he betr\u00e4gt gem\u00e4\u00df ISA... (1,00 P.)",
+  "question_string":"20 Die Tropopausenh\u00f6he betr\u00e4gt gem\u00e4\u00df ISA... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"36.000 ft.",
    "wrong":[
@@ -221,7 +241,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"21   Welche H\u00f6he zeigt der barometrische H\u00f6henmesser an? (1,00 P.)",
+  "question_string":"21 Welche H\u00f6he zeigt der barometrische H\u00f6henmesser an? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die H\u00f6he \u00fcber der eingestellten Bezugsdruckfl\u00e4che",
    "wrong":[
@@ -232,7 +253,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"22   Wie kann ein H\u00f6henmesser am Boden \u00fcberpr\u00fcft werden? (1,00 P.)",
+  "question_string":"22 Wie kann ein H\u00f6henmesser am Boden \u00fcberpr\u00fcft werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Durch Einstellen des QNHs und Pr\u00fcfung, ob die Anzeige die Flugplatzh\u00f6he anzeigt",
    "wrong":[
@@ -243,7 +265,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"23   Welche H\u00f6he zeigt der H\u00f6henmesser bei der Einstellung \"QFE\" an? (1,00 P.)",
+  "question_string":"23 Welche H\u00f6he zeigt der H\u00f6henmesser bei der Einstellung \"QFE\" an? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"H\u00f6he \u00fcber der Druckfl\u00e4che in Platzh\u00f6he (\"height\")",
    "wrong":[
@@ -254,7 +277,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"24   Welche H\u00f6he zeigt der H\u00f6henmesser bei der Einstellung \"QNH\" an? (1,00 P.)",
+  "question_string":"24 Welche H\u00f6he zeigt der H\u00f6henmesser bei der Einstellung \"QNH\" an? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"H\u00f6he \u00fcber MSL (\"altitude\")",
    "wrong":[
@@ -265,7 +289,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"25   Welchen Wert hat die wahre H\u00f6he unter folgenden Bedingungen?\n(gerundet auf die n\u00e4chsten 50 ft)\nQNH: 983 hPa.\nFlug in Flugfl\u00e4che: 85.\nAu\u00dfentemperatur: ISA - 10. (1,00 P.)",
+  "question_string":"25 Welchen Wert hat die wahre H\u00f6he unter folgenden Bedingungen?\n(gerundet auf die n\u00e4chsten 50 ft)\nQNH: 983 hPa.\nFlug in Flugfl\u00e4che: 85.\nAu\u00dfentemperatur: ISA - 10. (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"7.300 ft",
    "wrong":[
@@ -276,7 +301,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"26   Wie kann auf Bodenwetterkarten die Windrichtung und -geschwindigkeit an\nverschiedenen Orten grob abgeleitet werden? (1,00 P.)",
+  "question_string":"26 Wie kann auf Bodenwetterkarten die Windrichtung und -geschwindigkeit an\nverschiedenen Orten grob abgeleitet werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Anhand der Ausrichtung und dem Abstand der Isobaren",
    "wrong":[
@@ -287,7 +313,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"27   Welche Kraft ist die Ursache f\u00fcr Wind? (1,00 P.)",
+  "question_string":"27 Welche Kraft ist die Ursache f\u00fcr Wind? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Druckgradientenkraft",
    "wrong":[
@@ -298,7 +325,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"28   Oberhalb der Reibungsschicht weht der Wind bei gro\u00dfr\u00e4umigen Druckunterschieden...\n(1,00 P.)",
+  "question_string":"28 Oberhalb der Reibungsschicht weht der Wind bei gro\u00dfr\u00e4umigen Druckunterschieden...\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"parallel zu den Isobaren.",
    "wrong":[
@@ -309,7 +337,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"29   Welche Oberfl\u00e4chenbeschaffenheit sorgt f\u00fcr die st\u00e4rkste Reduktion der\nWindgeschwindigkeit in der bodennahen Reibungsschicht? (1,00 P.)",
+  "question_string":"29 Welche Oberfl\u00e4chenbeschaffenheit sorgt f\u00fcr die st\u00e4rkste Reduktion der\nWindgeschwindigkeit in der bodennahen Reibungsschicht? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Gebirgiges und bewachsenes Land",
    "wrong":[
@@ -320,7 +349,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"30   Welcher Begriff bezeichnet das Zusammenstr\u00f6men von Luft? (1,00 P.)",
+  "question_string":"30 Welcher Begriff bezeichnet das Zusammenstr\u00f6men von Luft? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Konvergenz",
    "wrong":[
@@ -331,7 +361,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"31   Welcher Begriff bezeichnet das Auseinanderstr\u00f6men von Luft? (1,00 P.)",
+  "question_string":"31 Welcher Begriff bezeichnet das Auseinanderstr\u00f6men von Luft? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Divergenz",
    "wrong":[
@@ -342,7 +373,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"32   Welche Auswirkungen hat eine Konvergenz in bodennahen Schichten auf das\nWettergeschehen? (1,00 P.)",
+  "question_string":"32 Welche Auswirkungen hat eine Konvergenz in bodennahen Schichten auf das\nWettergeschehen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Aufsteigende Luftbewegung mit Wolkenbildung",
    "wrong":[
@@ -353,7 +385,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"33   Wie wird das Zusammenstr\u00f6men von Luft am Boden bezeichnet\nund welche Auswirkungen hat dies? (1,00 P.)",
+  "question_string":"33 Wie wird das Zusammenstr\u00f6men von Luft am Boden bezeichnet\nund welche Auswirkungen hat dies? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Konvergenz; die Folge sind aufsteigende Luftbewegungen",
    "wrong":[
@@ -364,7 +397,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"34   Von welchen Luftmassen wird Mitteleuropa haupts\u00e4chlich beeinflusst? (1,00 P.)",
+  "question_string":"34 Von welchen Luftmassen wird Mitteleuropa haupts\u00e4chlich beeinflusst? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Polare Kaltluft und tropische Warmluft",
    "wrong":[
@@ -375,7 +409,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"35   Wo in der globalen Zirkulation der Atmosph\u00e4re treffen polare Kaltluft und\nsubtropische Warmluft aufeinander? (1,00 P.)",
+  "question_string":"35 Wo in der globalen Zirkulation der Atmosph\u00e4re treffen polare Kaltluft und\nsubtropische Warmluft aufeinander? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"An der Polarfront",
    "wrong":[
@@ -386,7 +421,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"36   Wie werden Winde bezeichnet, die einen Hang hinaufstr\u00f6men? (1,00 P.)",
+  "question_string":"36 Wie werden Winde bezeichnet, die einen Hang hinaufstr\u00f6men? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Anabatische Winde",
    "wrong":[
@@ -397,7 +433,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"37   Wie werden Winde bezeichnet, die einen Hang hinabstr\u00f6men? (1,00 P.)",
+  "question_string":"37 Wie werden Winde bezeichnet, die einen Hang hinabstr\u00f6men? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Katabatische Winde",
    "wrong":[
@@ -408,7 +445,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"38   Wie wird eine an einem Gebirgszug absinkende Luftbewegung genannt? (1,00 P.)",
+  "question_string":"38 Wie wird eine an einem Gebirgszug absinkende Luftbewegung genannt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Katabatischer Wind",
    "wrong":[
@@ -419,7 +457,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"39   Eine F\u00f6hnwetterlage entwickelt sich bevorzugt unter welchen Bedingungen? (1,00 P.)",
+  "question_string":"39 Eine F\u00f6hnwetterlage entwickelt sich bevorzugt unter welchen Bedingungen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Stabile Luftmasse, gro\u00dfr\u00e4umige Str\u00f6mung gegen ein Gebirge",
    "wrong":[
@@ -430,7 +469,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"40   Mit welcher Gefahr ist insbesondere bei F\u00f6hn-Wetterlage auf der Gebirgs-Leeseite in\nBodenn\u00e4he zu rechnen? (1,00 P.)",
+  "question_string":"40 Mit welcher Gefahr ist insbesondere bei F\u00f6hn-Wetterlage auf der Gebirgs-Leeseite in\nBodenn\u00e4he zu rechnen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Turbulenz durch Rotoren",
    "wrong":[
@@ -441,7 +481,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"41   In welcher Situation ist stets mit leichter Turbulenz zu rechnen? (1,00 P.)",
+  "question_string":"41 In welcher Situation ist stets mit leichter Turbulenz zu rechnen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bei Thermik unterhalb von Quellwolken",
    "wrong":[
@@ -452,7 +493,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"42   Wo muss mit m\u00e4\u00dfiger bis starker Turbulenz gerechnet werden? (1,00 P.)",
+  "question_string":"42 Wo muss mit m\u00e4\u00dfiger bis starker Turbulenz gerechnet werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bei Auftreten von Rotor-Wolken auf der Leeseite eines Gebirges",
    "wrong":[
@@ -463,7 +505,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"43   Welche Antwort gibt alle Zust\u00e4nde an, in welchen Wasser in der Atmosph\u00e4re\nvorkommen kann? (1,00 P.)",
+  "question_string":"43 Welche Antwort gibt alle Zust\u00e4nde an, in welchen Wasser in der Atmosph\u00e4re\nvorkommen kann? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Fl\u00fcssig, fest und gasf\u00f6rmig",
    "wrong":[
@@ -474,7 +517,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"44   Wie verhalten sich Taupunkt und relative Feuchtigkeit bei abnehmender Temperatur?\n(1,00 P.)",
+  "question_string":"44 Wie verhalten sich Taupunkt und relative Feuchtigkeit bei abnehmender Temperatur?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Taupunkt bleibt konstant, relative Feuchtigkeit steigt",
    "wrong":[
@@ -485,7 +529,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"45   Wie verhalten sich Spread und relative Feuchtigkeit bei steigender Temperatur? (1,00\nP.)",
+  "question_string":"45 Wie verhalten sich Spread und relative Feuchtigkeit bei steigender Temperatur? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Spread steigt, relative Feuchtigkeit sinkt",
    "wrong":[
@@ -496,7 +541,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"46   Der \"Spread\" ist definiert als... (1,00 P.)",
+  "question_string":"46 Der \"Spread\" ist definiert als... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"die Differenz zwischen Temperatur und Taupunkt.",
    "wrong":[
@@ -507,7 +553,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"47   Wenn bei ansonsten gleichbleibenden Bedingungen die Temperatur f\u00e4llt... (1,00 P.)",
+  "question_string":"47 Wenn bei ansonsten gleichbleibenden Bedingungen die Temperatur f\u00e4llt... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"sinkt der Spread und die relative Feuchtigkeit steigt.",
    "wrong":[
@@ -518,7 +565,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"48   Bei welchem Prozess kann latente W\u00e4rme in der oberen Troposph\u00e4re freigesetzt\nwerden? (1,00 P.)",
+  "question_string":"48 Bei welchem Prozess kann latente W\u00e4rme in der oberen Troposph\u00e4re freigesetzt\nwerden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bei Wolkenbildung durch Kondensation",
    "wrong":[
@@ -529,7 +577,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"49   Welche Beziehung besteht zwischen feucht- und trockenadiabatischem\nTemperaturgradienten? (1,00 P.)",
+  "question_string":"49 Welche Beziehung besteht zwischen feucht- und trockenadiabatischem\nTemperaturgradienten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Der feuchtadiabatische Gradient ist geringer als der trockenadiabatische Gradient",
    "wrong":[
@@ -540,7 +589,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"50   Der trockenadiabatische Temperaturgradient betr\u00e4gt... (1,00 P.)",
+  "question_string":"50 Der trockenadiabatische Temperaturgradient betr\u00e4gt... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"1,0 \u00b0C / 100 m.",
    "wrong":[
@@ -551,7 +601,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"51   Der feuchtadiabatische Temperaturgradient ist im Mittel anzunehmen mit... (1,00 P.)",
+  "question_string":"51 Der feuchtadiabatische Temperaturgradient ist im Mittel anzunehmen mit... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"0,6 \u00b0C / 100 m.",
    "wrong":[
@@ -562,7 +613,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"52   Welche Wetterbedingungen sind bei feuchtlabiler Schichtung zu erwarten? (1,00 P.)",
+  "question_string":"52 Welche Wetterbedingungen sind bei feuchtlabiler Schichtung zu erwarten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Hochreichende Quellbew\u00f6lkung, m\u00f6glicherweise Schauer und Gewitter",
    "wrong":[
@@ -573,7 +625,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"53   Unter welchen der aufgef\u00fchrten Bedingungen kann sich Advektionsnebel bilden?\n(1,00 P.)",
+  "question_string":"53 Unter welchen der aufgef\u00fchrten Bedingungen kann sich Advektionsnebel bilden?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Warme und feuchte Luft wird \u00fcber eine kalte Landmasse gef\u00fchrt",
    "wrong":[
@@ -584,7 +637,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"54   Welche Wolkenarten werden grunds\u00e4tzlich unterschieden? (1,00 P.)",
+  "question_string":"54 Welche Wolkenarten werden grunds\u00e4tzlich unterschieden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Quell- und Schichtwolken",
    "wrong":[
@@ -595,7 +649,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"55   Welchen Namenszusatz erhalten hohe Wolken? (1,00 P.)",
+  "question_string":"55 Welchen Namenszusatz erhalten hohe Wolken? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Cirro-",
    "wrong":[
@@ -606,7 +661,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"56   Mit welcher als Ziffer 2 abgebildeten Bew\u00f6lkung muss auf der Leeseite einer\nF\u00f6hnwetterlage gerechnet werden?\nSiehe Bild (MET-001). (1,00 P.)\nSiehe Anlage 1",
+  "question_string":"56 Mit welcher als Ziffer 2 abgebildeten Bew\u00f6lkung muss auf der Leeseite einer\nF\u00f6hnwetterlage gerechnet werden?\nSiehe Bild (MET-001). (1,00 P.)\nSiehe Anlage 1",
+  "annex":"cards_2020/img/30/a1",
   "choices":{
    "correct":"Altocumulus lenticularis",
    "wrong":[
@@ -617,7 +673,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"57   Welche Wolkengattung ist auf dem Foto abgebildet?\nSiehe Bild (MET-002). (1,00 P.)\nSiehe Anlage 2",
+  "question_string":"57 Welche Wolkengattung ist auf dem Foto abgebildet?\nSiehe Bild (MET-002). (1,00 P.)\nSiehe Anlage 2",
+  "annex":"cards_2020/img/30/a2",
   "choices":{
    "correct":"Cumulus",
    "wrong":[
@@ -628,7 +685,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"58   Welche Wolkengattung ist auf dem Foto abgebildet?\nSiehe Bild (MET-004). (1,00 P.)\nSiehe Anlage 3",
+  "question_string":"58 Welche Wolkengattung ist auf dem Foto abgebildet?\nSiehe Bild (MET-004). (1,00 P.)\nSiehe Anlage 3",
+  "annex":"cards_2020/img/30/a3",
   "choices":{
    "correct":"Cirrus",
    "wrong":[
@@ -639,7 +697,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"59   Welche Faktoren k\u00f6nnen die Obergrenze einer Quellwolke beeinflussen? (1,00 P.)",
+  "question_string":"59 Welche Faktoren k\u00f6nnen die Obergrenze einer Quellwolke beeinflussen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Eine Inversionsschicht",
    "wrong":[
@@ -650,7 +709,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"60   Welche Faktoren weisen auf die Gefahr von Nebelbildung hin? (1,00 P.)",
+  "question_string":"60 Welche Faktoren weisen auf die Gefahr von Nebelbildung hin? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Kleiner Spread, fallende Temperatur",
    "wrong":[
@@ -661,7 +721,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"61   Welche Bedingung kann die Bildung von Strahlungsnebel verhindern? (1,00 P.)",
+  "question_string":"61 Welche Bedingung kann die Bildung von Strahlungsnebel verhindern? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Eine geschlossene Wolkendecke",
    "wrong":[
@@ -672,7 +733,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"62   Bei welchem Vorgang entsteht Advektionsnebel? (1,00 P.)",
+  "question_string":"62 Bei welchem Vorgang entsteht Advektionsnebel? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Warme und feuchte Luft wird \u00fcber einen kalten Untergrund gef\u00fchrt",
    "wrong":[
@@ -683,7 +745,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"63   Unter welchen Bedingungen entsteht orografischer Nebel (hill fog)? (1,00 P.)",
+  "question_string":"63 Unter welchen Bedingungen entsteht orografischer Nebel (hill fog)? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Feuchte Luft wird gezwungen, an einem H\u00fcgel oder Gebirge aufzusteigen",
    "wrong":[
@@ -694,7 +757,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"64   Welche Bedingungen sind f\u00fcr die Niederschlagsbildung in Wolken erforderlich? (1,00\nP.)",
+  "question_string":"64 Welche Bedingungen sind f\u00fcr die Niederschlagsbildung in Wolken erforderlich? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"M\u00e4\u00dfige bis starke Aufwinde.",
    "wrong":[
@@ -705,7 +769,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"65   Welches ist eine Voraussetzung f\u00fcr die Bildung gro\u00dfer Niederschlagsteilchen? (1,00\nP.)",
+  "question_string":"65 Welches ist eine Voraussetzung f\u00fcr die Bildung gro\u00dfer Niederschlagsteilchen? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Starke Aufwinde",
    "wrong":[
@@ -716,7 +781,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"66   Aus welcher der genannten Wolkengattungen f\u00e4llt anhaltender Regen (Landregen)?\n(1,00 P.)",
+  "question_string":"66 Aus welcher der genannten Wolkengattungen f\u00e4llt anhaltender Regen (Landregen)?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Nimbostratus",
    "wrong":[
@@ -727,7 +793,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"67   Welche Arten von Niederschl\u00e4gen werden hinsichtlich der Wolkengattung\nunterschieden, aus der sie fallen? (1,00 P.)",
+  "question_string":"67 Welche Arten von Niederschl\u00e4gen werden hinsichtlich der Wolkengattung\nunterschieden, aus der sie fallen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Schauer und Fl\u00e4chenniederschl\u00e4ge",
    "wrong":[
@@ -738,7 +805,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"68   Wie wird eine Luftmasse bezeichnet, die im Winter \u00fcber das russische Festland nach\nMitteleuropa einstr\u00f6mt? (1,00 P.)",
+  "question_string":"68 Wie wird eine Luftmasse bezeichnet, die im Winter \u00fcber das russische Festland nach\nMitteleuropa einstr\u00f6mt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Kontinentale Polarluft",
    "wrong":[
@@ -749,7 +817,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"69   Welche Merkmale bestimmen den Charakter einer Luftmasse? (1,00 P.)",
+  "question_string":"69 Welche Merkmale bestimmen den Charakter einer Luftmasse? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Herkunftsregion und zur\u00fcckgelegte Wegstrecke",
    "wrong":[
@@ -760,7 +829,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"70   Bei dem mit (1) bezeichneten Symbol in der Abbildung handelt es sich um eine...\nSiehe Bild (MET-005) (1,00 P.)\nSiehe Anlage 4",
+  "question_string":"70 Bei dem mit (1) bezeichneten Symbol in der Abbildung handelt es sich um eine...\nSiehe Bild (MET-005) (1,00 P.)\nSiehe Anlage 4",
+  "annex":"cards_2020/img/30/a4",
   "choices":{
    "correct":"Kaltfront.",
    "wrong":[
@@ -771,7 +841,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"71   Bei dem mit (2) bezeichneten Symbol in der Abbildung handelt es sich um eine...\nSiehe Bild (MET-005) (1,00 P.)\nSiehe Anlage 4",
+  "question_string":"71 Bei dem mit (2) bezeichneten Symbol in der Abbildung handelt es sich um eine...\nSiehe Bild (MET-005) (1,00 P.)\nSiehe Anlage 4",
+  "annex":"cards_2020/img/30/a4",
   "choices":{
    "correct":"Warmfront.",
    "wrong":[
@@ -782,7 +853,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"72   Bei dem mit (3) bezeichneten Symbol in der Abbildung handelt es sich um eine...\nSiehe Bild (MET-005) (1,00 P.)\nSiehe Anlage 4",
+  "question_string":"72 Bei dem mit (3) bezeichneten Symbol in der Abbildung handelt es sich um eine...\nSiehe Bild (MET-005) (1,00 P.)\nSiehe Anlage 4",
+  "annex":"cards_2020/img/30/a4",
   "choices":{
    "correct":"Okklusion.",
    "wrong":[
@@ -793,7 +865,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"73   Welche Abfolge von Bew\u00f6lkung ist typisch beim Durchzug einer Warmfront? (1,00 P.)",
+  "question_string":"73 Welche Abfolge von Bew\u00f6lkung ist typisch beim Durchzug einer Warmfront? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Cirren, sich verdichtende Altostratus- und Altocumulus-Bew\u00f6lkung, absinkende Untergrenzen mit einsetzendem Niederschlag, Nimbostratus",
    "wrong":[
@@ -804,7 +877,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"74   Welche Art von Bew\u00f6lkung und Niederschl\u00e4gen ist typisch bei Durchzug einer\nKaltfront? (1,00 P.)",
+  "question_string":"74 Welche Art von Bew\u00f6lkung und Niederschl\u00e4gen ist typisch bei Durchzug einer\nKaltfront? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Starke Quellbew\u00f6lkung (Cb) mit Schauern und Gewittern, b\u00f6ig auffrischender Wind, nachfolgend einzelne Quellwolken mit Schauern",
    "wrong":[
@@ -815,7 +889,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"75   Welche Sichtflugbedingungen sind im Warmsektor eines Polarfronttiefs im Sommer\nzu erwarten? (1,00 P.)",
+  "question_string":"75 Welche Sichtflugbedingungen sind im Warmsektor eines Polarfronttiefs im Sommer\nzu erwarten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"M\u00e4\u00dfige bis gute Sichten, aufgelockerte Bew\u00f6lkung",
    "wrong":[
@@ -826,7 +901,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"76   Welche Sichtflugbedingungen sind nach dem Durchzug einer Kaltfront zu erwarten?\n(1,00 P.)",
+  "question_string":"76 Welche Sichtflugbedingungen sind nach dem Durchzug einer Kaltfront zu erwarten?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Gute Sichten, Bildung von Quellwolken mit Schnee- oder Regenschauern",
    "wrong":[
@@ -837,7 +913,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"77   Wie wird eine Luftmassengrenze zwischen subtropischer Warmluft und polarer\nKaltluft bezeichnet, die keine Verlagerungsrichtung zeigt? (1,00 P.)",
+  "question_string":"77 Wie wird eine Luftmassengrenze zwischen subtropischer Warmluft und polarer\nKaltluft bezeichnet, die keine Verlagerungsrichtung zeigt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Station\u00e4re Front",
    "wrong":[
@@ -848,7 +925,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"78   In welche Richtung erfolgt die Verlagerung eines Polarfront-Tiefs \u00fcblicherweise? (1,00\nP.)",
+  "question_string":"78 In welche Richtung erfolgt die Verlagerung eines Polarfront-Tiefs \u00fcblicherweise? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"In Richtung der Warmsektor-Isobaren",
    "wrong":[
@@ -859,7 +937,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"79   Welcher Druckverlauf ist beim Durchzug eines Polarfront-Tiefs zu beobachten? (1,00\nP.)",
+  "question_string":"79 Welcher Druckverlauf ist beim Durchzug eines Polarfront-Tiefs zu beobachten? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Fallender Druck vor der Warmfront, konstanter Druck im Warmsektor, steigender Druck hinter der Kaltfront",
    "wrong":[
@@ -870,7 +949,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"80   Welcher Druckverlauf ist bei Durchzug einer Kaltfront zu beobachten? (1,00 P.)",
+  "question_string":"80 Welcher Druckverlauf ist bei Durchzug einer Kaltfront zu beobachten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Kurzer Druckfall, danach Druckanstieg",
    "wrong":[
@@ -881,7 +961,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"81   Welche \u00c4nderungen in der Windrichtung sind bei Durchzug eines Polarfont-Tiefs in\nMitteleuropa zu erwarten? (1,00 P.)",
+  "question_string":"81 Welche \u00c4nderungen in der Windrichtung sind bei Durchzug eines Polarfont-Tiefs in\nMitteleuropa zu erwarten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Rechtsdrehender Wind bei Durchzug der Warmfront, rechtsdrehender Wind bei Durchzug der Kaltfront",
    "wrong":[
@@ -892,7 +973,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"82   Wo sind ausgedehnte Hochdruckgebiete ganzj\u00e4hrig zu finden? (1,00 P.)",
+  "question_string":"82 Wo sind ausgedehnte Hochdruckgebiete ganzj\u00e4hrig zu finden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"\u00dcber ausgedehnten Ozeangebieten bei etwa 30\u00b0N/S",
    "wrong":[
@@ -903,7 +985,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"83   Welche Art von Bew\u00f6lkung ist in ausgedehnten Hochdruckgebieten im Sommer\ntypischerweise anzutreffen? (1,00 P.)",
+  "question_string":"83 Welche Art von Bew\u00f6lkung ist in ausgedehnten Hochdruckgebieten im Sommer\ntypischerweise anzutreffen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Aufgelockerte Cu Bew\u00f6lkung",
    "wrong":[
@@ -914,7 +997,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"84   Welche Druckverteilung kann sich einstellen, wenn in der H\u00f6he kalte Luft einflie\u00dft?\n(1,00 P.)",
+  "question_string":"84 Welche Druckverteilung kann sich einstellen, wenn in der H\u00f6he kalte Luft einflie\u00dft?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Ausbildung eines H\u00f6hentiefs",
    "wrong":[
@@ -925,7 +1009,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"85   Welches Wettergeschehen ist zu erwarten, wenn in der H\u00f6he kalte Luft einflie\u00dft? (1,00\nP.)",
+  "question_string":"85 Welches Wettergeschehen ist zu erwarten, wenn in der H\u00f6he kalte Luft einflie\u00dft? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Schauer und Gewitter",
    "wrong":[
@@ -936,7 +1021,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"86   Wie wirkt sich einflie\u00dfende Kaltluft auf die Form und den Abstand der Druckfl\u00e4chen\naus? (1,00 P.)",
+  "question_string":"86 Wie wirkt sich einflie\u00dfende Kaltluft auf die Form und den Abstand der Druckfl\u00e4chen\naus? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Der Abstand der Druckfl\u00e4chen wird geringer, es bildet sich eine Senke (Tief)",
    "wrong":[
@@ -947,7 +1033,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"87   Welche Wetterph\u00e4nomene sind im Bereich eines H\u00f6hentrogs zu erwarten? (1,00 P.)",
+  "question_string":"87 Welche Wetterph\u00e4nomene sind im Bereich eines H\u00f6hentrogs zu erwarten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"\u00dcberentwicklungen mit Schauern und Gewitter",
    "wrong":[
@@ -958,7 +1045,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"88   Welche globale Frontlinie trennt \u00fcber Mitteleuropa die subtropische Warmluft von\npolarer Kaltluft? (1,00 P.)",
+  "question_string":"88 Welche globale Frontlinie trennt \u00fcber Mitteleuropa die subtropische Warmluft von\npolarer Kaltluft? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Polarfront",
    "wrong":[
@@ -969,7 +1057,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"89   Welches Wetter ist in Mitteleuropa bei Hochdruckwetterlage im Sommer zu erwarten?\n(1,00 P.)",
+  "question_string":"89 Welches Wetter ist in Mitteleuropa bei Hochdruckwetterlage im Sommer zu erwarten?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wetterberuhigung und Wolkenaufl\u00f6sung, wenige hohe Cu",
    "wrong":[
@@ -980,7 +1069,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"90   Welche Druckverh\u00e4ltnisse sind in Hochdruckgebieten in Mitteleuropa im Sommer\ntypischerweise zu beobachten? (1,00 P.)",
+  "question_string":"90 Welche Druckverh\u00e4ltnisse sind in Hochdruckgebieten in Mitteleuropa im Sommer\ntypischerweise zu beobachten? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Gro\u00dfer Isobarenabstand mit schwachen Winden, Ausbildung lokaler Windsysteme",
    "wrong":[
@@ -991,7 +1081,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"91   Welches Wetter ist in Mitteleuropa bei Hochdruckwetterlage im Winter zu erwarten?\n(1,00 P.)",
+  "question_string":"91 Welches Wetter ist in Mitteleuropa bei Hochdruckwetterlage im Winter zu erwarten?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Windstille und ausgedehnte Hochnebelfelder",
    "wrong":[
@@ -1002,7 +1093,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"92   Welche Windverh\u00e4ltnisse sind im Bereich gro\u00dfer Isobarenabst\u00e4nde zu erwarten? (1,00\nP.)",
+  "question_string":"92 Welche Windverh\u00e4ltnisse sind im Bereich gro\u00dfer Isobarenabst\u00e4nde zu erwarten? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Umlaufende Winde, Ausbildung lokaler Windsysteme",
    "wrong":[
@@ -1013,7 +1105,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"93   Welche Wetterverh\u00e4ltnisse sind bei F\u00f6hnwetterlage auf der Stauseite zu erwarten?\n(1,00 P.)",
+  "question_string":"93 Welche Wetterverh\u00e4ltnisse sind bei F\u00f6hnwetterlage auf der Stauseite zu erwarten?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Hochreichende aufliegende Bew\u00f6lkung, schlechte Sichten, m\u00e4\u00dfiger bis starker Niederschlag",
    "wrong":[
@@ -1024,7 +1117,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"94   Welcher Wind erf\u00e4hrt eine Verst\u00e4rkung, weil sein Str\u00f6mungsbereich durch Gebirge\nverengt wird? (1,00 P.)",
+  "question_string":"94 Welcher Wind erf\u00e4hrt eine Verst\u00e4rkung, weil sein Str\u00f6mungsbereich durch Gebirge\nverengt wird? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Mistral",
    "wrong":[
@@ -1035,7 +1129,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"95   Wie wird der kalte Fallwind bezeichnet, der aus nord\u00f6stlicher Richtung in die Adria\nstr\u00f6mt? (1,00 P.)",
+  "question_string":"95 Wie wird der kalte Fallwind bezeichnet, der aus nord\u00f6stlicher Richtung in die Adria\nstr\u00f6mt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bora",
    "wrong":[
@@ -1046,7 +1141,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"96   Unter welchen Bedingungen ist am ehesten mit Vereisung zu rechnen? (1,00 P.)",
+  "question_string":"96 Unter welchen Bedingungen ist am ehesten mit Vereisung zu rechnen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Temperaturen zwischen 0 \u00b0C und -12 \u00b0C, Vorhandensein von unterk\u00fchlten Wassertr\u00f6pfchen (Wolken)",
    "wrong":[
@@ -1057,7 +1153,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"97   Welcher Temperaturbereich ist in Bezug auf Luftfahrzeugvereisung besonders\ngef\u00e4hrlich? (1,00 P.)",
+  "question_string":"97 Welcher Temperaturbereich ist in Bezug auf Luftfahrzeugvereisung besonders\ngef\u00e4hrlich? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"0 \u00b0C bis -12 \u00b0C",
    "wrong":[
@@ -1068,7 +1165,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"98   Welche Art von Eisansatz bildet sich, wenn sehr kleine Wassertr\u00f6pfchen und\nEisteilchen auf die Stirnfl\u00e4chen eines Luftfahrzeuges treffen? (1,00 P.)",
+  "question_string":"98  Welche Art von Eisansatz bildet sich, wenn sehr kleine Wassertr\u00f6pfchen und\nEisteilchen auf die Stirnfl\u00e4chen eines Luftfahrzeuges treffen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Raueis",
    "wrong":[
@@ -1079,7 +1177,8 @@ var Meteorologie_q = [
   }
  },
  {
-  "question_string":"99   Welche Art von Eisansatz bildet sich, wenn gro\u00dfe, unterk\u00fchlte Wassertropfen auf die\nStirnfl\u00e4chen eines Luftfahrzeuges treffen? (1,00 P.)",
+  "question_string":"99  Welche Art von Eisansatz bildet sich, wenn gro\u00dfe, unterk\u00fchlte Wassertropfen auf die\nStirnfl\u00e4chen eines Luftfahrzeuges treffen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Klareis",
    "wrong":[
@@ -1091,6 +1190,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"100 In welcher Situation ist mit einer starken Windscherung zu rechnen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wenn ein Schauer in der N\u00e4he des Platzes zu sehen ist",
    "wrong":[
@@ -1102,6 +1202,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"101 Welche Bedingungen bieten die Voraussetzung f\u00fcr die Entstehung von Gewittern?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Warme und feuchte Luft, feuchtlabile Schichtung",
    "wrong":[
@@ -1113,6 +1214,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"102 Die Voraussetzungen f\u00fcr die Bildung von W\u00e4rmegewittern sind... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"feuchtlabile Schichtung, hohe Temperatur und hohe Luftfeuchtigkeit.",
    "wrong":[
@@ -1124,6 +1226,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"103 In welcher Entwicklungsstufe eines Gewitters ist mit sehr starken Auf- und Abwinden\nzu rechnen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Reifestadium",
    "wrong":[
@@ -1135,6 +1238,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"104 In welchem Stadium eines Gewitters sind \u00fcberwiegend Aufwinde anzutreffen? (1,00\nP.)",
+  "annex":"",
   "choices":{
    "correct":"Aufbaustadium",
    "wrong":[
@@ -1146,6 +1250,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"105 Welches ist die gr\u00f6\u00dfte Gefahr, die von einem Blitzschlag im Luftfahrzeug ausgeht?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"\u00dcberhitzung und Sch\u00e4den an Oberfl\u00e4chen von exponierten Teilen",
    "wrong":[
@@ -1157,6 +1262,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"106 In welcher Situation ist mit starken Abwinden und einer ausgepr\u00e4gten Windscherung\nin Bodenn\u00e4he zu rechnen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Im Niederschlagsbereich von starken Schauern oder Gewittern",
    "wrong":[
@@ -1168,6 +1274,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"107 Welches Ph\u00e4nomen entsteht bei einem Gewitter dadurch, dass mit dem Niederschlag\nein Schwall kalter Luft aus der Wolke herausst\u00fcrzt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Die B\u00f6enwalze",
    "wrong":[
@@ -1179,6 +1286,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"108 Welche Gefahren bestehen beim Start aus einer Bodeninversion? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Beim Steigflug ist mit pl\u00f6tzlich abnehmender Steigrate und Fahrt zu rechnen",
    "wrong":[
@@ -1190,6 +1298,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"109 Welche Gefahr besteht beim Anflug auf einen im Tal gelegenen Flugplatz, wenn \u00fcber\ndem Tal eine starke Windstr\u00f6mung rechtwinklig zu den Bergh\u00e4ngen besteht? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Windscherung im Anflug, \u00c4nderung der Windrichtung um bis zu 180\u00b0",
    "wrong":[
@@ -1201,6 +1310,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"110 Welche Art der Sichtverschlechterung ist weitgehend unabh\u00e4ngig von Temperatur-\n\u00c4nderungen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Trockener Dunst (HZ)",
    "wrong":[
@@ -1212,6 +1322,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"111 In welcher Wetterkarte sind Informationen \u00fcber den Luftdruck und den Frontenverlauf\nam Boden zu entnehmen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bodenwetterkarte",
    "wrong":[
@@ -1223,6 +1334,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"112 Auf welcher Wetterkarte sind die aktuellen auf MSL g\u00fcltigen Druckwerte mit\nDruckzentren und Fronten dargestellt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bodenwetterkarte",
    "wrong":[
@@ -1234,6 +1346,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"113 Welche Informationen k\u00f6nnen aus Satelliten-Bildern entnommen werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"\u00dcberlick \u00fcber Bew\u00f6lkungsfelder und Frontenverlauf",
    "wrong":[
@@ -1245,6 +1358,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"114 In welcher Darstellung sind Niederschlagsbereiche zu erkennen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Radarbild",
    "wrong":[
@@ -1256,6 +1370,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"115 Welche Information ist NICHT auf einer Low Level Significant Weather Chart (LLSWC)\nzu finden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Radarechos von Niederschlag",
    "wrong":[
@@ -1267,6 +1382,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"116 Die gemessenen Druckverh\u00e4ltnisse f\u00fcr MSL und die zugeh\u00f6rigen Frontensysteme\nwerden dargestellt in der... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Bodenwetterkarte.",
    "wrong":[
@@ -1278,6 +1394,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"117 Durch welche Meldungsgruppe wird starker Dauerregen in einem METAR benannt?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"+RA",
    "wrong":[
@@ -1289,6 +1406,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"118 Durch welche Meldungsgruppe wird ein m\u00e4\u00dfiger Regenschauer in einem METAR\nbenannt? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"SHRA",
    "wrong":[
@@ -1300,6 +1418,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"119 Welche Information ist in der ATIS enthalten, nicht aber in einem METAR? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Operationelle Informationen, z.B. aktive Landebahn und Transition Level",
    "wrong":[
@@ -1311,6 +1430,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"120 Welcher per Funk zu empfangenen Meldung k\u00f6nnen Informationen \u00fcber das\nLandewetter und Betriebsbedingungen am Zielflughafen entnommen werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"ATIS",
    "wrong":[
@@ -1322,6 +1442,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"121 F\u00fcr welche Bereiche werden Warnungen als SIGMET herausgegeben? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"F\u00fcr eine FIR / UIR",
    "wrong":[
@@ -1333,6 +1454,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"122 Als Inversion bezeichnet man eine Schicht ... (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"in der die Temperatur mit der H\u00f6he zunimmt.",
    "wrong":[
@@ -1344,6 +1466,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"123 Was kann f\u00fcr den vorherrschenden Wind erwartet werden, wenn auf einer\nBodenwetterkarte die Isobaren weit auseinander liegen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Geringe Druckunterschiede und damit ein geringer vorherrschender Wind",
    "wrong":[
@@ -1355,6 +1478,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"124 Was wird als Bergwind bezeichnet? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Wind, der nachts vom Berg (Hang) kommend, ins Tal nach unten str\u00f6mt",
    "wrong":[
@@ -1366,6 +1490,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"125 Wann ist mit R\u00fcckenseitenwetter zu rechnen? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Nach Durchzug einer Kaltfront",
    "wrong":[
@@ -1377,6 +1502,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"126 Was bedeutet die Windangabe 225/15 ? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"S\u00fcdwestwind mit 15 kt",
    "wrong":[
@@ -1388,6 +1514,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"127 Wie \u00e4ndert sich die Lufttemperatur in der ISA-Standardatmosph\u00e4re von MSL bis auf\nca. 10.000 m H\u00f6he? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"von +15\u00b0 auf -50\u00b0C",
    "wrong":[
@@ -1399,6 +1526,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"128 Was trifft f\u00fcr die Wetterlage zu, wenn im bayrischen Voralpenland F\u00f6hn herrscht?\n(1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Staubew\u00f6lkung an der Alpens\u00fcdseite, Rotoren an der Leeseite, warmer und trockener Wind",
    "wrong":[
@@ -1410,6 +1538,7 @@ var Meteorologie_q = [
  },
  {
   "question_string":"129 Wie kann Hangaufwind verst\u00e4rkt werden? (1,00 P.)",
+  "annex":"",
   "choices":{
    "correct":"Durch Sonneneinstrahlung auf der Luv-Seite",
    "wrong":[
