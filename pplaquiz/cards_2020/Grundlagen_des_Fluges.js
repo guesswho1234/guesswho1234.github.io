@@ -422,7 +422,7 @@ var Grundlagen_des_Fluges_q = [
  },
  {
   "question_string":"36 Welche Kurve stellt den induzierten Widerstand dar?\nSiehe Bild (PFA-011). (1,00 P.)",
-  "annex":"cards_2020/img/51/i_1",
+  "annex":"cards_2020/img/51/i1",
   "choices":{
    "correct":"1",
    "wrong":[

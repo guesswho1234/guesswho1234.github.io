@@ -283,7 +283,6 @@ Question.prototype.render = function(container) {
 	$("#annexFile").remove();
 	if (this.annex != "") {
 		$("#annex").show();
-		console.log('<img id="annexFile" src="' + this.annex + '.jpg" />');
 		var e = $('<img id="annexFile" src="' + this.annex + '.jpg" />');
 		$("#annexData").append(e);
 	} else {
