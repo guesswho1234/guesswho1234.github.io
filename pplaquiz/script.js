@@ -280,11 +280,13 @@ Question.prototype.render = function(container) {
 	});
 	
 	// Show annex button if an annex is available for the current question
-	$("#annexFile").remove();
+	$(".annexFile").remove();
 	if (this.annex != "") {
 		$("#annex").show();
-		var e = $('<img id="annexFile" src="' + this.annex + '.jpg" />');
-		$("#annexData").append(e);
+		console.log(this.annex.length);
+		for (var i = 0; i < this.annex.length; i++) {
+			let e = $('<img class="annexFile" src="' + this.annex[i] + '.jpg" />');
+		}
 	} else {
 		$("#annex").hide();
 	}
