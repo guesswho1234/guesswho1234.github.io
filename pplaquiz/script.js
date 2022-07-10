@@ -28,9 +28,14 @@ document.onkeydown = function(evt) {
 				break;
 			case 27:
 				closePopup();
+				$("#navigation").find("ul").removeClass("showDrowdown");
 				break;
 		}
 };
+
+$("#navigation").click(function() {
+	$("#navigation").find("ul").toggleClass("showDrowdown");
+});	
 
 closePopup = function() {
 	let divsToHide = document.getElementsByClassName("popupContainer");
@@ -235,6 +240,8 @@ Question.prototype.render = function(container) {
 	var question_string_h2;
 	if (container.children('h2').length === 0) {
 		question_string_h2 = $('<h2>').appendTo(container);
+		
+		
 	} else {
 		question_string_h2 = container.children('h2').first();
 	}
@@ -280,13 +287,11 @@ Question.prototype.render = function(container) {
 	});
 	
 	// Show annex button if an annex is available for the current question
-	$(".annexFile").remove();
+	$("#annexFile").remove();
 	if (this.annex != "") {
 		$("#annex").show();
-		console.log(this.annex.length);
-		for (var i = 0; i < this.annex.length; i++) {
-			let e = $('<img class="annexFile" src="' + this.annex[i] + '.jpg" />');
-		}
+		let e = $('<img id="annexFile" src="' + this.annex + '.jpg" />');
+		e.appendTo("#annexData");
 	} else {
 		$("#annex").hide();
 	}

@@ -5,11 +5,15 @@
 }
 
 #overview a {
-	padding: 8px 16px;
+	padding: 4px 8px;
 	text-decoration: none;
 	border-radius: 5px;
 	border: 2px solid rgb(0, 102, 204);
 	margin: 20px;
+}
+
+#current {
+	font-size: 40px;
 }
 
 #overview a:hover {
@@ -17,13 +21,47 @@
 	color: white;
 }
 
+#navigation {
+	position: relative;
+	display: flex;
+	place-content: center;
+	width: 300px;
+	margin: auto;
+	cursor: pointer;
+}
+
+#navigation span {
+	padding: 8px 0px;
+	text-decoration: none;
+	border-radius: 5px;
+	width: 100%;
+	border: 2px solid #404040;
+	color: #404040;
+}
+
+#navigation span:hover {
+	background: #404040;
+	color: white;
+}
+
 ul {
+	top: 50px;
+	display: none;
+	position: absolute;
+	background-color: #f9f9f9;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	padding: 12px 16px;
+	z-index: 1;
 	margin: auto;
 	padding: 0;
 	background-color: #ccc;
 	border-radius: 5px;
 	justify-content: center;
-	width: min-content;
+	width: 100%;
+}
+
+#navigation .showDrowdown {
+	display: block;
 }
 
 li {
@@ -108,7 +146,6 @@ body {
 
 #question {
 	padding: 20px;
-	background: #fff;
 	text-align: center;
 	width: 90vw;
 }
@@ -154,7 +191,6 @@ body {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	background: #FAFAFA;
 }
 
 #quiz-results-message {
@@ -247,10 +283,11 @@ body {
 	padding: 8px 16px;
 	text-decoration: none;
 	border-radius: 5px;
-	border: 2px solid #ccc;
+	border: 2px solid #404040;
 	margin: 20px;
 	cursor: pointer;
 	background: #fff;
+	color: #404040;
 }
 
 #annex input:hover {
