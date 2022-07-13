@@ -290,7 +290,7 @@ Question.prototype.render = function(container) {
 	$("#annexFile").remove();
 	if (this.annex != "") {
 		$("#annex").show();
-		let e = $('<img id="annexFile" src="' + this.annex + '.jpg" />');
+		let e = $('<img id="annexFile" src="' + this.annex + '.png" />');
 		e.appendTo("#annexData");
 	} else {
 		$("#annex").hide();
